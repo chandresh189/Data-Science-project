@@ -1,261 +1,261 @@
-_NAME_,_PRICE_,_CUSINE_CATEGORY_,_CITY_,_REGION_,_URL_,_PAGE_NO_,_CUSINE_TYPE_,_TIMING_,_RATING_TYPE_,_RATING_,_VOTES_
-"""Gangaur Pizza Point""","""600""","""Fast Food,Pizza""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/gangaur-pizza-point-ana-sagar-lake/info""","""1""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Good""","""3.9""","""373"""
-"""Mango Masala Restaurant""","""600""","""Continental,Beverages,South Indian,Fast Food,Italian,North Indian,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/mango-masala-restaurant-ana-sagar-lake/info""","""1""","""Casual Dining""","""9am to 11pm(Mon-Sun)""","""Very Good""","""4.1""","""593"""
-"""Rasoi""","""800""","""North Indian,South Indian,Continental,Italian,Chinese,Beverages""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/rasoi-ana-sagar-lake/info""","""1""","""Casual Dining""","""9am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""468"""
-"""Bansi Wala""","""150""","""Beverages,Fast Food,North Indian,Chinese,Rajasthani""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/bansi-wala-railway-quarters/info""","""1""","""Quick Bites""","""12noon to 12midnight(Mon-Sun)""","""Good""","""3.8""","""165"""
-"""The Burger Street""","""650""","""Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/the-burger-street-ana-sagar-lake/info""","""1""","""Quick Bites""","""10am to 1130pm(Mon-Sun)""","""Good""","""3.7""","""216"""
-"""Domino's Pizza""","""400""","""Fast Food,Pizza""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/dominos-pizza-ana-sagar-lake/info""","""1""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""258"""
-"""7 Spices""","""500""","""North Indian,Roast Chicken,BBQ,Mughlai,Charcoal Chicken,Kebab""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/7-spices-dhola-bhata-colony/info""","""1""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""115"""
-"""Mahadev Ka Dhaba""","""250""","""North Indian,Rajasthani""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/mahadev-ka-dhaba-panchsheel-nagar/info""","""1""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.8""","""175"""
-"""WTF What's The Food""","""100""","""Fast Food,North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/wtf-whats-the-food-ana-sagar-lake/info""","""1""","""Quick Bites""","""12noon to 11pm(Mon-Sun)""","""Good""","""3.5""","""103"""
-"""Foodies""","""150""","""Chinese""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/foodies-adarsh-nagar/info""","""1""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Average""","""3.4""","""81"""
-"""Roll Street""","""200""","""Rolls""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/roll-street-ana-sagar-lake/info""","""1""","""Quick Bites""","""9am to 1130pm(Mon-Sun)""","""Good""","""3.8""","""115"""
-"""Guddan Ka Dhaba""","""300""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/guddan-ka-dhaba-ana-sagar-lake/info""","""1""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""119"""
-"""Mango Curry""","""1000""","""South Indian,Fast Food,Italian,North Indian,Chinese,BBQ,Kebab""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/mango-curry-ana-sagar-lake/info""","""1""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""263"""
-"""Inbox""","""250""","""Thai,Mexican,Italian""","""Ajmer""","""Pal Bhichala""","""https://www.zomato.com/ajmer/inbox-pal-bhichala/info""","""1""","""Café""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""57"""
-"""Burger King""","""500""","""Burger,Fast Food""","""Ajmer""","""City Square Mall-- Panchsheel Nagar""","""https://www.zomato.com/ajmer/burger-king-panchsheel-nagar/info""","""1""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""73"""
-"""Royal Bakers""","""200""","""Bakery""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/royal-bakers-ana-sagar-lake/info""","""10""","""Bakery""","""1030am to 1030pm(Mon-Sun)""","""Good""","""3.7""","""27"""
-"""Masala Basket""","""250""","""Beverages,Desserts,North Indian,Chinese,Rajasthani""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/masala-basket-railway-quarters/info""","""10""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""29"""
-"""Daurani Jethani Ki Rasoi""","""250""","""Fast Food,Sandwich,Pizza,North Indian,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/daurani-jethani-ki-rasoi-ana-sagar-lake/info""","""10""","""Quick Bites""","""530pm to 11pm(Mon-Sun)""","""Average""","""3.4""","""38"""
-"""Simple Lounge & Family Restaurant""","""300""","""Fast Food,North Indian""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/simple-lounge-family-restaurant-adarsh-nagar/info""","""10""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""38"""
-"""Thakurani Da Dhaba""","""350""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/thakurani-da-dhaba-ana-sagar-lake/info""","""10""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Good""","""3.5""","""23"""
-"""Meet Heights""","""500""","""Fast Food""","""Ajmer""","""Hathi Khera""","""https://www.zomato.com/ajmer/meet-heights-hathi-khera/info""","""10""","""Quick Bites""","""930am to 1130pm(Mon-Sun)""","""Average""","""3.3""","""15"""
-"""The Big Bunny""","""300""","""North Indian""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/the-big-bunny-adarsh-nagar/info""","""10""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""32"""
-"""baawarchi brothers""","""350""","""Rajasthani,Biryani,Sandwich,Fast Food,Beverages,Burger""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/baawarchi-brothers-ana-sagar-lake/info""","""10""","""Casual Dining""","""10am to 11pm(Mon-Sun)""","""Good""","""3.7""","""24"""
-"""Bhola Restaurant""","""200""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/bhola-restaurant-ana-sagar-lake/info""","""10""","""Quick Bites""","""10am to 1045pm(Mon-Sun)""","""Average""","""3.4""","""20"""
-"""TRM Restaurant""","""400""","""Fast Food,Desserts,Italian,North Indian,Chinese,Rajasthani""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/trm-restaurant-ana-sagar-lake/info""","""10""","""Casual Dining""","""7am to 11pm(Mon-Sun)""","""Average""","""3.4""","""24"""
-"""The Country & Town Cafe""","""550""","""Ice Cream,Chinese,Cafe,Sandwich,Fast Food,Beverages,Coffee,Desserts""","""Ajmer""","""Kundan Nagar""","""https://www.zomato.com/ajmer/the-country-town-cafe-kundan-nagar/info""","""10""","""Café""","""12noon to 11pm(Mon-Sun)""","""Average""","""3.4""","""27"""
-"""Mamta Sweets  and bakes""","""200""","""South Indian,Fast Food,Desserts,Chinese,Bakery,Mithai""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/mamta-sweets-and-bakes-kotra/info""","""10""","""Quick Bites""","""7am to 1030pm(Mon-Sun)""","""Average""","""3.4""","""32"""
-"""The Barrack""","""400""","""North Indian""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/the-barrack-adarsh-nagar/info""","""10""","""Casual Dining""","""9am to 11pm(Mon-Sun)""","""Average""","""3.1""","""22"""
-"""Laltain Restaurant""","""400""","""North Indian,Chinese""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/laltain-restaurant-kotra/info""","""10""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""23"""
-"""The Belgian Waffle Co""","""300""","""Ice Cream,Coffee,Desserts""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/the-belgian-waffle-co-panchsheel-nagar/info""","""10""","""Dessert Parlor""","""12noon to 1130pm(Mon-Sun)""","""Good""","""3.5""","""31"""
-"""Cafe Coffee Time""","""250""","""BBQ,Chinese,Cafe,Roast Chicken,Beverages,North Indian,Burger,Pizza""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/cafe-coffee-time-ana-sagar-lake/info""","""11""","""Café""","""11am to 1030pm(Mon-Sun)""","""Good""","""3.5""","""17"""
-"""Night Owl""","""150""","""Mexican,Beverages,Fast Food,Desserts,Sandwich,Pizza,Bakery,Coffee""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/night-owl-panchsheel-nagar/info""","""11""","""none""","""5pm to 5am(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Chat Chatore""","""250""","""Street Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/chat-chatore-ana-sagar-lake/info""","""11""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""21"""
-"""Chicken King""","""200""","""North Indian""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/chicken-king-railway-quarters/info""","""11""","""Quick Bites""","""5pm to 1130pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Mamta Sweets And Bakes""","""100""","""Mithai,Bakery,Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/mamta-sweets-and-bakes-ana-sagar-lake/info""","""11""","""Sweet Shop""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""17"""
-"""Shiv Shankar Bakery""","""100""","""Bakery,Fast Food""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/shiv-shankar-bakery-adarsh-nagar/info""","""11""","""Bakery""","""8am to 11pm(Mon-Sun)""","""Average""","""3.3""","""11"""
-"""yummy Food Corner""","""400""","""Fast Food,North Indian""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/yummy-food-corner-1-adarsh-nagar/info""","""11""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Average""","""3.3""","""19"""
-"""Northern Tadka""","""200""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/northern-tadka-ana-sagar-lake/info""","""11""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Royal Spice""","""600""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/royal-spice-ana-sagar-lake/info""","""11""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""29"""
-"""Swami Foods & Bakers""","""300""","""Bakery""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/swami-foods-bakers-ana-sagar-lake/info""","""11""","""Bakery""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""17"""
-"""Cafe Cave""","""350""","""Cafe""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/cafe-cave-kotra/info""","""11""","""Café""","""10am to 11pm(Mon-Sun)""","""Average""","""3.3""","""29"""
-"""Hotel Star and Restaurant""","""300""","""Street Food,Tea,Beverages,North Indian,Chinese,Salad,Coffee""","""Ajmer""","""Boraj Kazipura""","""https://www.zomato.com/ajmer/hotel-star-and-restaurant-boraj-kazipura/info""","""11""","""Quick Bites""","""7am to 2am(Mon-Sun)""","""Good""","""3.6""","""16"""
-"""Kha lo (Non -Veg)""","""150""","""Fast Food,North Indian,Chinese,Mughlai""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/kha-lo-non-veg-ana-sagar-lake/info""","""11""","""Quick Bites""","""3pm to 11pm(Mon-Sun)""","""Average""","""3.4""","""23"""
-"""Annapurna Veg Restaurant""","""250""","""North Indian""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/annapurna-veg-restaurant-dhola-bhata-colony/info""","""11""","""Quick Bites""","""7am to 12midnight(Mon-Sun)""","""Average""","""3.4""","""17"""
-"""Swad Restaurant""","""500""","""North Indian,Chinese""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/swad-restaurant-railway-quarters/info""","""11""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""18"""
-"""The London Shakes""","""300""","""Beverages,Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/the-london-shakes-1-ana-sagar-lake/info""","""12""","""Quick Bites""","""1130am to 1030pm(Mon-Sun)""","""Good""","""3.5""","""21"""
-"""L R Venus Cafe""","""250""","""Fast Food""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/l-r-venus-cafe-dhola-bhata-colony/info""","""12""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""9"""
-"""Sada Adda""","""200""","""Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/sada-adda-ana-sagar-lake/info""","""12""","""Quick Bites""","""11am to 12midnight(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""7th Heaven""","""250""","""North Indian,Desserts,Burger""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/7th-heaven-ana-sagar-lake/info""","""12""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Average""","""3.3""","""11"""
-"""Jai Hind Restaurant""","""300""","""South Indian,Chinese""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/jai-hind-restaurant-railway-quarters/info""","""12""","""Quick Bites""","""8am to 11pm(Mon-Sun)""","""Average""","""3.4""","""20"""
-"""Maharaja's Restaurant""","""300""","""North Indian""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/maharajas-restaurant-adarsh-nagar/info""","""12""","""Quick Bites""","""1030am to 1030pm(Mon-Sun)""","""Average""","""3.3""","""16"""
-"""Hotel Anurag""","""250""","""Fast Food,Cafe,Desserts,Sandwich,North Indian,Chinese,Ice Cream""","""Ajmer""","""Pal Bhichala""","""https://www.zomato.com/ajmer/hotel-anurag-pal-bhichala/info""","""12""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Average""","""3.3""","""12"""
-"""Royal Bakers""","""200""","""Bakery""","""Ajmer""","""Ram Ganj""","""https://www.zomato.com/ajmer/royal-bakers-ram-ganj/info""","""12""","""Bakery""","""1030am to 1030pm(Mon-Sun)""","""Average""","""3.3""","""16"""
-"""Chat Chatore""","""100""","""Fast Food""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/chat-chatore-panchsheel-nagar/info""","""12""","""Quick Bites""","""1130am to 11pm(Mon-Sun)""","""Average""","""3.3""","""19"""
-"""Foodways""","""150""","""Fast Food,North Indian,Chinese,Mughlai,Rolls""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/foodways-kotra/info""","""12""","""Café""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""13"""
-"""Mamta Cake and Bakes""","""300""","""Bakery""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/mamta-cake-and-bakes-railway-quarters/info""","""12""","""Bakery""","""930am to 1030pm(Mon-Sun)""","""Average""","""3.2""","""17"""
-"""Baskin Robbins""","""300""","""Ice Cream""","""Ajmer""","""Pal Bhichala""","""https://www.zomato.com/ajmer/baskin-robbins-pal-bhichala/info""","""12""","""Dessert Parlor""","""12noon to 11pm(Mon-Sun)""","""Average""","""3.3""","""9"""
-"""Kesar Sweets""","""250""","""Beverages,Fast Food,Desserts,Bakery,Mithai""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/kesar-sweets-kotra/info""","""12""","""Dessert Parlor""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""10"""
-"""Burger Express""","""200""","""Burger,Momos,Roast Chicken,BBQ,Afghan""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/burger-express-ana-sagar-lake/info""","""12""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""15"""
-"""Mamta Cakes & Bakes""","""400""","""Fast Food,Bakery""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/mamta-cakes-bakes-panchsheel-nagar/info""","""12""","""Bakery""","""930am to 1030pm(Mon-Sun)""","""Good""","""3.5""","""15"""
-"""Mamta Cakes & Bakes""","""400""","""Fast Food,Bakery""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/mamta-cakes-bakes-panchsheel-nagar/info""","""13""","""Bakery""","""930am to 1030pm(Mon-Sun)""","""Good""","""3.5""","""15"""
-"""Fun N Food Restaurant""","""500""","""South Indian,Fast Food,Desserts,Italian,North Indian,Chinese""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/fun-n-food-restaurant-dhola-bhata-colony/info""","""13""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""10"""
-"""Lazeez Chick-n-Serve""","""200""","""Biryani,Charcoal Chicken,Mughlai,North Indian""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/lazeez-chick-n-serve-panchsheel-nagar/info""","""13""","""Quick Bites""","""12noon to 12midnight(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""The Curry & Spices""","""300""","""North Indian""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/the-curry-spices-panchsheel-nagar/info""","""13""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""20"""
-"""Elite Family Restaurant""","""750""","""North Indian,Pizza,South Indian""","""Ajmer""","""Boraj Kazipura""","""https://www.zomato.com/ajmer/elite-family-restaurant-boraj-kazipura/info""","""13""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""5"""
-"""Hotel Cross Lane""","""1500""","""North Indian,Continental""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/hotel-cross-lane-ana-sagar-lake/info""","""13""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""10"""
-"""Un-Curry By Data Inn""","""700""","""Biryani,North Indian,Afghan""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/un-curry-by-data-inn-dhola-bhata-colony/info""","""13""","""Casual Dining""","""7am to 11pm(Mon-Sun)""","""Average""","""3.2""","""10"""
-"""Arihant Chaat And Sweets""","""150""","""Desserts,Fast Food""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/arihant-chaat-and-sweets-kotra/info""","""13""","""Quick Bites""","""6am to 1030pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Dana Pani Kebab Restaurant""","""250""","""North Indian""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/dana-pani-kebab-restaurant-railway-quarters/info""","""13""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""4"""
-"""Fusion""","""450""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/fusion-ana-sagar-lake/info""","""13""","""Quick Bites""","""11am to 1030pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""The Kebab Village By New Majestic""","""250""","""North Indian""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/the-kebab-village-by-new-majestic-railway-quarters/info""","""13""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Average""","""3.3""","""8"""
-"""Surya Shakti Bhojanalaya""","""200""","""North Indian""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/surya-shakti-bhojanalaya-railway-quarters/info""","""13""","""Quick Bites""","""10am to 12midnight(Mon-Sun)""","""Good""","""3.5""","""8"""
-"""Vaishnav Dhaba""","""150""","""North Indian""","""Ajmer""","""Pal Bhichala""","""https://www.zomato.com/ajmer/vaishnav-dhaba-pal-bhichala/info""","""13""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Average""","""3.2""","""8"""
-"""Real Chinese""","""200""","""Fast Food""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/real-chinese-kotra/info""","""13""","""Quick Bites""","""4pm to 11pm(Mon-Sun)""","""Average""","""3.3""","""8"""
-"""Raj Thali""","""150""","""North Indian""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/raj-thali-adarsh-nagar/info""","""13""","""Quick Bites""","""8am to 11pm(Mon-Sun)""","""Average""","""3.2""","""22"""
-"""Mamta Misthan Bhandar""","""300""","""Fast Food,Desserts,Bakery,Mithai""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/mamta-misthan-bhandar-ana-sagar-lake/info""","""14""","""Sweet Shop""","""7am to 1030pm(Mon-Sun)""","""Average""","""3.3""","""10"""
-"""Madras Cafe""","""150""","""South Indian""","""Ajmer""","""Pal Bhichala""","""https://www.zomato.com/ajmer/madras-cafe-pal-bhichala/info""","""14""","""Café""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Manoj Fast Food""","""300""","""Fast Food,North Indian""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/manoj-fast-food-adarsh-nagar/info""","""14""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""5"""
-"""Mamta Bakes Pvt Ltd""","""100""","""Bakery,Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/mamta-bakes-pvt-ltd-ana-sagar-lake/info""","""14""","""Bakery""","""930am to 1030pm(Mon-Sun)""","""Average""","""3.2""","""14"""
-"""Hoko Fast Food Corner""","""150""","""Chinese,Fast Food,Pizza,Burger,Sandwich,Beverages""","""Ajmer""","""Pal Bhichala""","""https://www.zomato.com/ajmer/hoko-fast-food-corner-pal-bhichala/info""","""14""","""Quick Bites""","""1130am to 1030pm(Mon-Sun)""","""Average""","""3.3""","""4"""
-"""Beans Restaurant""","""600""","""North Indian,Chinese,Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/beans-restaurant-ana-sagar-lake/info""","""14""","""Casual Dining""","""24""","""Not rated""","""-""","""-"""
-"""The Roll Junction""","""200""","""Rolls,Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/the-roll-junction-ana-sagar-lake/info""","""14""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""5"""
-"""Foody Cart""","""300""","""North Indian,Fast Food""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/foody-cart-dhola-bhata-colony/info""","""14""","""none""","""1pm to 11pm(Mon-Sun)""","""Average""","""3.2""","""6"""
-"""Deepak Restaurant""","""400""","""Fast Food,North Indian,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/deepak-restaurant-ana-sagar-lake/info""","""14""","""Quick Bites""","""8am to 12midnight(Mon-Sun)""","""Average""","""3.2""","""9"""
-"""Vaishnav Chaat Bhandar""","""100""","""Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/vaishnav-chaat-bhandar-ana-sagar-lake/info""","""14""","""Quick Bites""","""3pm to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Chatkaraa""","""300""","""North Indian""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/chatkaraa-adarsh-nagar/info""","""14""","""Quick Bites""","""6pm to 1030pm(Mon-Sun)""","""Average""","""3.2""","""6"""
-"""Mast Mahadev Dhaba""","""200""","""North Indian""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/mast-mahadev-dhaba-adarsh-nagar/info""","""14""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""16"""
-"""Kitchen Magic""","""400""","""Fast Food""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/kitchen-magic-dhola-bhata-colony/info""","""14""","""none""","""1130am to 1030pm(Mon,Wed,Thu,Fri,Sat,Sun)...""","""Average""","""3.2""","""7"""
-"""Samy Restaurant""","""150""","""Fast Food,North Indian,Chinese,Rolls""","""Ajmer""","""Pal Bhichala""","""https://www.zomato.com/ajmer/samy-restaurant-pal-bhichala/info""","""14""","""Quick Bites""","""930am to 11pm(Mon-Sun)""","""Average""","""3.3""","""6"""
-"""Courtyard Kitchen""","""1000""","""North Indian,Chinese""","""Ajmer""","""Police Lines""","""https://www.zomato.com/ajmer/courtyard-kitchen-police-lines/info""","""14""","""Casual Dining""","""7am to 11pm(Mon-Sun)""","""Average""","""3.2""","""7"""
-"""India Pan""","""100""","""Paan""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/india-pan-ana-sagar-lake/info""","""15""","""Paan Shop""","""11am to 12midnight(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Sunrise Bakers""","""150""","""Bakery,Desserts""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/sunrise-bakers-ana-sagar-lake/info""","""15""","""Bakery""","""9am to 1030pm(Mon-Sun)""","""Average""","""3.4""","""4"""
-"""Down Town Cafe & Restaurant""","""700""","""North Indian,Chinese""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/down-town-cafe-restaurant-adarsh-nagar/info""","""15""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Arora's  Mobile Restaurant""","""400""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/aroras-mobile-restaurant-ana-sagar-lake/info""","""15""","""Quick Bites""","""1130am to 11pm(Mon-Sun)""","""Average""","""3.2""","""12"""
-"""Gullu Di Bhatti""","""250""","""North Indian,Chinese,Afghan,Kebab""","""Ajmer""","""Kundan Nagar""","""https://www.zomato.com/ajmer/gullu-di-bhatti-kundan-nagar/info""","""15""","""none""","""10am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Vaishali Restaurant""","""150""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/vaishali-restaurant-ana-sagar-lake/info""","""15""","""Quick Bites""","""12noon to 1130pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Lemon Balm""","""200""","""North Indian""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/lemon-balm-2-panchsheel-nagar/info""","""15""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""6"""
-"""KC Inn Restaurant""","""600""","""Continental,South Indian,Desserts,North Indian,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/kc-inn-restaurant-ana-sagar-lake/info""","""15""","""Casual Dining""","""11am to 1030pm(Mon-Sun)""","""Average""","""3.2""","""7"""
-"""Sky Lounge""","""700""","""North Indian,Chinese,Continental""","""Ajmer""","""Ram Ganj""","""https://www.zomato.com/ajmer/sky-lounge-ram-ganj/info""","""15""","""Casual Dining""","""7pm to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Brown Bake""","""200""","""Fast Food,Bakery""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/brown-bake-ana-sagar-lake/info""","""15""","""Bakery""","""830am to 1030pm(Mon-Sun)""","""Average""","""3.2""","""6"""
-"""Krishna Family Dhaba""","""500""","""Fast Food,North Indian,Chinese,Rajasthani""","""Ajmer""","""Ram Ganj""","""https://www.zomato.com/ajmer/krishna-family-dhaba-1-ram-ganj/info""","""15""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""9"""
-"""Shiv Mahima Rajasthani Tadka""","""200""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/shiv-mahima-rajasthani-tadka-ana-sagar-lake/info""","""15""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""RJ-01 Restaurant""","""200""","""North Indian,Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/rj-01-restaurant-ana-sagar-lake/info""","""15""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""T- Mos""","""550""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/t-mos-ana-sagar-lake/info""","""15""","""Casual Dining""","""11am to 1030pm(Mon-Sun)""","""Average""","""3.2""","""9"""
-"""Monil Special Fast Food""","""150""","""Fast Food""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/monil-special-fast-food-railway-quarters/info""","""15""","""Quick Bites""","""3pm to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Bar Code""","""600""","""North Indian,Chinese,Continental""","""Ajmer""","""Ram Ganj""","""https://www.zomato.com/ajmer/bar-code-ram-ganj/info""","""16""","""Casual Dining""","""12noon to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Mad About Food""","""500""","""North Indian,South Indian,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/mad-about-food-ana-sagar-lake/info""","""16""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""5"""
-"""Gaytri Dosa Centre""","""100""","""South Indian""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/gaytri-dosa-centre-kotra/info""","""16""","""none""","""4pm to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Hotel Gulab Palace And Restaurant""","""400""","""North Indian""","""Ajmer""","""Boraj Kazipura""","""https://www.zomato.com/ajmer/hotel-gulab-palace-and-restaurant-boraj-kazipura/info""","""16""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Shiv Shankar Juice""","""100""","""Juices,Beverages""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/shiv-shankar-juice-ana-sagar-lake/info""","""16""","""Beverage Shop""","""830am to 1230AM(Mon-Sun)""","""Average""","""3.2""","""7"""
-"""Omni Restaurant""","""400""","""North Indian,South Indian,Fast Food""","""Ajmer""","""Police Lines""","""https://www.zomato.com/ajmer/omni-restaurant-police-lines/info""","""16""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Average""","""3.2""","""5"""
-"""Darbar Restaurant""","""200""","""North Indian,Kebab,Indian""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/darbar-restaurant-panchsheel-nagar/info""","""16""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Lake Heaven Restaurant""","""200""","""North Indian,Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/lake-heaven-restaurant-ana-sagar-lake/info""","""16""","""Quick Bites""","""12noon to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Suruchi""","""250""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/suruchi-ana-sagar-lake/info""","""16""","""Quick Bites""","""830am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Laxmi Bhojanalaya""","""300""","""North Indian,Salad""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/laxmi-bhojanalaya-railway-quarters/info""","""16""","""Quick Bites""","""9am to 1130pm(Mon-Sun)""","""Average""","""3.2""","""5"""
-"""Shri Ambika Bhojanalaya""","""150""","""Street Food,Beverages,North Indian,Rajasthani""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/shri-ambika-bhojanalaya-railway-quarters/info""","""16""","""Quick Bites""","""6am to 11pm(Mon-Sun)""","""Average""","""3.2""","""5"""
-"""Excellenceee""","""300""","""Fast Food,Sandwich,Italian,Pizza,North Indian,Chinese""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/excellenceee-railway-quarters/info""","""16""","""Café""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""The Peg""","""1000""","""North Indian,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/the-peg-ana-sagar-lake/info""","""16""","""Bar""","""7pm to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Naayaab Restaurant""","""350""","""North Indian""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/naayaab-restaurant-adarsh-nagar/info""","""16""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Lazeez Garden Restaurant""","""150""","""North Indian""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/lazeez-garden-restaurant-kotra/info""","""16""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Dua's Tandoori Junction""","""350""","""North Indian""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/duas-tandoori-junction-dhola-bhata-colony/info""","""17""","""Quick Bites""","""5pm to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""New Victory Restaurant""","""500""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/new-victory-restaurant-ana-sagar-lake/info""","""17""","""Casual Dining""","""7am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Sky Lounge""","""700""","""Continental,Beverages,Italian,North Indian,Chinese,Salad,Lebanese,Kebab""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/sky-lounge-3-ana-sagar-lake/info""","""17""","""Bar""","""12noon to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Mamta Cakes & Bakes""","""100""","""Bakery,Fast Food""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/mamta-cakes-bakes-1-dhola-bhata-colony/info""","""17""","""Bakery""","""10am to 1030pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Muskan Garden Restaurant""","""500""","""North Indian""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/muskan-garden-restaurant-panchsheel-nagar/info""","""17""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""The Cinnamon""","""1000""","""Chinese,North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/the-cinnamon-ana-sagar-lake/info""","""17""","""Casual Dining""","""7am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Ambika Bhojnalaya""","""300""","""Indian""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/ambika-bhojnalaya-railway-quarters/info""","""17""","""Quick Bites""","""24""","""Not rated""","""-""","""-"""
-"""Yellow Chilly""","""200""","""Fast Food""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/yellow-chilly-panchsheel-nagar/info""","""17""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Apna Dhaba""","""200""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/apna-dhaba-ana-sagar-lake/info""","""17""","""Quick Bites""","""1230pm to 1030pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Rajababu's Kitchen""","""200""","""North Indian""","""Ajmer""","""Kundan Nagar""","""https://www.zomato.com/ajmer/rajababus-kitchen-kundan-nagar/info""","""17""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Chokho Moco""","""200""","""Chinese,North Indian""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/chokho-moco-kotra/info""","""17""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Mugs Coffee Lounge""","""600""","""North Indian,Cafe,Chinese""","""Ajmer""","""Police Lines""","""https://www.zomato.com/ajmer/mugs-coffee-lounge-police-lines/info""","""17""","""Café""","""24""","""Not rated""","""-""","""-"""
-"""Temptations""","""500""","""North Indian,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/temptations-ana-sagar-lake/info""","""17""","""Lounge""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Recharge Cafe""","""300""","""Beverages,Burger,Cafe,Chinese,Coffee,Fast Food,Hot dogs,Pizza""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/recharge-cafe-1-panchsheel-nagar/info""","""17""","""Café""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Eat & Meet cafe""","""450""","""Cafe""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/eat-meet-cafe-dhola-bhata-colony/info""","""17""","""Café""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Sugar N Spice""","""450""","""Bakery""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/sugar-n-spice-adarsh-nagar/info""","""18""","""Bakery""","""8am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Cafe La Joie""","""200""","""Fast Food""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/cafe-la-joie-dhola-bhata-colony/info""","""18""","""none""","""NA""","""None""","""Opening""","""Opening"""
-"""Nakul Bakers and Confectioner""","""250""","""Fast Food""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/nakul-bakers-and-confectioner-railway-quarters/info""","""18""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Hotel City Pride""","""600""","""North Indian""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/hotel-city-pride-railway-quarters/info""","""18""","""Casual Dining""","""12noon to 1230AM(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Thai Cha""","""0""","""Chinese,Thai""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/thai-cha-ana-sagar-lake/info""","""18""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Roll Express""","""300""","""Momos,Roast Chicken,BBQ,Rolls,Afghan""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/roll-express-ana-sagar-lake/info""","""2""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""130"""
-"""Kebabs & Curries Company""","""750""","""North Indian,Chinese,Mughlai,Rolls""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/kebabs-curries-company-ana-sagar-lake/info""","""2""","""Casual Dining""","""12noon to 11pm(Mon-Sun)""","""Good""","""3.7""","""118"""
-"""Paapi ���े��� The Restaurant""","""200""","""Biryani,Roast Chicken,North Indian,Mughlai""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/paapi-the-restaurant-ana-sagar-lake/info""","""2""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""121"""
-"""Old Mahadev Ka Dhaba""","""300""","""North Indian,Rajasthani""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/old-mahadev-ka-dhaba-ana-sagar-lake/info""","""2""","""Dhaba""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""102"""
-"""Pizza Hut""","""600""","""Pizza""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/pizza-hut-ana-sagar-lake/info""","""2""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""179"""
-"""Kha Lo""","""150""","""Burger,Beverages,Fast Food,Sandwich,Italian,Pizza,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/kha-lo-ana-sagar-lake/info""","""2""","""Quick Bites""","""11am to 1030pm(Mon-Sun)""","""Good""","""3.7""","""109"""
-"""Khokha""","""600""","""Cafe""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/khokha-ana-sagar-lake/info""","""2""","""Café""","""1030am to 1030pm(Mon-Sun)""","""Average""","""3.3""","""117"""
-"""Mamta Sweets""","""400""","""South Indian,Fast Food,Italian,Chinese,Bakery,Mithai""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/mamta-sweets-ana-sagar-lake/info""","""2""","""Sweet Shop""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""86"""
-"""Mr Beans Pizza""","""400""","""Pizza""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/mr-beans-pizza-ana-sagar-lake/info""","""2""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""99"""
-"""Mamta Ice Breaker""","""400""","""South Indian,Fast Food,Italian,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/mamta-ice-breaker-ana-sagar-lake/info""","""2""","""Dessert Parlor""","""1130am to 1230AM(Mon-Sun)""","""Good""","""3.7""","""50"""
-"""Ambrosia Restaurant""","""600""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/ambrosia-restaurant-ana-sagar-lake/info""","""2""","""Casual Dining""","""7am to 11pm(Mon-Sun)""","""Good""","""3.5""","""102"""
-"""Cake Craft By Mango Masala""","""470""","""Desserts,Bakery""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/cake-craft-by-mango-masala-ana-sagar-lake/info""","""2""","""Dessert Parlor""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""90"""
-"""Subway""","""500""","""Healthy Food,Sandwich,Salad""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/subway-ana-sagar-lake/info""","""2""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Good""","""3.6""","""93"""
-"""Mamaji's Chicken Point""","""450""","""North Indian,Roast Chicken,BBQ,Mughlai,Kebab,Awadhi""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/mamajis-chicken-point-ana-sagar-lake/info""","""2""","""Quick Bites""","""1pm to 11pm(Mon-Sun)""","""Good""","""3.5""","""87"""
-"""Sunny Di Hatti Amritsari""","""400""","""Beverages,Fast Food,North Indian,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/sunny-di-hatti-amritsari-ana-sagar-lake/info""","""2""","""Quick Bites""","""12noon to 11pm(Mon-Sun)""","""Good""","""3.6""","""89"""
-"""Chick'n express""","""200""","""North Indian,Biryani,Chinese,Kebab,BBQ""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/chickn-express-ana-sagar-lake/info""","""3""","""Casual Dining""","""(Mon-Sun)""","""Good""","""3.8""","""174"""
-"""Tea Connect""","""400""","""Cafe""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/tea-connect-ana-sagar-lake/info""","""3""","""Café""","""10am to 11pm(Mon-Sun)""","""Good""","""3.5""","""101"""
-"""Crazy Tales""","""500""","""Salad,Chinese,Sandwich,Beverages,North Indian,Burger,Desserts,Pizza""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/crazy-tales-ana-sagar-lake/info""","""3""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""75"""
-"""Manoj's Kake Di Hatti""","""200""","""North Indian""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/manojs-kake-di-hatti-railway-quarters/info""","""3""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""64"""
-"""Ashu Sweets""","""250""","""Mithai,Bakery,Fast Food""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/ashu-sweets-railway-quarters/info""","""3""","""Sweet Shop""","""10am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Manoj's Kake De Hatti""","""400""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/manojs-kake-de-hatti-ana-sagar-lake/info""","""3""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""45"""
-"""Roti Boti""","""300""","""North Indian""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/roti-boti-adarsh-nagar/info""","""3""","""Quick Bites""","""12noon to 1130pm(Mon-Sun)""","""Good""","""3.5""","""42"""
-"""Cafe Ate Pm""","""300""","""Chinese,Cafe,Sandwich,Fast Food,North Indian,Coffee,Desserts,Pizza""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/cafe-ate-pm-1-dhola-bhata-colony/info""","""3""","""Quick Bites""","""1030am to 10pm(Mon-Sun)""","""Good""","""3.7""","""116"""
-"""Pizzeria By Mango Masala""","""500""","""Italian,Pizza""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/pizzeria-by-mango-masala-ana-sagar-lake/info""","""3""","""Casual Dining""","""9am to 11pm(Mon-Sun)""","""Good""","""3.6""","""93"""
-"""Honeydew""","""700""","""Continental,South Indian,Fast Food,North Indian,Chinese,Mughlai""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/honeydew-railway-quarters/info""","""3""","""Casual Dining""","""9am to 11pm(Mon-Sun)""","""Good""","""3.7""","""92"""
-"""Pandit Restaurant""","""250""","""Biryani,North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/pandit-restaurant-ana-sagar-lake/info""","""3""","""Casual Dining""","""10am to 5pm,6pm to 11pm(Mon-Sun)""","""Good""","""3.7""","""48"""
-"""Kesar""","""500""","""Mexican,South Indian,Fast Food,Desserts,Italian,North Indian,Chinese,Rajasthani""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/kesar-kotra/info""","""3""","""Casual Dining""","""8am to 1030pm(Mon-Sun)""","""Good""","""3.5""","""56"""
-"""Arora's Restaurant""","""400""","""BBQ,Chinese,Roast Chicken,North Indian,Kebab,Afghan,Mughlai""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/aroras-restaurant-1-ana-sagar-lake/info""","""3""","""Quick Bites""","""11am to 12noon(Mon-Sun)""","""Good""","""3.7""","""47"""
-"""The Tandoor Restaurant""","""300""","""North Indian,Biryani,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/the-tandoor-restaurant-ana-sagar-lake/info""","""3""","""Quick Bites""","""11am to 12midnight(Mon-Sun)""","""Good""","""3.6""","""41"""
-"""Romy's Fine Dine""","""800""","""Chinese,North Indian,Pizza,Biryani""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/romys-fine-dine-ana-sagar-lake/info""","""3""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""48"""
-"""Punjabi Tadka""","""250""","""Mughlai""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/punjabi-tadka-ana-sagar-lake/info""","""4""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""50"""
-"""Balaji Juice""","""100""","""Beverages""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/balaji-juice-ana-sagar-lake/info""","""4""","""Beverage Shop""","""9am to 11pm(Mon-Sun)""","""Good""","""3.5""","""33"""
-"""Bake My Day""","""500""","""Bakery,Fast Food""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/bake-my-day-adarsh-nagar/info""","""4""","""Bakery""","""930am to 11pm(Mon-Sun)""","""Average""","""3.3""","""28"""
-"""Coffo Holic""","""600""","""South Indian,Fast Food,Cafe,Italian,North Indian,Bakery,BBQ,Afghan""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/coffo-holic-ana-sagar-lake/info""","""4""","""Café""","""9am to 11pm(Mon-Sun)""","""Good""","""3.5""","""85"""
-"""Striker""","""250""","""Fast Food,North Indian""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/striker-panchsheel-nagar/info""","""4""","""Quick Bites""","""1130am to 1030pm(Mon-Sun)""","""Good""","""3.5""","""75"""
-"""chaat chatore""","""100""","""Fast Food,Cafe,Indian,Pizza,Street Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/chaat-chatore-1-ana-sagar-lake/info""","""4""","""Café""","""(Mon-Sun)""","""Average""","""3.4""","""46"""
-"""Shankar's Chaat""","""60""","""Street Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/shankars-chaat-ana-sagar-lake/info""","""4""","""Quick Bites""","""7am to 9pm(Mon-Sun)""","""Good""","""3.5""","""44"""
-"""Love Cafetaria""","""100""","""Beverages,South Indian,Fast Food,Sandwich,Pizza,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/love-cafetaria-ana-sagar-lake/info""","""4""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""Good""","""3.5""","""67"""
-"""Havmor""","""800""","""North Indian,Pizza,Biryani""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/havmor-ana-sagar-lake/info""","""4""","""Casual Dining""","""1145am to 1030pm(Mon),1146am to 1030pm...""","""Average""","""3.3""","""60"""
-"""Karim's Restaurant""","""500""","""Mughlai""","""Ajmer""","""Pal Bhichala""","""https://www.zomato.com/ajmer/karims-restaurant-pal-bhichala/info""","""4""","""Casual Dining""","""12noon to 4pm,7pm to 11pm(Mon-Sun)""","""Good""","""3.6""","""51"""
-"""Don Tomato""","""150""","""Chinese,Sandwich,Fast Food,North Indian,Burger,Rolls,Pizza,South Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/don-tomato-1-ana-sagar-lake/info""","""4""","""Quick Bites""","""4pm to 11pm(Mon-Sun)""","""Good""","""3.6""","""48"""
-"""Midtown Grill""","""600""","""North Indian,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/midtown-grill-ana-sagar-lake/info""","""4""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""34"""
-"""Manoj's Kake Di Hatti""","""400""","""Fast Food,North Indian,Rajasthani""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/manojs-kake-di-hatti-dhola-bhata-colony/info""","""4""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""Average""","""3.3""","""36"""
-"""Vapor Cafe and Restaurant""","""500""","""North Indian""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/vapor-cafe-and-restaurant-panchsheel-nagar/info""","""4""","""Café""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""64"""
-"""Shamby's Cafe""","""200""","""South Indian,Fast Food,Cafe,Pizza,Chinese,Coffee""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/shambys-cafe-ana-sagar-lake/info""","""4""","""Quick Bites""","""11am to 1030pm(Mon-Sun)""","""Average""","""3.4""","""40"""
-"""Jain Namkeen""","""150""","""Mithai""","""Ajmer""","""Hathi Khera""","""https://www.zomato.com/ajmer/jain-namkeen-hathi-khera/info""","""5""","""Sweet Shop""","""1130am to 930pm(Mon,Tue,Thu,Fri,Sat,Sun)...""","""Good""","""3.5""","""25"""
-"""Sindh Punjab Dhaba""","""400""","""North Indian,Rajasthani""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/sindh-punjab-dhaba-ana-sagar-lake/info""","""5""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""39"""
-"""FYI""","""200""","""Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/fyi-ana-sagar-lake/info""","""5""","""Quick Bites""","""1125am to 1030pm(Mon),11am to 1030pm(Tue-Sun)""","""Average""","""3.4""","""51"""
-"""A-One Fast Food &Pizza Point""","""150""","""Street Food,Fast Food,Sandwich,Pizza,Chinese,Momos,Coffee""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/a-one-fast-food-pizza-point-ana-sagar-lake/info""","""5""","""Quick Bites""","""(Mon-Sun)""","""Average""","""3.4""","""35"""
-"""Momos Mania""","""150""","""Burger,Fast Food,Pizza,Chinese""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/momos-mania-dhola-bhata-colony/info""","""5""","""Casual Dining""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Menu Restaurant""","""550""","""North Indian""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/menu-restaurant-kotra/info""","""5""","""Casual Dining""","""10am to 11pm(Mon-Sun)""","""Average""","""3.2""","""27"""
-"""Laxmi Confectioners""","""150""","""Mithai""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/laxmi-confectioners-railway-quarters/info""","""5""","""Confectionery""","""8am to 10pm(Mon-Sun)""","""Average""","""3.4""","""48"""
-"""Baba Soya chaap""","""150""","""Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/baba-soya-chaap-ana-sagar-lake/info""","""5""","""Food Truck""","""(Mon-Sun)""","""Average""","""3.3""","""15"""
-"""Burger Street""","""300""","""Ice Cream,Sandwich,Fast Food,Burger,Wraps,Coffee,Desserts""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/burger-street-1-panchsheel-nagar/info""","""5""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Average""","""3.3""","""21"""
-"""Dhanna Kachori""","""20""","""North Indian""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/dhanna-kachori-panchsheel-nagar/info""","""5""","""Quick Bites""","""8am to 7pm(Mon-Sun)""","""Average""","""3.4""","""15"""
-"""Dhanna Kachori Vaishali""","""100""","""Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/dhanna-kachori-vaishali-ana-sagar-lake/info""","""5""","""Quick Bites""","""8am to 130pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Rajdeep Family Restaurant""","""300""","""Fast Food,North Indian""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/rajdeep-family-restaurant-railway-quarters/info""","""5""","""Quick Bites""","""8am to 12midnight(Mon-Sun)""","""Good""","""3.6""","""21"""
-"""Spiceum""","""200""","""Ice Cream,Fast Food""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/spiceum-panchsheel-nagar/info""","""5""","""Quick Bites""","""(Mon-Sun)""","""Average""","""3.3""","""14"""
-"""Riviera Restaurant""","""500""","""Biryani,North Indian,Chinese""","""Ajmer""","""Boraj Kazipura""","""https://www.zomato.com/ajmer/riviera-restaurant-boraj-kazipura/info""","""5""","""Casual Dining""","""7am to 11pm(Mon-Sun)""","""Average""","""3.3""","""31"""
-"""2 Roti 2 Boti""","""150""","""North Indian""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/2-roti-2-boti-panchsheel-nagar/info""","""5""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""53"""
-"""Shree Bhomji Misthan Bhandar""","""150""","""Mithai,Street Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/shree-bhomji-misthan-bhandar-ana-sagar-lake/info""","""6""","""Sweet Shop""","""7am to 10pm(Mon-Sun)""","""Average""","""3.3""","""11"""
-"""Royal recepies""","""250""","""Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/royal-recepies-ana-sagar-lake/info""","""6""","""Food Truck""","""(Mon-Sun)""","""Average""","""3.4""","""10"""
-"""Twist on wheels""","""200""","""Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/twist-on-wheels-ana-sagar-lake/info""","""6""","""Food Truck""","""(Mon-Sun)""","""Average""","""3.2""","""12"""
-"""Chilly Spicy Dhaba""","""250""","""North Indian,Chinese""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/chilly-spicy-dhaba-panchsheel-nagar/info""","""6""","""Quick Bites""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Mast Mahadev Dhaba""","""300""","""Fast Food,North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/mast-mahadev-dhaba-ana-sagar-lake/info""","""6""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""44"""
-"""Pizza Point""","""250""","""Pizza,Fast Food""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/pizza-point-railway-quarters/info""","""6""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""70"""
-"""Shree Jodhpur Sweets""","""100""","""Fast Food,Mithai""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/shree-jodhpur-sweets-ana-sagar-lake/info""","""6""","""Sweet Shop""","""830am to 930pm(Mon-Sun)""","""Average""","""3.3""","""9"""
-"""Bhagat Pan Bhandar""","""100""","""Paan""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/bhagat-pan-bhandar-ana-sagar-lake/info""","""6""","""Paan Shop""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Bhagwanti Juice Centre""","""100""","""Beverages""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/bhagwanti-juice-centre-ana-sagar-lake/info""","""6""","""Beverage Shop""","""10am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Brijwasi""","""200""","""Chinese,Fast Food""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/brijwasi-kotra/info""","""6""","""Quick Bites""","""4pm to 11pm(Mon-Sun)""","""Good""","""3.5""","""46"""
-"""Vijay Bakers & Confectioners""","""300""","""Bakery,Fast Food""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/vijay-bakers-confectioners-railway-quarters/info""","""6""","""Bakery""","""10am to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Shree Maan Ji Chaat Bhandar""","""100""","""Fast Food""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/shree-maan-ji-chaat-bhandar-panchsheel-nagar/info""","""6""","""Quick Bites""","""8am to 10pm(Mon-Sun)""","""Average""","""3.3""","""4"""
-"""Olive Kitchen""","""700""","""Biryani,Italian,North Indian,Salad,Afghan,Kebab""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/olive-kitchen-ana-sagar-lake/info""","""6""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""40"""
-"""Raseela""","""150""","""Drinks Only""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/raseela-railway-quarters/info""","""6""","""Beverage Shop""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Kashish Pure Veg Family Restaurant""","""400""","""North Indian,Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/kashish-pure-veg-family-restaurant-ana-sagar-lake/info""","""6""","""Casual Dining""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Deshi tadka""","""150""","""North Indian,Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/deshi-tadka-ana-sagar-lake/info""","""7""","""Food Truck""","""(Mon-Sun)""","""Average""","""3.2""","""8"""
-"""Pehli Manzil""","""300""","""Continental,Biryani,Beverages,South Indian,Italian,North Indian,Chinese,Rajasthani""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/pehli-manzil-railway-quarters/info""","""7""","""Casual Dining""","""7am to 11pm(Mon-Sun)""","""Average""","""3.3""","""46"""
-"""Bunty fast food""","""150""","""Fast Food""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/bunty-fast-food-kotra/info""","""7""","""Quick Bites""","""4pm to 1015pm(Mon-Sun)""","""Average""","""3.2""","""13"""
-"""Azad Sweets""","""150""","""Desserts""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/azad-sweets-ana-sagar-lake/info""","""7""","""Dessert Parlor""","""10am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""The Royal Thadi""","""100""","""Fast Food""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/the-royal-thadi-kotra/info""","""7""","""Quick Bites""","""(Mon-Sun)""","""Average""","""3.2""","""8"""
-"""Yummy Tummy (The Food Zone)""","""100""","""Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/yummy-tummy-the-food-zone-ana-sagar-lake/info""","""7""","""Quick Bites""","""(Mon-Sun)""","""Average""","""3.2""","""6"""
-"""Jaipur Jungle""","""600""","""Continental,Burger,Beverages,Fast Food,Italian,North Indian,Chinese,Rajasthani""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/jaipur-jungle-ana-sagar-lake/info""","""7""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""37"""
-"""Mast Punjabi Tadka""","""300""","""North Indian""","""Ajmer""","""Ram Ganj""","""https://www.zomato.com/ajmer/mast-punjabi-tadka-ram-ganj/info""","""7""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""28"""
-"""Shakes Pi Yaar""","""100""","""Beverages,Desserts""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/shakes-pi-yaar-railway-quarters/info""","""7""","""Quick Bites""","""11am to 9pm(Mon-Sun)""","""Average""","""3.2""","""5"""
-"""Status By Silver Leaf""","""600""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/status-by-silver-leaf-ana-sagar-lake/info""","""7""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""45"""
-"""Bambaiya Vada Paw""","""150""","""Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/bambaiya-vada-paw-ana-sagar-lake/info""","""7""","""Quick Bites""","""11am to 12midnight(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Vijay Bakery""","""200""","""Fast Food,Desserts,Bakery""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/vijay-bakery-ana-sagar-lake/info""","""7""","""Bakery""","""10am to 10pm(Mon-Sun)""","""Average""","""3.3""","""8"""
-"""Kitchen One Fast Food""","""300""","""Fast Food""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/kitchen-one-fast-food-adarsh-nagar/info""","""7""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""Average""","""3.2""","""13"""
-"""R. R. Chinese""","""300""","""Street Food,Burger,Fast Food,Sandwich,Pizza,Chinese""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/r-r-chinese-ana-sagar-lake/info""","""7""","""Shack""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Hotel Atlantica""","""300""","""North Indian,Fast Food""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/hotel-atlantica-kotra/info""","""7""","""Fine Dining""","""(Mon-Sun)""","""Average""","""3.2""","""4"""
-"""Chilli Charly Food Point""","""150""","""Fast Food""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/chilli-charly-food-point-panchsheel-nagar/info""","""8""","""Food Truck""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""RJ-01AC  Family  Restaurant and Fast Food""","""250""","""Fast Food,Sandwich,Hot dogs,Pizza,North Indian,Chinese,Rajasthani,Kebab""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/rj-01ac-family-restaurant-and-fast-food-panchsheel-nagar/info""","""8""","""Casual Dining""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Shri Devnarayan Sweets""","""100""","""Indian,Mithai""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/shri-devnarayan-sweets-adarsh-nagar/info""","""8""","""Sweet Shop""","""10am to 7pm(Mon-Sun)""","""Average""","""3.2""","""6"""
-"""Dine In Peace""","""350""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/dine-in-peace-ana-sagar-lake/info""","""8""","""Quick Bites""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Shree Ram Namkeen""","""200""","""Bakery""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/shree-ram-namkeen-ana-sagar-lake/info""","""8""","""Bakery""","""7am to 915pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Anmol Fast Food Corner""","""100""","""Fast Food""","""Ajmer""","""Adarsh Nagar""","""https://www.zomato.com/ajmer/anmol-fast-food-corner-adarsh-nagar/info""","""8""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Average""","""3.2""","""7"""
-"""Cafe CSM""","""300""","""South Indian,Fast Food,Italian,North Indian,Chinese,Coffee""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/cafe-csm-panchsheel-nagar/info""","""8""","""Food Court""","""1030am to 1030pm(Mon-Sun)""","""Average""","""3.3""","""42"""
-"""Chandumal Gagumal  Restaurant and Sweet store""","""150""","""Bakery,Mithai,North Indian""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/chandumal-gagumal-restaurant-and-sweet-store-railway-quarters/info""","""8""","""Fine Dining""","""(Mon-Sun)""","""Average""","""3.2""","""4"""
-"""Brown Bake""","""350""","""Mexican,Beverages,Fast Food,Cafe,Italian,North Indian,Chinese,Bakery""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/brown-bake-kotra/info""","""8""","""Café""","""930am to 1030pm(Mon-Sun)""","""Average""","""3.4""","""50"""
-"""New In Town""","""150""","""Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/new-in-town-ana-sagar-lake/info""","""8""","""none""","""2pm to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""The Box Office Cafe & Restro""","""350""","""Cafe,North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/the-box-office-cafe-restro-ana-sagar-lake/info""","""8""","""Café""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""33"""
-"""Hot-Shots""","""200""","""Chinese,Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/hot-shots-ana-sagar-lake/info""","""8""","""Quick Bites""","""1pm to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Jacob Fast Food""","""300""","""Fast Food""","""Ajmer""","""Ram Ganj""","""https://www.zomato.com/ajmer/jacob-fast-food-1-ram-ganj/info""","""8""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Farmer's Fresh""","""100""","""Fast Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/farmers-fresh-ana-sagar-lake/info""","""8""","""Quick Bites""","""930am to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Sunny Di hatti ( A unit of kitchen queen pooja)""","""100""","""North Indian""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/sunny-di-hatti-a-unit-of-kitchen-queen-pooja-railway-quarters/info""","""8""","""Casual Dining""","""(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Tiffin Centre""","""350""","""North Indian""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/tiffin-centre-kotra/info""","""9""","""none""","""10am to 9pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Shri Mahadev's""","""100""","""Street Food""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/shri-mahadevs-ana-sagar-lake/info""","""9""","""Quick Bites""","""7am to 9pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Om Ice Cream""","""100""","""Ice Cream""","""Ajmer""","""Kotra""","""https://www.zomato.com/ajmer/om-ice-cream-kotra/info""","""9""","""Dessert Parlor""","""4pm to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Friend's Cafe""","""100""","""Fast Food""","""Ajmer""","""Ram Ganj""","""https://www.zomato.com/ajmer/friends-cafe-ram-ganj/info""","""9""","""Quick Bites""","""12noon to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Foodies Multi Cuisine Restaurant""","""200""","""North Indian,Chinese""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/foodies-multi-cuisine-restaurant-panchsheel-nagar/info""","""9""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Maha Rani Tiffin Centre""","""200""","""Rajasthani""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/maha-rani-tiffin-centre-ana-sagar-lake/info""","""9""","""none""","""10am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Tejasvini Foods""","""300""","""North Indian,Chinese""","""Ajmer""","""Kundan Nagar""","""https://www.zomato.com/ajmer/tejasvini-foods-kundan-nagar/info""","""9""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Sadda Adda""","""0""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/sadda-adda-ana-sagar-lake/info""","""9""","""none""","""8am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Gangaram Amarcchand Halwai""","""250""","""Mithai,North Indian""","""Ajmer""","""Railway Quarters""","""https://www.zomato.com/ajmer/gangaram-amarcchand-halwai-railway-quarters/info""","""9""","""none""","""8am to 8pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""JMD Fast Food""","""100""","""Fast Food,Chinese""","""Ajmer""","""Dhola Bhata Colony""","""https://www.zomato.com/ajmer/jmd-fast-food-dhola-bhata-colony/info""","""9""","""Quick Bites""","""5pm to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Masala Kitchen""","""0""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/masala-kitchen-ana-sagar-lake/info""","""9""","""Mess""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Malgudi Day's""","""150""","""North Indian""","""Ajmer""","""Panchsheel Nagar""","""https://www.zomato.com/ajmer/malgudi-days-panchsheel-nagar/info""","""9""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""28"""
-"""Lassi Shop""","""150""","""Fast Food,Beverages""","""Ajmer""","""Hathi Khera""","""https://www.zomato.com/ajmer/lassi-shop-hathi-khera/info""","""9""","""Quick Bites""","""12noon to 1130pm(Mon-Sun)""","""Good""","""3.5""","""15"""
-"""Goyal Fast Food""","""200""","""Fast Food,Pizza,Chinese""","""Ajmer""","""Ram Ganj""","""https://www.zomato.com/ajmer/goyal-fast-food-ram-ganj/info""","""9""","""Quick Bites""","""12noon to 11pm(Mon-Sun)""","""Good""","""3.7""","""23"""
-"""Chawla's""","""300""","""North Indian""","""Ajmer""","""Ana Sagar Lake""","""https://www.zomato.com/ajmer/chawlas-ana-sagar-lake/info""","""9""","""Quick Bites""","""11am to 4pm,7pm to 11pm(Mon-Sun)""","""Average""","""3.3""","""43"""
+NAME,PRICE,CUSINE_CATEGORY,CITY,REGION,CUSINE TYPE,RATING_TYPE,RATING,VOTES
+Gangaur Pizza Point,600,"Fast Food,Pizza",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.9,373
+Mango Masala Restaurant,600,"Continental,Beverages,South Indian,Fast Food,Italian,North Indian,Chinese",Ajmer,Ana Sagar Lake,Casual Dining,Very Good,4.1,593
+Rasoi,800,"North Indian,South Indian,Continental,Italian,Chinese,Beverages",Ajmer,Ana Sagar Lake,Casual Dining,Very Good,4.0,468
+Bansi Wala,150,"Beverages,Fast Food,North Indian,Chinese,Rajasthani",Ajmer,Railway Quarters,Quick Bites,Good,3.8,165
+The Burger Street,650,Fast Food,Ajmer,Ana Sagar Lake,Quick Bites,Good,3.7,216
+Domino's Pizza,400,"Fast Food,Pizza",Ajmer,Ana Sagar Lake,Casual Dining,Good,3.5,258
+7 Spices,500,"North Indian,Roast Chicken,BBQ,Mughlai,Charcoal Chicken,Kebab",Ajmer,Dhola Bhata Colony,Quick Bites,Good,3.7,115
+Mahadev Ka Dhaba,250,"North Indian,Rajasthani",Ajmer,Panchsheel Nagar,Quick Bites,Good,3.8,175
+WTF What's The Food,100,"Fast Food,North Indian",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.5,103
+Foodies,150,Chinese,Ajmer,Adarsh Nagar,Quick Bites,Average,3.4,81
+Roll Street,200,Rolls,Ajmer,Ana Sagar Lake,Quick Bites,Good,3.8,115
+Guddan Ka Dhaba,300,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,Good,3.7,119
+Mango Curry,1000,"South Indian,Fast Food,Italian,North Indian,Chinese,BBQ,Kebab",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.9,263
+Inbox,250,"Thai,Mexican,Italian",Ajmer,Pal Bhichala,Café,Average,3.4,57
+Burger King,500,"Burger,Fast Food",Ajmer,City Square Mall-- Panchsheel Nagar,Quick Bites,Good,3.6,73
+Royal Bakers,200,Bakery,Ajmer,Ana Sagar Lake,Bakery,Good,3.7,27
+Masala Basket,250,"Beverages,Desserts,North Indian,Chinese,Rajasthani",Ajmer,Railway Quarters,Quick Bites,Average,3.3,29
+Daurani Jethani Ki Rasoi,250,"Fast Food,Sandwich,Pizza,North Indian,Chinese",Ajmer,Ana Sagar Lake,Quick Bites,Average,3.4,38
+Simple Lounge & Family Restaurant,300,"Fast Food,North Indian",Ajmer,Adarsh Nagar,Quick Bites,Average,3.2,38
+Thakurani Da Dhaba,350,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,Good,3.5,23
+Meet Heights,500,Fast Food,Ajmer,Hathi Khera,Quick Bites,Average,3.3,15
+The Big Bunny,300,North Indian,Ajmer,Adarsh Nagar,Quick Bites,Average,3.2,32
+baawarchi brothers,350,"Rajasthani,Biryani,Sandwich,Fast Food,Beverages,Burger",Ajmer,Ana Sagar Lake,Casual Dining,Good,3.7,24
+Bhola Restaurant,200,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,Average,3.4,20
+TRM Restaurant,400,"Fast Food,Desserts,Italian,North Indian,Chinese,Rajasthani",Ajmer,Ana Sagar Lake,Casual Dining,Average,3.4,24
+The Country & Town Cafe,550,"Ice Cream,Chinese,Cafe,Sandwich,Fast Food,Beverages,Coffee,Desserts",Ajmer,Kundan Nagar,Café,Average,3.4,27
+Mamta Sweets  and bakes,200,"South Indian,Fast Food,Desserts,Chinese,Bakery,Mithai",Ajmer,Kotra,Quick Bites,Average,3.4,32
+The Barrack,400,North Indian,Ajmer,Adarsh Nagar,Casual Dining,Average,3.1,22
+Laltain Restaurant,400,"North Indian,Chinese",Ajmer,Kotra,Casual Dining,Average,3.3,23
+The Belgian Waffle Co,300,"Ice Cream,Coffee,Desserts",Ajmer,Panchsheel Nagar,Dessert Parlor,Good,3.5,31
+Cafe Coffee Time,250,"BBQ,Chinese,Cafe,Roast Chicken,Beverages,North Indian,Burger,Pizza",Ajmer,Ana Sagar Lake,Café,Good,3.5,17
+Night Owl,150,"Mexican,Beverages,Fast Food,Desserts,Sandwich,Pizza,Bakery,Coffee",Ajmer,Panchsheel Nagar,none,None,NEW,NEW
+Chat Chatore,250,Street Food,Ajmer,Ana Sagar Lake,Quick Bites,Average,3.4,21
+Chicken King,200,North Indian,Ajmer,Railway Quarters,Quick Bites,None,NEW,NEW
+Mamta Sweets And Bakes,100,"Mithai,Bakery,Fast Food",Ajmer,Ana Sagar Lake,Sweet Shop,Average,3.4,17
+Shiv Shankar Bakery,100,"Bakery,Fast Food",Ajmer,Adarsh Nagar,Bakery,Average,3.3,11
+yummy Food Corner,400,"Fast Food,North Indian",Ajmer,Adarsh Nagar,Quick Bites,Average,3.3,19
+Northern Tadka,200,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,None,NEW,NEW
+Royal Spice,600,North Indian,Ajmer,Ana Sagar Lake,Casual Dining,Average,3.3,29
+Swami Foods & Bakers,300,Bakery,Ajmer,Ana Sagar Lake,Bakery,Average,3.4,17
+Cafe Cave,350,Cafe,Ajmer,Kotra,Café,Average,3.3,29
+Hotel Star and Restaurant,300,"Street Food,Tea,Beverages,North Indian,Chinese,Salad,Coffee",Ajmer,Boraj Kazipura,Quick Bites,Good,3.6,16
+Kha lo (Non -Veg),150,"Fast Food,North Indian,Chinese,Mughlai",Ajmer,Ana Sagar Lake,Quick Bites,Average,3.4,23
+Annapurna Veg Restaurant,250,North Indian,Ajmer,Dhola Bhata Colony,Quick Bites,Average,3.4,17
+Swad Restaurant,500,"North Indian,Chinese",Ajmer,Railway Quarters,Casual Dining,Average,3.3,18
+The London Shakes,300,"Beverages,Fast Food",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.5,21
+L R Venus Cafe,250,Fast Food,Ajmer,Dhola Bhata Colony,Quick Bites,Good,3.5,9
+Sada Adda,200,Chinese,Ajmer,Ana Sagar Lake,Quick Bites,None,NEW,NEW
+7th Heaven,250,"North Indian,Desserts,Burger",Ajmer,Ana Sagar Lake,Quick Bites,Average,3.3,11
+Jai Hind Restaurant,300,"South Indian,Chinese",Ajmer,Railway Quarters,Quick Bites,Average,3.4,20
+Maharaja's Restaurant,300,North Indian,Ajmer,Adarsh Nagar,Quick Bites,Average,3.3,16
+Hotel Anurag,250,"Fast Food,Cafe,Desserts,Sandwich,North Indian,Chinese,Ice Cream",Ajmer,Pal Bhichala,Quick Bites,Average,3.3,12
+Royal Bakers,200,Bakery,Ajmer,Ram Ganj,Bakery,Average,3.3,16
+Chat Chatore,100,Fast Food,Ajmer,Panchsheel Nagar,Quick Bites,Average,3.3,19
+Foodways,150,"Fast Food,North Indian,Chinese,Mughlai,Rolls",Ajmer,Kotra,Café,Good,3.5,13
+Mamta Cake and Bakes,300,Bakery,Ajmer,Railway Quarters,Bakery,Average,3.2,17
+Baskin Robbins,300,Ice Cream,Ajmer,Pal Bhichala,Dessert Parlor,Average,3.3,9
+Kesar Sweets,250,"Beverages,Fast Food,Desserts,Bakery,Mithai",Ajmer,Kotra,Dessert Parlor,Average,3.4,10
+Burger Express,200,"Burger,Momos,Roast Chicken,BBQ,Afghan",Ajmer,Ana Sagar Lake,Quick Bites,Average,3.2,15
+Mamta Cakes & Bakes,400,"Fast Food,Bakery",Ajmer,Panchsheel Nagar,Bakery,Good,3.5,15
+Mamta Cakes & Bakes,400,"Fast Food,Bakery",Ajmer,Panchsheel Nagar,Bakery,Good,3.5,15
+Fun N Food Restaurant,500,"South Indian,Fast Food,Desserts,Italian,North Indian,Chinese",Ajmer,Dhola Bhata Colony,Casual Dining,Average,3.4,10
+Lazeez Chick-n-Serve,200,"Biryani,Charcoal Chicken,Mughlai,North Indian",Ajmer,Panchsheel Nagar,Quick Bites,None,NEW,NEW
+The Curry & Spices,300,North Indian,Ajmer,Panchsheel Nagar,Quick Bites,Average,3.3,20
+Elite Family Restaurant,750,"North Indian,Pizza,South Indian",Ajmer,Boraj Kazipura,Casual Dining,Average,3.2,5
+Hotel Cross Lane,1500,"North Indian,Continental",Ajmer,Ana Sagar Lake,Casual Dining,Average,3.3,10
+Un-Curry By Data Inn,700,"Biryani,North Indian,Afghan",Ajmer,Dhola Bhata Colony,Casual Dining,Average,3.2,10
+Arihant Chaat And Sweets,150,"Desserts,Fast Food",Ajmer,Kotra,Quick Bites,None,NEW,NEW
+Dana Pani Kebab Restaurant,250,North Indian,Ajmer,Railway Quarters,Quick Bites,Good,3.5,4
+Fusion,450,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,None,NEW,NEW
+The Kebab Village By New Majestic,250,North Indian,Ajmer,Railway Quarters,Quick Bites,Average,3.3,8
+Surya Shakti Bhojanalaya,200,North Indian,Ajmer,Railway Quarters,Quick Bites,Good,3.5,8
+Vaishnav Dhaba,150,North Indian,Ajmer,Pal Bhichala,Quick Bites,Average,3.2,8
+Real Chinese,200,Fast Food,Ajmer,Kotra,Quick Bites,Average,3.3,8
+Raj Thali,150,North Indian,Ajmer,Adarsh Nagar,Quick Bites,Average,3.2,22
+Mamta Misthan Bhandar,300,"Fast Food,Desserts,Bakery,Mithai",Ajmer,Ana Sagar Lake,Sweet Shop,Average,3.3,10
+Madras Cafe,150,South Indian,Ajmer,Pal Bhichala,Café,Not rated,-,-
+Manoj Fast Food,300,"Fast Food,North Indian",Ajmer,Adarsh Nagar,Quick Bites,Average,3.3,5
+Mamta Bakes Pvt Ltd,100,"Bakery,Fast Food",Ajmer,Ana Sagar Lake,Bakery,Average,3.2,14
+Hoko Fast Food Corner,150,"Chinese,Fast Food,Pizza,Burger,Sandwich,Beverages",Ajmer,Pal Bhichala,Quick Bites,Average,3.3,4
+Beans Restaurant,600,"North Indian,Chinese,Fast Food",Ajmer,Ana Sagar Lake,Casual Dining,Not rated,-,-
+The Roll Junction,200,"Rolls,Fast Food",Ajmer,Ana Sagar Lake,Quick Bites,Average,3.4,5
+Foody Cart,300,"North Indian,Fast Food",Ajmer,Dhola Bhata Colony,none,Average,3.2,6
+Deepak Restaurant,400,"Fast Food,North Indian,Chinese",Ajmer,Ana Sagar Lake,Quick Bites,Average,3.2,9
+Vaishnav Chaat Bhandar,100,Fast Food,Ajmer,Ana Sagar Lake,Quick Bites,None,NEW,NEW
+Chatkaraa,300,North Indian,Ajmer,Adarsh Nagar,Quick Bites,Average,3.2,6
+Mast Mahadev Dhaba,200,North Indian,Ajmer,Adarsh Nagar,Quick Bites,Average,3.2,16
+Kitchen Magic,400,Fast Food,Ajmer,Dhola Bhata Colony,none,Average,3.2,7
+Samy Restaurant,150,"Fast Food,North Indian,Chinese,Rolls",Ajmer,Pal Bhichala,Quick Bites,Average,3.3,6
+Courtyard Kitchen,1000,"North Indian,Chinese",Ajmer,Police Lines,Casual Dining,Average,3.2,7
+India Pan,100,Paan,Ajmer,Ana Sagar Lake,Paan Shop,None,NEW,NEW
+Sunrise Bakers,150,"Bakery,Desserts",Ajmer,Ana Sagar Lake,Bakery,Average,3.4,4
+Down Town Cafe & Restaurant,700,"North Indian,Chinese",Ajmer,Adarsh Nagar,Quick Bites,Not rated,-,-
+Arora's  Mobile Restaurant,400,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,Average,3.2,12
+Gullu Di Bhatti,250,"North Indian,Chinese,Afghan,Kebab",Ajmer,Kundan Nagar,none,Not rated,-,-
+Vaishali Restaurant,150,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,None,NEW,NEW
+Lemon Balm,200,North Indian,Ajmer,Panchsheel Nagar,Quick Bites,Average,3.2,6
+KC Inn Restaurant,600,"Continental,South Indian,Desserts,North Indian,Chinese",Ajmer,Ana Sagar Lake,Casual Dining,Average,3.2,7
+Sky Lounge,700,"North Indian,Chinese,Continental",Ajmer,Ram Ganj,Casual Dining,Not rated,-,-
+Brown Bake,200,"Fast Food,Bakery",Ajmer,Ana Sagar Lake,Bakery,Average,3.2,6
+Krishna Family Dhaba,500,"Fast Food,North Indian,Chinese,Rajasthani",Ajmer,Ram Ganj,Quick Bites,Average,3.2,9
+Shiv Mahima Rajasthani Tadka,200,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,None,NEW,NEW
+RJ-01 Restaurant,200,"North Indian,Fast Food",Ajmer,Ana Sagar Lake,Quick Bites,Not rated,-,-
+T- Mos,550,North Indian,Ajmer,Ana Sagar Lake,Casual Dining,Average,3.2,9
+Monil Special Fast Food,150,Fast Food,Ajmer,Railway Quarters,Quick Bites,None,NEW,NEW
+Bar Code,600,"North Indian,Chinese,Continental",Ajmer,Ram Ganj,Casual Dining,Not rated,-,-
+Mad About Food,500,"North Indian,South Indian,Chinese",Ajmer,Ana Sagar Lake,Casual Dining,Average,3.2,5
+Gaytri Dosa Centre,100,South Indian,Ajmer,Kotra,none,None,NEW,NEW
+Hotel Gulab Palace And Restaurant,400,North Indian,Ajmer,Boraj Kazipura,Quick Bites,Not rated,-,-
+Shiv Shankar Juice,100,"Juices,Beverages",Ajmer,Ana Sagar Lake,Beverage Shop,Average,3.2,7
+Omni Restaurant,400,"North Indian,South Indian,Fast Food",Ajmer,Police Lines,Quick Bites,Average,3.2,5
+Darbar Restaurant,200,"North Indian,Kebab,Indian",Ajmer,Panchsheel Nagar,Quick Bites,Not rated,-,-
+Lake Heaven Restaurant,200,"North Indian,Fast Food",Ajmer,Ana Sagar Lake,Quick Bites,Not rated,-,-
+Suruchi,250,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,Not rated,-,-
+Laxmi Bhojanalaya,300,"North Indian,Salad",Ajmer,Railway Quarters,Quick Bites,Average,3.2,5
+Shri Ambika Bhojanalaya,150,"Street Food,Beverages,North Indian,Rajasthani",Ajmer,Railway Quarters,Quick Bites,Average,3.2,5
+Excellenceee,300,"Fast Food,Sandwich,Italian,Pizza,North Indian,Chinese",Ajmer,Railway Quarters,Café,Not rated,-,-
+The Peg,1000,"North Indian,Chinese",Ajmer,Ana Sagar Lake,Bar,Not rated,-,-
+Naayaab Restaurant,350,North Indian,Ajmer,Adarsh Nagar,Quick Bites,None,NEW,NEW
+Lazeez Garden Restaurant,150,North Indian,Ajmer,Kotra,Quick Bites,Not rated,-,-
+Dua's Tandoori Junction,350,North Indian,Ajmer,Dhola Bhata Colony,Quick Bites,None,NEW,NEW
+New Victory Restaurant,500,North Indian,Ajmer,Ana Sagar Lake,Casual Dining,Not rated,-,-
+Sky Lounge,700,"Continental,Beverages,Italian,North Indian,Chinese,Salad,Lebanese,Kebab",Ajmer,Ana Sagar Lake,Bar,Not rated,-,-
+Mamta Cakes & Bakes,100,"Bakery,Fast Food",Ajmer,Dhola Bhata Colony,Bakery,Not rated,-,-
+Muskan Garden Restaurant,500,North Indian,Ajmer,Panchsheel Nagar,Quick Bites,Not rated,-,-
+The Cinnamon,1000,"Chinese,North Indian",Ajmer,Ana Sagar Lake,Casual Dining,Not rated,-,-
+Ambika Bhojnalaya,300,Indian,Ajmer,Railway Quarters,Quick Bites,Not rated,-,-
+Yellow Chilly,200,Fast Food,Ajmer,Panchsheel Nagar,Quick Bites,Not rated,-,-
+Apna Dhaba,200,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,None,NEW,NEW
+Rajababu's Kitchen,200,North Indian,Ajmer,Kundan Nagar,Quick Bites,Not rated,-,-
+Chokho Moco,200,"Chinese,North Indian",Ajmer,Kotra,Quick Bites,None,NEW,NEW
+Mugs Coffee Lounge,600,"North Indian,Cafe,Chinese",Ajmer,Police Lines,Café,Not rated,-,-
+Temptations,500,"North Indian,Chinese",Ajmer,Ana Sagar Lake,Lounge,Not rated,-,-
+Recharge Cafe,300,"Beverages,Burger,Cafe,Chinese,Coffee,Fast Food,Hot dogs,Pizza",Ajmer,Panchsheel Nagar,Café,None,NEW,NEW
+Eat & Meet cafe,450,Cafe,Ajmer,Dhola Bhata Colony,Café,Not rated,-,-
+Sugar N Spice,450,Bakery,Ajmer,Adarsh Nagar,Bakery,None,NEW,NEW
+Cafe La Joie,200,Fast Food,Ajmer,Dhola Bhata Colony,none,None,Opening,Opening
+Nakul Bakers and Confectioner,250,Fast Food,Ajmer,Railway Quarters,Quick Bites,Not rated,-,-
+Hotel City Pride,600,North Indian,Ajmer,Railway Quarters,Casual Dining,Not rated,-,-
+Thai Cha,0,"Chinese,Thai",Ajmer,Ana Sagar Lake,Quick Bites,None,NEW,NEW
+Roll Express,300,"Momos,Roast Chicken,BBQ,Rolls,Afghan",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.7,130
+Kebabs & Curries Company,750,"North Indian,Chinese,Mughlai,Rolls",Ajmer,Ana Sagar Lake,Casual Dining,Good,3.7,118
+Paapi पेट The Restaurant,200,"Biryani,Roast Chicken,North Indian,Mughlai",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.7,121
+Old Mahadev Ka Dhaba,300,"North Indian,Rajasthani",Ajmer,Ana Sagar Lake,Dhaba,Good,3.6,102
+Pizza Hut,600,Pizza,Ajmer,Ana Sagar Lake,Quick Bites,Average,3.4,179
+Kha Lo,150,"Burger,Beverages,Fast Food,Sandwich,Italian,Pizza,Chinese",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.7,109
+Khokha,600,Cafe,Ajmer,Ana Sagar Lake,Café,Average,3.3,117
+Mamta Sweets,400,"South Indian,Fast Food,Italian,Chinese,Bakery,Mithai",Ajmer,Ana Sagar Lake,Sweet Shop,Good,3.9,86
+Mr Beans Pizza,400,Pizza,Ajmer,Ana Sagar Lake,Quick Bites,Average,3.3,99
+Mamta Ice Breaker,400,"South Indian,Fast Food,Italian,Chinese",Ajmer,Ana Sagar Lake,Dessert Parlor,Good,3.7,50
+Ambrosia Restaurant,600,North Indian,Ajmer,Ana Sagar Lake,Casual Dining,Good,3.5,102
+Cake Craft By Mango Masala,470,"Desserts,Bakery",Ajmer,Ana Sagar Lake,Dessert Parlor,Good,3.7,90
+Subway,500,"Healthy Food,Sandwich,Salad",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.6,93
+Mamaji's Chicken Point,450,"North Indian,Roast Chicken,BBQ,Mughlai,Kebab,Awadhi",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.5,87
+Sunny Di Hatti Amritsari,400,"Beverages,Fast Food,North Indian,Chinese",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.6,89
+Chick'n express,200,"North Indian,Biryani,Chinese,Kebab,BBQ",Ajmer,Ana Sagar Lake,Casual Dining,Good,3.8,174
+Tea Connect,400,Cafe,Ajmer,Ana Sagar Lake,Café,Good,3.5,101
+Crazy Tales,500,"Salad,Chinese,Sandwich,Beverages,North Indian,Burger,Desserts,Pizza",Ajmer,Ana Sagar Lake,Casual Dining,Average,3.4,75
+Manoj's Kake Di Hatti,200,North Indian,Ajmer,Railway Quarters,Quick Bites,Average,3.4,64
+Ashu Sweets,250,"Mithai,Bakery,Fast Food",Ajmer,Railway Quarters,Sweet Shop,Not rated,-,-
+Manoj's Kake De Hatti,400,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,Good,3.6,45
+Roti Boti,300,North Indian,Ajmer,Adarsh Nagar,Quick Bites,Good,3.5,42
+Cafe Ate Pm,300,"Chinese,Cafe,Sandwich,Fast Food,North Indian,Coffee,Desserts,Pizza",Ajmer,Dhola Bhata Colony,Quick Bites,Good,3.7,116
+Pizzeria By Mango Masala,500,"Italian,Pizza",Ajmer,Ana Sagar Lake,Casual Dining,Good,3.6,93
+Honeydew,700,"Continental,South Indian,Fast Food,North Indian,Chinese,Mughlai",Ajmer,Railway Quarters,Casual Dining,Good,3.7,92
+Pandit Restaurant,250,"Biryani,North Indian",Ajmer,Ana Sagar Lake,Casual Dining,Good,3.7,48
+Kesar,500,"Mexican,South Indian,Fast Food,Desserts,Italian,North Indian,Chinese,Rajasthani",Ajmer,Kotra,Casual Dining,Good,3.5,56
+Arora's Restaurant,400,"BBQ,Chinese,Roast Chicken,North Indian,Kebab,Afghan,Mughlai",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.7,47
+The Tandoor Restaurant,300,"North Indian,Biryani,Chinese",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.6,41
+Romy's Fine Dine,800,"Chinese,North Indian,Pizza,Biryani",Ajmer,Ana Sagar Lake,Casual Dining,Average,3.4,48
+Punjabi Tadka,250,Mughlai,Ajmer,Ana Sagar Lake,Casual Dining,Good,3.5,50
+Balaji Juice,100,Beverages,Ajmer,Ana Sagar Lake,Beverage Shop,Good,3.5,33
+Bake My Day,500,"Bakery,Fast Food",Ajmer,Adarsh Nagar,Bakery,Average,3.3,28
+Coffo Holic,600,"South Indian,Fast Food,Cafe,Italian,North Indian,Bakery,BBQ,Afghan",Ajmer,Ana Sagar Lake,Café,Good,3.5,85
+Striker,250,"Fast Food,North Indian",Ajmer,Panchsheel Nagar,Quick Bites,Good,3.5,75
+chaat chatore,100,"Fast Food,Cafe,Indian,Pizza,Street Food",Ajmer,Ana Sagar Lake,Café,Average,3.4,46
+Shankar's Chaat,60,Street Food,Ajmer,Ana Sagar Lake,Quick Bites,Good,3.5,44
+Love Cafetaria,100,"Beverages,South Indian,Fast Food,Sandwich,Pizza,Chinese",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.5,67
+Havmor,800,"North Indian,Pizza,Biryani",Ajmer,Ana Sagar Lake,Casual Dining,Average,3.3,60
+Karim's Restaurant,500,Mughlai,Ajmer,Pal Bhichala,Casual Dining,Good,3.6,51
+Don Tomato,150,"Chinese,Sandwich,Fast Food,North Indian,Burger,Rolls,Pizza,South Indian",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.6,48
+Midtown Grill,600,"North Indian,Chinese",Ajmer,Ana Sagar Lake,Casual Dining,Average,3.3,34
+Manoj's Kake Di Hatti,400,"Fast Food,North Indian,Rajasthani",Ajmer,Dhola Bhata Colony,Quick Bites,Average,3.3,36
+Vapor Cafe and Restaurant,500,North Indian,Ajmer,Panchsheel Nagar,Café,Average,3.4,64
+Shamby's Cafe,200,"South Indian,Fast Food,Cafe,Pizza,Chinese,Coffee",Ajmer,Ana Sagar Lake,Quick Bites,Average,3.4,40
+Jain Namkeen,150,Mithai,Ajmer,Hathi Khera,Sweet Shop,Good,3.5,25
+Sindh Punjab Dhaba,400,"North Indian,Rajasthani",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.7,39
+FYI,200,Fast Food,Ajmer,Ana Sagar Lake,Quick Bites,Average,3.4,51
+A-One Fast Food &Pizza Point,150,"Street Food,Fast Food,Sandwich,Pizza,Chinese,Momos,Coffee",Ajmer,Ana Sagar Lake,Quick Bites,Average,3.4,35
+Momos Mania,150,"Burger,Fast Food,Pizza,Chinese",Ajmer,Dhola Bhata Colony,Casual Dining,None,NEW,NEW
+Menu Restaurant,550,North Indian,Ajmer,Kotra,Casual Dining,Average,3.2,27
+Laxmi Confectioners,150,Mithai,Ajmer,Railway Quarters,Confectionery,Average,3.4,48
+Baba Soya chaap,150,Fast Food,Ajmer,Ana Sagar Lake,Food Truck,Average,3.3,15
+Burger Street,300,"Ice Cream,Sandwich,Fast Food,Burger,Wraps,Coffee,Desserts",Ajmer,Panchsheel Nagar,Quick Bites,Average,3.3,21
+Dhanna Kachori,20,North Indian,Ajmer,Panchsheel Nagar,Quick Bites,Average,3.4,15
+Dhanna Kachori Vaishali,100,Fast Food,Ajmer,Ana Sagar Lake,Quick Bites,None,NEW,NEW
+Rajdeep Family Restaurant,300,"Fast Food,North Indian",Ajmer,Railway Quarters,Quick Bites,Good,3.6,21
+Spiceum,200,"Ice Cream,Fast Food",Ajmer,Panchsheel Nagar,Quick Bites,Average,3.3,14
+Riviera Restaurant,500,"Biryani,North Indian,Chinese",Ajmer,Boraj Kazipura,Casual Dining,Average,3.3,31
+2 Roti 2 Boti,150,North Indian,Ajmer,Panchsheel Nagar,Quick Bites,Good,3.5,53
+Shree Bhomji Misthan Bhandar,150,"Mithai,Street Food",Ajmer,Ana Sagar Lake,Sweet Shop,Average,3.3,11
+Royal recepies,250,Fast Food,Ajmer,Ana Sagar Lake,Food Truck,Average,3.4,10
+Twist on wheels,200,Fast Food,Ajmer,Ana Sagar Lake,Food Truck,Average,3.2,12
+Chilly Spicy Dhaba,250,"North Indian,Chinese",Ajmer,Panchsheel Nagar,Quick Bites,None,NEW,NEW
+Mast Mahadev Dhaba,300,"Fast Food,North Indian",Ajmer,Ana Sagar Lake,Quick Bites,Good,3.5,44
+Pizza Point,250,"Pizza,Fast Food",Ajmer,Railway Quarters,Quick Bites,Average,3.3,70
+Shree Jodhpur Sweets,100,"Fast Food,Mithai",Ajmer,Ana Sagar Lake,Sweet Shop,Average,3.3,9
+Bhagat Pan Bhandar,100,Paan,Ajmer,Ana Sagar Lake,Paan Shop,None,NEW,NEW
+Bhagwanti Juice Centre,100,Beverages,Ajmer,Ana Sagar Lake,Beverage Shop,None,NEW,NEW
+Brijwasi,200,"Chinese,Fast Food",Ajmer,Kotra,Quick Bites,Good,3.5,46
+Vijay Bakers & Confectioners,300,"Bakery,Fast Food",Ajmer,Railway Quarters,Bakery,Not rated,-,-
+Shree Maan Ji Chaat Bhandar,100,Fast Food,Ajmer,Panchsheel Nagar,Quick Bites,Average,3.3,4
+Olive Kitchen,700,"Biryani,Italian,North Indian,Salad,Afghan,Kebab",Ajmer,Ana Sagar Lake,Casual Dining,Average,3.3,40
+Raseela,150,Drinks Only,Ajmer,Railway Quarters,Beverage Shop,None,NEW,NEW
+Kashish Pure Veg Family Restaurant,400,"North Indian,Fast Food",Ajmer,Ana Sagar Lake,Casual Dining,None,NEW,NEW
+Deshi tadka,150,"North Indian,Fast Food",Ajmer,Ana Sagar Lake,Food Truck,Average,3.2,8
+Pehli Manzil,300,"Continental,Biryani,Beverages,South Indian,Italian,North Indian,Chinese,Rajasthani",Ajmer,Railway Quarters,Casual Dining,Average,3.3,46
+Bunty fast food,150,Fast Food,Ajmer,Kotra,Quick Bites,Average,3.2,13
+Azad Sweets,150,Desserts,Ajmer,Ana Sagar Lake,Dessert Parlor,None,NEW,NEW
+The Royal Thadi,100,Fast Food,Ajmer,Kotra,Quick Bites,Average,3.2,8
+Yummy Tummy (The Food Zone),100,Fast Food,Ajmer,Ana Sagar Lake,Quick Bites,Average,3.2,6
+Jaipur Jungle,600,"Continental,Burger,Beverages,Fast Food,Italian,North Indian,Chinese,Rajasthani",Ajmer,Ana Sagar Lake,Casual Dining,Average,3.2,37
+Mast Punjabi Tadka,300,North Indian,Ajmer,Ram Ganj,Quick Bites,Good,3.5,28
+Shakes Pi Yaar,100,"Beverages,Desserts",Ajmer,Railway Quarters,Quick Bites,Average,3.2,5
+Status By Silver Leaf,600,North Indian,Ajmer,Ana Sagar Lake,Casual Dining,Good,3.5,45
+Bambaiya Vada Paw,150,Fast Food,Ajmer,Ana Sagar Lake,Quick Bites,None,NEW,NEW
+Vijay Bakery,200,"Fast Food,Desserts,Bakery",Ajmer,Ana Sagar Lake,Bakery,Average,3.3,8
+Kitchen One Fast Food,300,Fast Food,Ajmer,Adarsh Nagar,Quick Bites,Average,3.2,13
+R. R. Chinese,300,"Street Food,Burger,Fast Food,Sandwich,Pizza,Chinese",Ajmer,Ana Sagar Lake,Shack,None,NEW,NEW
+Hotel Atlantica,300,"North Indian,Fast Food",Ajmer,Kotra,Fine Dining,Average,3.2,4
+Chilli Charly Food Point,150,Fast Food,Ajmer,Panchsheel Nagar,Food Truck,None,NEW,NEW
+RJ-01AC  Family  Restaurant and Fast Food,250,"Fast Food,Sandwich,Hot dogs,Pizza,North Indian,Chinese,Rajasthani,Kebab",Ajmer,Panchsheel Nagar,Casual Dining,None,NEW,NEW
+Shri Devnarayan Sweets,100,"Indian,Mithai",Ajmer,Adarsh Nagar,Sweet Shop,Average,3.2,6
+Dine In Peace,350,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,None,NEW,NEW
+Shree Ram Namkeen,200,Bakery,Ajmer,Ana Sagar Lake,Bakery,None,NEW,NEW
+Anmol Fast Food Corner,100,Fast Food,Ajmer,Adarsh Nagar,Quick Bites,Average,3.2,7
+Cafe CSM,300,"South Indian,Fast Food,Italian,North Indian,Chinese,Coffee",Ajmer,Panchsheel Nagar,Food Court,Average,3.3,42
+Chandumal Gagumal  Restaurant and Sweet store,150,"Bakery,Mithai,North Indian",Ajmer,Railway Quarters,Fine Dining,Average,3.2,4
+Brown Bake,350,"Mexican,Beverages,Fast Food,Cafe,Italian,North Indian,Chinese,Bakery",Ajmer,Kotra,Café,Average,3.4,50
+New In Town,150,Fast Food,Ajmer,Ana Sagar Lake,none,None,NEW,NEW
+The Box Office Cafe & Restro,350,"Cafe,North Indian",Ajmer,Ana Sagar Lake,Café,Good,3.6,33
+Hot-Shots,200,"Chinese,Fast Food",Ajmer,Ana Sagar Lake,Quick Bites,None,NEW,NEW
+Jacob Fast Food,300,Fast Food,Ajmer,Ram Ganj,Quick Bites,Not rated,-,-
+Farmer's Fresh,100,Fast Food,Ajmer,Ana Sagar Lake,Quick Bites,Not rated,-,-
+Sunny Di hatti ( A unit of kitchen queen pooja),100,North Indian,Ajmer,Railway Quarters,Casual Dining,Not rated,-,-
+Tiffin Centre,350,North Indian,Ajmer,Kotra,none,None,NEW,NEW
+Shri Mahadev's,100,Street Food,Ajmer,Ana Sagar Lake,Quick Bites,Not rated,-,-
+Om Ice Cream,100,Ice Cream,Ajmer,Kotra,Dessert Parlor,None,NEW,NEW
+Friend's Cafe,100,Fast Food,Ajmer,Ram Ganj,Quick Bites,Not rated,-,-
+Foodies Multi Cuisine Restaurant,200,"North Indian,Chinese",Ajmer,Panchsheel Nagar,Quick Bites,Not rated,-,-
+Maha Rani Tiffin Centre,200,Rajasthani,Ajmer,Ana Sagar Lake,none,None,NEW,NEW
+Tejasvini Foods,300,"North Indian,Chinese",Ajmer,Kundan Nagar,Quick Bites,None,NEW,NEW
+Sadda Adda,0,North Indian,Ajmer,Ana Sagar Lake,none,None,NEW,NEW
+Gangaram Amarcchand Halwai,250,"Mithai,North Indian",Ajmer,Railway Quarters,none,None,NEW,NEW
+JMD Fast Food,100,"Fast Food,Chinese",Ajmer,Dhola Bhata Colony,Quick Bites,None,NEW,NEW
+Masala Kitchen,0,North Indian,Ajmer,Ana Sagar Lake,Mess,None,NEW,NEW
+Malgudi Day's,150,North Indian,Ajmer,Panchsheel Nagar,Quick Bites,Good,3.6,28
+Lassi Shop,150,"Fast Food,Beverages",Ajmer,Hathi Khera,Quick Bites,Good,3.5,15
+Goyal Fast Food,200,"Fast Food,Pizza,Chinese",Ajmer,Ram Ganj,Quick Bites,Good,3.7,23
+Chawla's,300,North Indian,Ajmer,Ana Sagar Lake,Quick Bites,Average,3.3,43

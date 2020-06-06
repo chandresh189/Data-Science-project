@@ -1,538 +1,538 @@
-_NAME_,_PRICE_,_CUSINE_CATEGORY_,_CITY_,_REGION_,_URL_,_PAGE_NO_,_CUSINE_TYPE_,_TIMING_,_RATING_TYPE_,_RATING_,_VOTES_
-"""La Roma Pizzeria""","""500""","""Fast Food,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/la-roma-pizzeria-ranjit-avenue/info""","""1""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Excellent""","""4.9""","""2763"""
-"""Bade Bhai ka Brothers Dhaba""","""500""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/bade-bhai-ka-brothers-dhaba-1-town-hall/info""","""1""","""Casual Dining""","""8am to 1130pm(Mon-Sun)""","""Very Good""","""4.4""","""1008"""
-"""Bharawan Da Dhaba""","""500""","""North Indian,Fast Food""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/bharawan-da-dhaba-town-hall/info""","""1""","""Casual Dining""","""7am to 12midnight(Mon-Sun)""","""Very Good""","""4.3""","""989"""
-"""R K Food Plaza""","""400""","""North Indian,Chinese,Fast Food""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/r-k-food-plaza-town-hall/info""","""1""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.2""","""508"""
-"""Makhan Fish and Chicken Corner""","""700""","""North Indian,Chinese""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/makhan-fish-and-chicken-corner-basant-nagar/info""","""1""","""Casual Dining""","""12noon to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""868"""
-"""Bon Gateau""","""700""","""Cafe,Bakery,Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/bon-gateau-ranjit-avenue/info""","""1""","""Café""","""10am to 11pm(Mon-Sun)""","""Very Good""","""4.3""","""414"""
-"""Kale Da Dhaba""","""500""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/kale-da-dhaba-ranjit-avenue/info""","""1""","""Quick Bites""","""1230pm to 11pm(Mon-Sun)""","""Very Good""","""4.1""","""494"""
-"""Brothers' Amritsari Dhaba""","""400""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/brothers-amritsari-dhaba-town-hall/info""","""1""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.3""","""344"""
-"""Burger King""","""400""","""Burger""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/burger-king-lawrence-road/info""","""1""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""569"""
-"""Cafe Connect""","""500""","""Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/cafe-connect-ranjit-avenue/info""","""1""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.1""","""395"""
-"""Domino's Pizza""","""700""","""Pizza,Fast Food""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/dominos-pizza-lawrence-road/info""","""1""","""Quick Bites""","""11am to 12midnight(Mon-Sun)""","""Good""","""3.8""","""664"""
-"""Sip n Breww""","""200""","""Cafe""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/sip-n-breww-lawrence-road/info""","""1""","""Café""","""1030am to 11pm(Mon-Sun)""","""Good""","""3.9""","""400"""
-"""Bombay Pavbhaji - Original""","""350""","""Fast Food,Street Food""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/bombay-pavbhaji-original-ina-colony/info""","""1""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""388"""
-"""Sanjha Chulha""","""400""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/sanjha-chulha-lawrence-road/info""","""1""","""Casual Dining""","""9am to 12midnight(Mon-Sun)""","""Very Good""","""4.1""","""468"""
-"""Sakhis Watz Kukin""","""900""","""Chinese,Continental,North Indian,Italian,Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/sakhis-watz-kukin-ranjit-avenue/info""","""1""","""Casual Dining""","""1130am to 1140pm(Mon-Sun)""","""Very Good""","""4.4""","""386"""
-"""Burning Bun""","""300""","""Fast Food""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/burning-bun-basant-nagar/info""","""10""","""Quick Bites""","""1pm to 1030pm(Mon-Sun)""","""Good""","""3.5""","""53"""
-"""WAFL Café""","""500""","""Desserts,Bakery,Beverages,Fast Food,Continental""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/wafl-café-lawrence-road/info""","""10""","""Café""","""11am to 12midnight(Mon-Sun)""","""Good""","""3.9""","""82"""
-"""My Shop""","""700""","""North Indian,Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/my-shop-ranjit-avenue/info""","""10""","""Quick Bites""","""11am to 1030pm(Mon-Sun)""","""Good""","""3.7""","""71"""
-"""Jagmohan Veg Champ""","""150""","""Fast Food,North Indian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/jagmohan-veg-champ-basant-nagar/info""","""10""","""Quick Bites""","""2pm to 10pm(Mon-Sun)""","""Good""","""3.6""","""42"""
-"""Krishna Madhur Mishthan Bhandar & Vaishno Dhaba""","""300""","""North Indian,Mithai""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/krishna-madhur-mishthan-bhandar-vaishno-dhaba-basant-nagar/info""","""10""","""Dhaba""","""8am to 10pm(Mon-Sun)""","""Good""","""3.7""","""44"""
-"""Fun Tym Pizzaria""","""400""","""Pizza,Fast Food""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/fun-tym-pizzaria-rani-ka-bagh/info""","""10""","""Quick Bites""","""12noon to 930pm(Mon-Sun)""","""Good""","""3.7""","""61"""
-"""Indian summer restaurant""","""0""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/indian-summer-restaurant-town-hall/info""","""10""","""Quick Bites""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""In n Out Bakers""","""300""","""Bakery""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/in-n-out-bakers-ranjit-avenue/info""","""10""","""Bakery""","""11am to 930pm(Mon-Sun)""","""Good""","""3.6""","""42"""
-"""Peddlers""","""1000""","""North Indian,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/peddlers-ranjit-avenue/info""","""10""","""Pub""","""11am to 12midnight(Mon,Tue,Thu),11am to 2am...""","""Good""","""3.8""","""89"""
-"""The Urban Courtyard""","""1400""","""Fast Food,North Indian,Italian""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/the-urban-courtyard-white-avenue/info""","""10""","""Casual Dining""","""1130am to 1130pm(Mon),11am to 1130pm(Tue-Sun)""","""Good""","""3.7""","""110"""
-"""The Pizza Studio""","""500""","""Pizza,Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-pizza-studio-ranjit-avenue/info""","""10""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Average""","""3.3""","""117"""
-"""New Brijwasi Chat""","""300""","""Street Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/new-brijwasi-chat-ranjit-avenue/info""","""10""","""Quick Bites""","""12noon to 8pm(Mon-Sun)""","""Good""","""3.7""","""40"""
-"""Yummy Tummy""","""300""","""Fast Food""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/yummy-tummy-gt-road/info""","""10""","""Quick Bites""","""12noon to 10pm(Mon-Sun)""","""Good""","""3.6""","""34"""
-"""Bon's Food Factory""","""450""","""Italian,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/bons-food-factory-ranjit-avenue/info""","""10""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""79"""
-"""Enjoy Pizza Plus""","""450""","""Pizza,Beverages""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/enjoy-pizza-plus-ranjit-avenue/info""","""10""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""88"""
-"""Khanna Sweets""","""300""","""Mithai""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/khanna-sweets-lawrence-road/info""","""11""","""Sweet Shop""","""11am to 9pm(Mon-Sun)""","""Good""","""3.5""","""21"""
-"""Sanjha Chulha Dhaba""","""300""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/sanjha-chulha-dhaba-town-hall/info""","""11""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Good""","""3.5""","""63"""
-"""The Italian Hub""","""450""","""Italian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/the-italian-hub-gt-road/info""","""11""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Good""","""3.7""","""49"""
-"""Special Bombay Pav Bhaji & Bhel Puri""","""300""","""Fast Food,Street Food""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/special-bombay-pav-bhaji-bhel-puri-basant-nagar/info""","""11""","""Quick Bites""","""430pm to 1030pm(Mon-Sun)""","""Average""","""3.3""","""10"""
-"""Pure Punjabi Vegetarian""","""300""","""North Indian""","""Amritsar""","""Mall Road""","""https://www.zomato.com/amritsar/pure-punjabi-vegetarian-mall-road/info""","""11""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""Average""","""3.3""","""19"""
-"""Foodeez""","""400""","""Chinese,Cafe,Pizza,North Indian,Italian""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/foodeez-rani-ka-bagh/info""","""11""","""Café""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""107"""
-"""Subhash Juice Bar""","""200""","""Juices,Fast Food""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/subhash-juice-bar-basant-nagar/info""","""11""","""Beverage Shop""","""9am to 1050pm(Mon-Sun)""","""Good""","""3.5""","""20"""
-"""Cut of Joy""","""300""","""Cafe,Fast Food""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/amritsar/cut-of-joy-kabir-park/info""","""11""","""Café""","""8am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Amrit Pastry Shop""","""150""","""Bakery,Desserts""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/amrit-pastry-shop-gt-road/info""","""11""","""Bakery""","""10am to 9pm(Mon-Sun)""","""Good""","""3.7""","""47"""
-"""Cheesy Hub""","""150""","""Fast Food,Burger,Sandwich""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/cheesy-hub-basant-nagar/info""","""11""","""Quick Bites""","""12noon to 1030pm(Mon-Sun)""","""Average""","""3.3""","""11"""
-"""Famous Kulcha Corner""","""100""","""North Indian""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/famous-kulcha-corner-rani-ka-bagh/info""","""11""","""Dhaba""","""8am to 430pm(Mon-Sun)""","""Good""","""3.6""","""16"""
-"""The  Bakers""","""350""","""Desserts,Fast Food""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/amritsar/the-bakers-kabir-park/info""","""11""","""Bakery""","""9am to 10pm(Mon-Sun)""","""Average""","""3.4""","""23"""
-"""Food Forest""","""600""","""Chinese,North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/food-forest-ranjit-avenue/info""","""11""","""Casual Dining""","""1130am to 1045pm(Mon-Sun)""","""Average""","""3.2""","""39"""
-"""Sardar Ji Kulcha""","""150""","""North Indian,Fast Food""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/sardar-ji-kulcha-basant-nagar/info""","""11""","""Quick Bites""","""9am to 315pm(Mon-Sun)""","""Average""","""3.4""","""15"""
-"""Mom's Cafe""","""300""","""Fast Food,Italian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/moms-cafe-ina-colony/info""","""11""","""Quick Bites""","""12noon to 9pm(Mon-Sun)""","""Average""","""3.3""","""14"""
-"""Bakewell Bakers""","""300""","""Bakery""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/bakewell-bakers-ina-colony/info""","""12""","""Bakery""","""630am to 10pm(Mon-Sun)""","""Average""","""2.9""","""43"""
-"""Prem Nath & Sons Kulfe Wale""","""150""","""Ice Cream,Desserts""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/prem-nath-sons-kulfe-wale-hathi-gate/info""","""12""","""Dessert Parlor""","""11am to 10pm(Mon-Sun)""","""Good""","""3.5""","""20"""
-"""Chawlas 2""","""500""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/chawlas-2-3-ranjit-avenue/info""","""12""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""93"""
-"""Dchef's Delite""","""300""","""Fast Food""","""Amritsar""","""Amritsar Cantonment""","""https://www.zomato.com/amritsar/dchefs-delite-amritsar-cantonment/info""","""12""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""Average""","""3.3""","""12"""
-"""BB - Brother Bakery""","""400""","""Bakery""","""Amritsar""","""Amritsar Cantonment""","""https://www.zomato.com/amritsar/bb-brother-bakery-amritsar-cantonment/info""","""12""","""Bakery""","""11am to 10pm(Mon-Sun)""","""Average""","""2.9""","""8"""
-"""Ghar Ka Khana""","""150""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/ghar-ka-khana-town-hall/info""","""12""","""Quick Bites""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Big Bites""","""200""","""Fast Food""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/big-bites-basant-nagar/info""","""12""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Lotizza Pizza""","""400""","""Italian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/lotizza-pizza-basant-nagar/info""","""12""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""63"""
-"""Kulcha King""","""300""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/kulcha-king-ranjit-avenue/info""","""12""","""Quick Bites""","""830am to 4pm(Mon-Sun)""","""Good""","""3.5""","""34"""
-"""Apsra Dhaba""","""300""","""North Indian""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/apsra-dhaba-hathi-gate/info""","""12""","""Quick Bites""","""12noon to 10pm(Mon-Sun)""","""Average""","""3.1""","""4"""
-"""British Beer Cafe""","""500""","""North Indian,Cafe""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/british-beer-cafe-2-ranjit-avenue/info""","""12""","""Café""","""1130am to 1145pm(Mon-Sun)""","""Average""","""3.4""","""33"""
-"""HS Buger House""","""200""","""Fast Food""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/hs-buger-house-gt-road/info""","""12""","""Quick Bites""","""11am to 9pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""American Pizza""","""200""","""Pizza""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/american-pizza-gt-road/info""","""12""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""Average""","""3.2""","""9"""
-"""Life Bakery""","""500""","""Desserts""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/life-bakery-mohan-nagar/info""","""12""","""Bakery""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""70"""
-"""BK Chat Bhandar""","""100""","""North Indian,Fast Food,Street Food""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/bk-chat-bhandar-hathi-gate/info""","""12""","""Quick Bites""","""4pm to 1045pm(Mon-Sun)""","""Average""","""3.2""","""6"""
-"""Laxmi Bikaner Sweets""","""200""","""Mithai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/laxmi-ranjit-avenue/info""","""13""","""Sweet Shop""","""9am to 10pm(Mon-Sun)""","""Average""","""3.3""","""13"""
-"""Patola Drinks N Gabru Snacks""","""250""","""North Indian""","""Amritsar""","""Amritsar Cantonment""","""https://www.zomato.com/amritsar/patola-drinks-n-gabru-snacks-amritsar-cantonment/info""","""13""","""Quick Bites""","""1115am to 915pm(Mon-Sun)""","""Average""","""3.3""","""13"""
-"""Ambey Bikaner Sweets""","""100""","""Mithai,Street Food""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/amritsar/ambey-bikaner-sweets-kabir-park/info""","""13""","""Sweet Shop""","""10am to 10pm(Mon-Sun)""","""Average""","""3.4""","""20"""
-"""Sonu Kulcha Hut""","""150""","""Street Food""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/sonu-kulcha-hut-white-avenue/info""","""13""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Average""","""3.4""","""26"""
-"""Mc Grill""","""500""","""Fast Food""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/amritsar/mc-grill-kabir-park/info""","""13""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Average""","""3.4""","""29"""
-"""Juice And Fruit Shop""","""100""","""Juices""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/juice-and-fruit-shop-1-ina-colony/info""","""13""","""Beverage Shop""","""10am to 10pm(Mon-Sun)""","""Average""","""3.2""","""8"""
-"""Nanking Express""","""350""","""Chinese""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/nanking-express-1-gt-road/info""","""13""","""Food Court""","""11am to 1030pm(Mon-Sun)""","""Average""","""3.4""","""22"""
-"""Narula's""","""600""","""North Indian""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/narulas-white-avenue/info""","""13""","""Quick Bites""","""10am to 1030pm(Mon-Sun)""","""Average""","""3.4""","""24"""
-"""Jack Shack""","""200""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/jack-shack-3-ranjit-avenue/info""","""13""","""Quick Bites""","""1pm to 1040pm(Mon-Sat),11pm to 1040pm(Sun)""","""Good""","""3.5""","""22"""
-"""Punjabi Tadka""","""400""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/punjabi-tadka-ranjit-avenue/info""","""13""","""Quick Bites""","""9am to 10pm(Mon-Sun)""","""Average""","""3.3""","""24"""
-"""Chapatti Wala""","""300""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/chapatti-wala-ranjit-avenue/info""","""13""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""Poor""","""2.4""","""22"""
-"""Rudra Food Court""","""300""","""Burger,South Indian,Fast Food,North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/rudra-food-court-gt-road/info""","""13""","""Quick Bites""","""11am to 9pm(Mon-Sun)""","""Average""","""3.3""","""15"""
-"""PANBUCKS""","""0""","""""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/panbucks-mohan-nagar/info""","""13""","""Bakery""","""1130am to 1030pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Canadian Pizza""","""350""","""Pizza,Fast Food""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/canadian-pizza-hathi-gate/info""","""13""","""Quick Bites""","""1030am to 930pm(Mon-Sun)""","""Average""","""3.3""","""26"""
-"""Mind Kaffe & Shakes""","""300""","""Beverages""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/mind-kaffe-shakes-white-avenue/info""","""13""","""Quick Bites""","""11am to 1030pm(Mon-Sun)""","""Average""","""3.4""","""17"""
-"""The Pisa Pizza""","""400""","""Fast Food,Pizza""","""Amritsar""","""Maquboolpura""","""https://www.zomato.com/amritsar/the-pisa-pizza-maquboolpura/info""","""14""","""Quick Bites""","""1230pm to 1030pm(Mon-Sun)""","""Average""","""3.2""","""13"""
-"""Cakerz N Bakerz""","""350""","""Bakery,Desserts""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/cakerz-n-bakerz-hathi-gate/info""","""14""","""none""","""10am to 10pm(Mon-Sun)""","""Average""","""3.3""","""21"""
-"""The Chocolate Room""","""300""","""Continental,Burger,Fast Food,Desserts""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/amritsar/the-chocolate-room-kabir-park/info""","""14""","""Quick Bites""","""11am to 9pm(Mon-Sun)""","""Average""","""3.2""","""8"""
-"""The Pearl""","""600""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-pearl-ranjit-avenue/info""","""14""","""Casual Dining""","""10am to 10pm(Mon-Sun)""","""Average""","""3.1""","""5"""
-"""Regal Restaurant""","""300""","""Fast Food,South Indian""","""Amritsar""","""Mall Road""","""https://www.zomato.com/amritsar/regal-restaurant-mall-road/info""","""14""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Average""","""2.7""","""5"""
-"""Food junction""","""250""","""Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/food-junction-ranjit-avenue/info""","""14""","""Quick Bites""","""10am to 1030pm(Mon-Sun)""","""Average""","""3.2""","""19"""
-"""Bittu Meat Walla""","""400""","""North Indian""","""Amritsar""","""Ranjit Nagar""","""https://www.zomato.com/amritsar/bittu-meat-walla-ranjit-nagar/info""","""14""","""Quick Bites""","""11am to 530pm(Mon-Sun)""","""Average""","""3.4""","""17"""
-"""Eat""","""500""","""North Indian,Chinese""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/eat-hathi-gate/info""","""14""","""Casual Dining""","""11am to 1030pm(Mon-Sun)""","""Average""","""3.1""","""6"""
-"""Maoh American Food""","""150""","""Continental""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/maoh-american-food-town-hall/info""","""14""","""Quick Bites""","""12noon to 10pm(Mon-Sun)""","""Average""","""3.2""","""8"""
-"""Italio""","""400""","""Pizza,Italian""","""Amritsar""","""AplhaOne Mall-- GT Road""","""https://www.zomato.com/amritsar/italio-gt-road/info""","""14""","""Quick Bites""","""(Mon-Sun)""","""Average""","""3.2""","""11"""
-"""Zyka""","""700""","""Chinese,North Indian,Coffee""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/zyka-town-hall/info""","""14""","""Casual Dining""","""7am to 12midnight(Mon-Sun)""","""Good""","""3.5""","""48"""
-"""Cafe Square""","""350""","""Pizza,Fast Food""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/cafe-square-lawrence-road/info""","""14""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Average""","""2.8""","""9"""
-"""Aay Kay Hotel""","""1000""","""North Indian,Chinese,Continental""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/aay-kay-hotel-rani-ka-bagh/info""","""14""","""Casual Dining""","""1130am to 3pm,730pm to 1030pm(Mon-Sun)""","""Average""","""3.3""","""14"""
-"""Honey Hut""","""200""","""Desserts,Ice Cream""","""Amritsar""","""AplhaOne Mall-- GT Road""","""https://www.zomato.com/amritsar/honey-hut-gt-road/info""","""14""","""Dessert Parlor""","""10am to 10pm(Mon-Sun)""","""Average""","""3.1""","""11"""
-"""New Bite Club Pizza""","""200""","""Pizza,Fast Food,Beverages""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/new-bite-club-pizza-gt-road/info""","""14""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Charcoal 'N' Wudz""","""1100""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/charcoal-n-wudz-ranjit-avenue/info""","""15""","""Casual Dining""","""1030am to 1230AM(Mon-Sun)""","""Very Good""","""4.3""","""99"""
-"""Prohibition""","""300""","""Italian,Continental""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/prohibition-2-ranjit-avenue/info""","""15""","""Quick Bites""","""12noon to 12midnight(Mon),(Tue-Sun)""","""Average""","""3.3""","""20"""
-"""Chill out Restaurant""","""400""","""Chinese,Italian""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/chill-out-restaurant-mohan-nagar/info""","""15""","""Quick Bites""","""1230pm to 1030pm(Mon-Sun)""","""Average""","""3.3""","""11"""
-"""King Chicken Corner""","""250""","""North Indian,Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/king-chicken-corner-ranjit-avenue/info""","""15""","""Quick Bites""","""3pm to 10pm(Mon-Sun)""","""Average""","""3.2""","""9"""
-"""Om Snacks & Fastfood""","""300""","""Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/om-snacks-fastfood-ranjit-avenue/info""","""15""","""Quick Bites""","""Closed(Mon),4pm to 9pm(Tue-Sun)""","""Average""","""3.3""","""19"""
-"""Man Vs Food""","""350""","""Italian,Fast Food""","""Amritsar""","""Shastri Nagar""","""https://www.zomato.com/amritsar/man-vs-food-shastri-nagar/info""","""15""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""Average""","""2.9""","""13"""
-"""Giani Punjabi Lassi""","""100""","""Mithai""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/giani-punjabi-lassi-hathi-gate/info""","""15""","""Sweet Shop""","""11am to 9pm(Mon-Sun)""","""Average""","""3.2""","""9"""
-"""Ravi's Chicken Treat""","""400""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/ravis-chicken-treat-ranjit-avenue/info""","""15""","""Quick Bites""","""3pm to 1030pm(Mon,Wed,Thu,Fri,Sat,Sun)...""","""Average""","""3.1""","""9"""
-"""Bawarchi""","""400""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/bawarchi-ranjit-avenue/info""","""15""","""Quick Bites""","""130pm to 1030pm(Mon-Sun)""","""Average""","""3.2""","""9"""
-"""Babaji Vaishno Bhojan Bhandar""","""150""","""North Indian,Fast Food""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/babaji-vaishno-bhojan-bhandar-rani-ka-bagh/info""","""15""","""Bhojanalya""","""9am to 6pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Royal Pan Parlour""","""100""","""Paan""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/royal-pan-parlour-ranjit-avenue/info""","""15""","""Paan Shop""","""1030am to 1015pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Manu Kulcha""","""200""","""Street Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/manu-kulcha-ranjit-avenue/info""","""15""","""Quick Bites""","""9am to 5pm(Mon-Sun)""","""Average""","""3.2""","""4"""
-"""Arora Bakers""","""300""","""Bakery,Desserts""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/amritsar/arora-bakers-kabir-park/info""","""15""","""Bakery""","""9am to 9pm(Mon-Sun)""","""Average""","""3.0""","""8"""
-"""Avtar Non Veg Dhaba""","""350""","""North Indian""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/avtar-non-veg-dhaba-rani-ka-bagh/info""","""15""","""Dhaba""","""10am to 10pm(Mon-Sun)""","""Average""","""2.9""","""17"""
-"""Italian Pizza""","""300""","""Italian""","""Amritsar""","""Maquboolpura""","""https://www.zomato.com/amritsar/italian-pizza-maquboolpura/info""","""15""","""Quick Bites""","""12noon to 1030pm(Mon-Sun)""","""Average""","""3.1""","""10"""
-"""New Janta Vaishno Dhaba""","""250""","""North Indian,Fast Food""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/new-janta-vaishno-dhaba-white-avenue/info""","""16""","""Dhaba""","""10am to 5pm,7pm to 1030pm(Mon-Sun)""","""Average""","""3.0""","""7"""
-"""Baskin Robbins""","""300""","""Ice Cream""","""Amritsar""","""Trillium Mall-- White Avenue""","""https://www.zomato.com/amritsar/baskin-robbins-white-avenue/info""","""16""","""Dessert Parlor""","""(Mon-Sun)""","""Average""","""3.1""","""6"""
-"""Chaman Chicken Hut""","""1000""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/chaman-chicken-hut-ranjit-avenue/info""","""16""","""Casual Dining""","""12noon to 10pm(Mon-Sun)""","""Average""","""3.2""","""14"""
-"""Standard Sweets Shop""","""150""","""Mithai""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/standard-sweets-shop-town-hall/info""","""16""","""Sweet Shop""","""8am to 930pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Grover Bakers""","""200""","""Bakery""","""Amritsar""","""Mall Road""","""https://www.zomato.com/amritsar/grover-bakers-mall-road/info""","""16""","""Bakery""","""10am to 915pm(Mon-Sun)""","""Average""","""3.2""","""11"""
-"""Gill's Chick-inn""","""350""","""Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/gills-chick-inn-ranjit-avenue/info""","""16""","""Quick Bites""","""(Mon-Sun)""","""Average""","""2.7""","""12"""
-"""Republic of Chicken""","""400""","""Raw Meats,Fast Food,Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/republic-of-chicken-ranjit-avenue/info""","""16""","""Meat Shop""","""10am to 10pm(Mon-Sun)""","""Average""","""2.6""","""11"""
-"""Italian Bite""","""600""","""Italian""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/italian-bite-rani-ka-bagh/info""","""16""","""Quick Bites""","""1030am to 1030pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Chinar Hot Shop""","""250""","""Fast Food,Chinese,South Indian""","""Amritsar""","""Amritsar Junction""","""https://www.zomato.com/amritsar/chinar-hot-shop-amritsar-junction/info""","""16""","""Quick Bites""","""12noon to 1030pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""New Standard Sweet Shop""","""150""","""Mithai""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/new-standard-sweet-shop-town-hall/info""","""16""","""Sweet Shop""","""8am to 930pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Tare Di Hatti""","""250""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/tare-di-hatti-1-lawrence-road/info""","""16""","""Kiosk""","""1pm to 1015pm(Mon-Sun)""","""Average""","""3.2""","""9"""
-"""Little Princess Treasures""","""400""","""Bakery,Cafe,Desserts""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/little-princess-treasures-1-ranjit-avenue/info""","""16""","""Bakery""","""12noon to 8pm(Mon-Sun)""","""Average""","""2.8""","""13"""
-"""Monga Bakers""","""200""","""Bakery""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/monga-bakers-basant-nagar/info""","""16""","""Bakery""","""1030am to 10pm(Mon-Sun)""","""Average""","""3.3""","""11"""
-"""Chill N Food""","""300""","""Fast Food,Beverages""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/chill-n-food-ranjit-avenue/info""","""16""","""Quick Bites""","""10am to 1030pm(Mon-Sun)""","""Average""","""3.0""","""10"""
-"""Bemisaal Restaurant""","""1400""","""Chinese,Indian,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/bemisaal-restaurant-ranjit-avenue/info""","""16""","""Casual Dining""","""11am to 1130am(Mon,Wed,Thu,Fri,Sat,Sun)...""","""Average""","""3.0""","""5"""
-"""Ashoka Fish Corner""","""300""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/ashoka-fish-corner-town-hall/info""","""17""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Ravis Chicken Treat""","""300""","""Fast Food""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/ravis-chicken-treat-town-hall/info""","""17""","""Quick Bites""","""12noon to 10pm(Mon-Sun)""","""Average""","""2.9""","""6"""
-"""Truly Tasty Tiffen Service""","""200""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/truly-tasty-tiffen-service-gt-road/info""","""17""","""none""","""10am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Ravis Chicken""","""400""","""Fast Food,North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/ravis-chicken-town-hall/info""","""17""","""Quick Bites""","""2pm to 1030pm(Mon-Sun)""","""Average""","""2.9""","""6"""
-"""Radha Krishna Shakti Mishtaan Bhandaar""","""400""","""Mithai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/radha-krishna-shakti-mishtaan-bhandaar-ranjit-avenue/info""","""17""","""Sweet Shop""","""730am to 930pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Formos""","""500""","""North Indian,Chinese,Fast Food""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/formos-lawrence-road/info""","""17""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""77"""
-"""The pizza.com""","""300""","""Italian,Fast Food""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/the-pizza-com-hathi-gate/info""","""17""","""Quick Bites""","""11am to 1030pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""South Indian Dosa Wala""","""150""","""South Indian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/south-indian-dosa-wala-ina-colony/info""","""17""","""Quick Bites""","""5pm to 9pm(Mon-Sun)""","""Average""","""3.0""","""4"""
-"""Pappu Chicken Shop""","""400""","""North Indian,Fast Food""","""Amritsar""","""Amritsar Cantonment""","""https://www.zomato.com/amritsar/pappu-chicken-shop-amritsar-cantonment/info""","""17""","""Quick Bites""","""1pm to 1030pm(Mon-Sun)""","""Average""","""3.0""","""7"""
-"""Mama Meat Shop""","""300""","""Raw Meats""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/mama-meat-shop-ranjit-avenue/info""","""17""","""Meat Shop""","""130pm to 10pm(Mon-Sun)""","""Average""","""3.0""","""4"""
-"""Superior Rasoi""","""450""","""North Indian,Chinese""","""Amritsar""","""Ranjit Nagar""","""https://www.zomato.com/amritsar/superior-rasoi-ranjit-nagar/info""","""17""","""Quick Bites""","""2pm to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Pick n Move""","""600""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/pick-n-move-lawrence-road/info""","""17""","""Quick Bites""","""11am to 1030pm(Mon-Sun)""","""Average""","""2.7""","""7"""
-"""Hadippa""","""600""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/hadippa-ranjit-avenue/info""","""17""","""Casual Dining""","""10am to 10pm(Mon-Sun)""","""Average""","""2.8""","""5"""
-"""Bakers""","""200""","""Bakery""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/bakers-ranjit-avenue/info""","""17""","""Bakery""","""7am to 9pm(Mon-Sun)""","""Average""","""3.1""","""6"""
-"""Crystal - Takeaway""","""180""","""Chinese""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/crystal-takeaway-ina-colony/info""","""17""","""Quick Bites""","""1pm to 11pm(Mon-Sun)""","""Good""","""3.8""","""52"""
-"""Chaurasia Brothers""","""100""","""Juices""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/chaurasia-brothers-rani-ka-bagh/info""","""18""","""Beverage Shop""","""10am to 9pm(Mon-Sun)""","""Average""","""2.9""","""6"""
-"""Fresh And Tasty""","""300""","""Fast Food,Chinese""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/fresh-and-tasty-rani-ka-bagh/info""","""18""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""Average""","""3.2""","""5"""
-"""Walia Fast Food""","""200""","""Fast Food""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/walia-fast-food-basant-nagar/info""","""18""","""Quick Bites""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Labbu Shah Kulcha King""","""300""","""Street Food,North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/labbu-shah-kulcha-king-ranjit-avenue/info""","""18""","""Quick Bites""","""830am to 1030pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""House Of Candy""","""200""","""Desserts""","""Amritsar""","""Ranjit Nagar""","""https://www.zomato.com/amritsar/house-of-candy-ranjit-nagar/info""","""18""","""Confectionery""","""1030am to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Cafe Buddha""","""500""","""Cafe""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/cafe-buddha-ranjit-avenue/info""","""18""","""Café""","""8am to 7pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Lookwell Bakers""","""300""","""Bakery""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/lookwell-bakers-gt-road/info""","""18""","""Quick Bites""","""11am to 9pm(Mon-Sun)""","""Average""","""3.0""","""4"""
-"""Krazy Kitchen""","""300""","""North Indian,Chinese""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/krazy-kitchen-gt-road/info""","""18""","""Quick Bites""","""1pm to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""RB Sahni Dhoklawala""","""150""","""Street Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/rb-sahni-dhoklawala-ranjit-avenue/info""","""18""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Meat Adda""","""300""","""North Indian""","""Amritsar""","""Amritsar Cantonment""","""https://www.zomato.com/amritsar/meat-adda-amritsar-cantonment/info""","""18""","""Quick Bites""","""130pm to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Canadian Cafe""","""500""","""Italian,North Indian,Chinese,Continental""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/canadian-cafe-1-ranjit-avenue/info""","""18""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""53"""
-"""Royal Pizza""","""400""","""Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/royal-pizza-ranjit-avenue/info""","""18""","""Quick Bites""","""1230pm to 930pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Heere di hatti""","""100""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/heere-di-hatti-town-hall/info""","""18""","""Quick Bites""","""9am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Om juice bar""","""0""","""Burger,Cafe""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/om-juice-bar-mohan-nagar/info""","""18""","""Beverage Shop""","""11am to 1030pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Mangal Da Dhaba""","""300""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/mangal-da-dhaba-gt-road/info""","""18""","""Dhaba""","""7am to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Crazy Bar""","""500""","""Indian,Chinese,Fast Food""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/crazy-bar-hathi-gate/info""","""19""","""Casual Dining""","""11am to 1030pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Frozen Corner""","""300""","""North Indian,Chinese""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/frozen-corner-rani-ka-bagh/info""","""19""","""Casual Dining""","""2pm to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Eat Well Restaurant""","""500""","""North Indian,Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/eat-well-restaurant-1-ranjit-avenue/info""","""19""","""Quick Bites""","""(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Rinky Kulcha""","""100""","""North Indian""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/rinky-kulcha-white-avenue/info""","""19""","""Quick Bites""","""9am to 4pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Hotel Lamhe""","""500""","""North Indian,Chinese,Continental""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/hotel-lamhe-rani-ka-bagh/info""","""19""","""Casual Dining""","""11am to 9pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Laxmi Bikaner Restaurant""","""600""","""North Indian""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/laxmi-bikaner-restaurant-hathi-gate/info""","""19""","""Quick Bites""","""10am to 1030pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Apni Rasoi""","""200""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/apni-rasoi-gt-road/info""","""19""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Friends Kulcha Land""","""150""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/friends-kulcha-land-ranjit-avenue/info""","""19""","""Quick Bites""","""930am to 3pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Street Cafe""","""200""","""Fast Food""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/street-cafe-rani-ka-bagh/info""","""19""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""The Potato King""","""100""","""North Indian,Fast Food""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/the-potato-king-rani-ka-bagh/info""","""19""","""Quick Bites""","""9am to 9pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Bawa Kulcha Point""","""100""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/bawa-kulcha-point-lawrence-road/info""","""19""","""Quick Bites""","""9am to 4pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""The Frozen Factory""","""250""","""Ice Cream""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-frozen-factory-ranjit-avenue/info""","""19""","""Quick Bites""","""24""","""Good""","""3.9""","""104"""
-"""The Pizza Point""","""300""","""Pizza""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/the-pizza-point-mohan-nagar/info""","""19""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""41"""
-"""Pizza Hudd""","""400""","""Fast Food,Pizza""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/pizza-hudd-basant-nagar/info""","""19""","""Quick Bites""","""1030am to 1030pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""AJ Food Court""","""250""","""Fast Food,Chinese""","""Amritsar""","""Shastri Nagar""","""https://www.zomato.com/amritsar/aj-food-court-shastri-nagar/info""","""19""","""none""","""10am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Hungry Pizza""","""500""","""Fast Food,Italian,Pizza""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/hungry-pizza-rani-ka-bagh/info""","""2""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""294"""
-"""Cafe Chokolade""","""250""","""Salad,Cafe,Healthy Food,Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/cafe-chokolade-ranjit-avenue/info""","""2""","""Café""","""11am to 1am(Mon-Thu),11am to 4am(Fri-Sun)""","""Very Good""","""4.0""","""303"""
-"""Janta Food""","""200""","""North Indian,Street Food""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/janta-food-ina-colony/info""","""2""","""Quick Bites""","""8am to 11pm(Mon-Sun)""","""Very Good""","""4.1""","""187"""
-"""Subway""","""500""","""Healthy Food,Sandwich,Salad""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/subway-lawrence-road/info""","""2""","""Quick Bites""","""9am to 1am(Mon-Sun)""","""Very Good""","""4.1""","""413"""
-"""KFC""","""500""","""Burger,Fast Food""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/kfc-white-avenue/info""","""2""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.2""","""404"""
-"""Annpurna Veg. Dhaba""","""400""","""North Indian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/annpurna-veg-dhaba-basant-nagar/info""","""2""","""Quick Bites""","""830am to 11pm(Mon),815am to 11pm(Tue-Sun)""","""Very Good""","""4.0""","""269"""
-"""Los Fiesta""","""600""","""Italian,Chinese""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/los-fiesta-basant-nagar/info""","""2""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""252"""
-"""Anjan Mutton and Chicken Products""","""200""","""Biryani,Chinese,Fast Food,North Indian,Burger""","""Amritsar""","""Azad Nagar""","""https://www.zomato.com/amritsar/anjan-mutton-and-chicken-products-azad-nagar/info""","""2""","""Quick Bites""","""930am to 11pm(Mon-Sun)""","""Very Good""","""4.2""","""357"""
-"""Charming Chicken""","""600""","""North Indian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/charming-chicken-basant-nagar/info""","""2""","""Quick Bites""","""1pm to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...""","""Very Good""","""4.4""","""573"""
-"""Bubby Fish & Chicken Corner""","""300""","""North Indian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/bubby-fish-chicken-corner-ina-colony/info""","""2""","""Quick Bites""","""1230pm to 1130pm(Mon-Sun)""","""Good""","""3.8""","""342"""
-"""Crystal Restaurant""","""800""","""North Indian,Mughlai""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/crystal-restaurant-ina-colony/info""","""2""","""Casual Dining""","""1130am to 12midnight(Mon-Sun)""","""Very Good""","""4.0""","""304"""
-"""Burgrill""","""450""","""Fast Food,Burger""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/burgrill-ranjit-avenue/info""","""2""","""Quick Bites""","""1230pm to 11pm(Mon-Sun)""","""Very Good""","""4.2""","""261"""
-"""Muskaan""","""500""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/muskaan-ranjit-avenue/info""","""2""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""364"""
-"""Zaika Family Restaurant""","""300""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/zaika-family-restaurant-gt-road/info""","""2""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.1""","""114"""
-"""Pappi Di Hatti Tandoori Magic""","""400""","""North Indian""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/pappi-di-hatti-tandoori-magic-white-avenue/info""","""2""","""Quick Bites""","""11am to 12midnight(Mon),11am to 1115pm...""","""Very Good""","""4.1""","""231"""
-"""Krishna Snacks Corner""","""150""","""Street Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/krishna-snacks-corner-ranjit-avenue/info""","""20""","""Quick Bites""","""8am to 8pm(Mon-Sat),Closed(Sun)""","""Not rated""","""-""","""-"""
-"""Munim Di Hatti""","""100""","""Beverages""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/munim-di-hatti-lawrence-road/info""","""20""","""Beverage Shop""","""10am to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Pizza Lovers""","""200""","""Pizza,Fast Food""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/pizza-lovers-lawrence-road/info""","""20""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Just Baked""","""200""","""Bakery""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/just-baked-ranjit-avenue/info""","""20""","""Bakery""","""11am to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""American food""","""150""","""Burger,Cafe""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/american-food-basant-nagar/info""","""20""","""Café""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Backyard Burgers""","""200""","""Fast Food,Burger,Desserts,Beverages""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/backyard-burgers-rani-ka-bagh/info""","""20""","""Quick Bites""","""12noon to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Amritsari Kulcha""","""0""","""North Indian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/amritsari-kulcha-ina-colony/info""","""20""","""Quick Bites""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Bhagwati Kulcha And Spicy Hut""","""200""","""North Indian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/bhagwati-kulcha-and-spicy-hut-basant-nagar/info""","""20""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Funky Junky""","""350""","""Fast Food,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/funky-junky-ranjit-avenue/info""","""20""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Bhadur kulcha corner""","""0""","""""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/bhadur-kulcha-corner-basant-nagar/info""","""20""","""Casual Dining""","""1030am to 9pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""J J Brothers Kulcha Point""","""100""","""Street Food,Fast Food""","""Amritsar""","""Shastri Nagar""","""https://www.zomato.com/amritsar/j-j-brothers-kulcha-point-shastri-nagar/info""","""20""","""Quick Bites""","""9am to 1030pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Sethi's Charcoal Grill""","""400""","""North Indian,Desserts,Beverages""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/sethis-charcoal-grill-ranjit-avenue/info""","""20""","""Casual Dining""","""4pm to 10pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Sweet Infuzion""","""300""","""Bakery""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/sweet-infuzion-gt-road/info""","""20""","""none""","""10am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Dawat E Punjab""","""700""","""North Indian,Chinese,Fast Food""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/dawat-e-punjab-rani-ka-bagh/info""","""20""","""Casual Dining""","""11am to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Tamanna Restaurant""","""0""","""North Indian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/tamanna-restaurant-ina-colony/info""","""20""","""Quick Bites""","""(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Randhawa chicken house""","""0""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/randhawa-chicken-house-gt-road/info""","""21""","""Quick Bites""","""4pm to 10pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Talk Of The Town""","""500""","""Chinese,Cafe,Continental,Fast Food,North Indian,Coffee,Desserts""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/talk-of-the-town-ranjit-avenue/info""","""21""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""47"""
-"""Amrit Dhaba Family Restaurant""","""300""","""North Indian,Chinese""","""Amritsar""","""GNDU Area""","""https://www.zomato.com/amritsar/amrit-dhaba-family-restaurant-gndu-area/info""","""21""","""Dhaba""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""57"""
-"""Spicy Hut Vintage""","""500""","""North Indian,Fast Food,Beverages""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/spicy-hut-vintage-1-ranjit-avenue/info""","""21""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""81"""
-"""Fit Fuel""","""400""","""Healthy Food,North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/fit-fuel-ranjit-avenue/info""","""21""","""Quick Bites""","""8am to 11pm(Mon-Sun)""","""Good""","""3.7""","""67"""
-"""Peshawari""","""300""","""North Indian,Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/peshawari-ranjit-avenue/info""","""21""","""Quick Bites""","""11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...""","""Good""","""3.6""","""93"""
-"""South Indian Madrasi Dosa Wala""","""500""","""South Indian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/south-indian-madrasi-dosa-wala-ina-colony/info""","""21""","""Quick Bites""","""12noon to 1130pm(Mon-Sun)""","""Good""","""3.8""","""57"""
-"""Tasty Hut's Afghani Soya""","""400""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/tasty-huts-afghani-soya-gt-road/info""","""21""","""Casual Dining""","""12noon to 11pm(Mon-Sun)""","""Good""","""3.8""","""81"""
-"""The Cooling Pan""","""200""","""Ice Cream""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/the-cooling-pan-basant-nagar/info""","""21""","""Dessert Parlor""","""12noon to 11pm(Mon-Sun)""","""Average""","""2.9""","""6"""
-"""Mom'z Restaurant & Cafe""","""600""","""North Indian,Chinese,Continental""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/momz-restaurant-cafe-lawrence-road/info""","""21""","""Casual Dining""","""12noon to 11pm(Mon-Sun)""","""Average""","""3.3""","""94"""
-"""Mathura Chat""","""150""","""Street Food""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/mathura-chat-lawrence-road/info""","""21""","""Quick Bites""","""1030am to 1130pm(Mon-Sun)""","""Average""","""3.3""","""71"""
-"""Cafe Oz Restaurant & Lounge Bar""","""1200""","""North Indian,Chinese,Continental,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/cafe-oz-restaurant-lounge-bar-ranjit-avenue/info""","""21""","""Casual Dining""","""1130am to 1130pm(Mon-Fri),1130am to 130am...""","""Average""","""3.4""","""78"""
-"""The Snack Juction""","""400""","""Chinese,North Indian""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/the-snack-juction-mohan-nagar/info""","""21""","""Casual Dining""","""9am to 11pm(Mon-Sun)""","""Good""","""3.8""","""101"""
-"""Fun Tym Pizzaria""","""300""","""Pizza,Fast Food,Beverages""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/fun-tym-pizzaria-lawrence-road/info""","""21""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""2.8""","""54"""
-"""The Floreans""","""700""","""Cafe,Chinese,Continental,North Indian,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-floreans-ranjit-avenue/info""","""21""","""Café""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""77"""
-"""Inderpuri Foods""","""300""","""North Indian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/inderpuri-foods-ina-colony/info""","""22""","""Quick Bites""","""9am to 1130pm(Mon,Tue,Wed,Thu,Fri,Sun),9am...""","""Good""","""3.7""","""80"""
-"""KFK Bar-B-Que Fish-N-Chips""","""500""","""North Indian""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/kfk-bar-b-que-fish-n-chips-white-avenue/info""","""22""","""Casual Dining""","""1230pm to 11pm(Mon-Sun)""","""Good""","""3.8""","""56"""
-"""Crystal Restaurant Plaza""","""500""","""Mughlai,Continental,Chinese,Italian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/crystal-restaurant-plaza-ina-colony/info""","""22""","""Casual Dining""","""1130am to 12midnight(Mon-Sun)""","""Good""","""3.6""","""50"""
-"""Ultra Punjabi""","""300""","""North Indian,Chinese,Italian,Continental""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/ultra-punjabi-gt-road/info""","""22""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Good""","""3.5""","""20"""
-"""The Shakes Hub""","""400""","""South Indian,Fast Food,Pizza,Desserts,Beverages""","""Amritsar""","""GNDU Area""","""https://www.zomato.com/amritsar/the-shakes-hub-gndu-area/info""","""22""","""Beverage Shop""","""9am to 11pm(Mon-Sun)""","""Good""","""3.7""","""42"""
-"""Like Italy""","""500""","""Italian""","""Amritsar""","""AplhaOne Mall-- GT Road""","""https://www.zomato.com/amritsar/like-italy-gt-road/info""","""22""","""Casual Dining""","""10am to 11pm(Mon-Sun)""","""Good""","""3.6""","""34"""
-"""Bombay Pav Bhaji & Bhel Puri""","""200""","""Street Food""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/bombay-pav-bhaji-bhel-puri-ina-colony/info""","""22""","""Quick Bites""","""3pm to 11pm(Mon-Sun)""","""Good""","""3.5""","""44"""
-"""Sip 'n' Bite""","""400""","""Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/sip-n-bite-ranjit-avenue/info""","""22""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""61"""
-"""Shake Up""","""350""","""Beverages,Fast Food""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/shake-up-1-rani-ka-bagh/info""","""22""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""40"""
-"""Gautam Food Corner""","""500""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/gautam-food-corner-ranjit-avenue/info""","""22""","""Casual Dining""","""7am to 11pm(Mon-Sun)""","""Good""","""3.5""","""43"""
-"""DOMO""","""150""","""Chinese,Momos,South Indian""","""Amritsar""","""Mall Road""","""https://www.zomato.com/amritsar/domo-mall-road/info""","""22""","""Quick Bites""","""12noon to 11pm(Mon-Sun)""","""Average""","""3.3""","""79"""
-"""Roast N Toast""","""400""","""Cafe,Thai,Lebanese,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/roast-n-toast-ranjit-avenue/info""","""22""","""Café""","""8am to 11pm(Mon-Sun)""","""Good""","""3.7""","""64"""
-"""Spicy Hut""","""450""","""North Indian,Fast Food""","""Amritsar""","""Shakti Nagar""","""https://www.zomato.com/amritsar/spicy-hut-shakti-nagar/info""","""22""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""36"""
-"""New Sunny Chicken Corner""","""300""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/new-sunny-chicken-corner-ranjit-avenue/info""","""22""","""Quick Bites""","""2pm to 1130pm(Mon-Sun)""","""Good""","""3.6""","""51"""
-"""Subhash Juice Bar and Fast Food""","""200""","""Juices,Street Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/subhash-juice-bar-and-fast-food-ranjit-avenue/info""","""22""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""37"""
-"""Bon's Adda""","""400""","""Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/bons-adda-1-ranjit-avenue/info""","""23""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""60"""
-"""Just Mughlai""","""300""","""Biryani,Hyderabadi,Lucknowi,North Indian,Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/just-mughlai-ranjit-avenue/info""","""23""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""37"""
-"""Dinein 181""","""900""","""North Indian,Fast Food""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/dinein-181-rani-ka-bagh/info""","""23""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""46"""
-"""Ravindra's Dhaba""","""300""","""North Indian,Chinese""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/ravindras-dhaba-mohan-nagar/info""","""23""","""Dhaba""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""35"""
-"""Wah Ji Wah""","""200""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/wah-ji-wah-4-town-hall/info""","""23""","""Quick Bites""","""4pm to 11pm(Mon-Sun)""","""Good""","""3.5""","""26"""
-"""Moti Mahal Premier - Golden Tulip""","""1000""","""North Indian,Chinese,Mughlai""","""Amritsar""","""Golden Tulip-- Rani Ka Bagh""","""https://www.zomato.com/amritsar/moti-mahal-premier-golden-tulip-rani-ka-bagh/info""","""23""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""45"""
-"""The Chocolate Room""","""200""","""Cafe""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-chocolate-room-ranjit-avenue/info""","""23""","""Café""","""1030am to 1230AM(Mon-Sun)""","""Good""","""3.6""","""63"""
-"""The Amritsar Haveli""","""400""","""Salad,Chinese,Cafe,Sandwich,Fast Food,North Indian,Desserts""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/the-amritsar-haveli-town-hall/info""","""23""","""Quick Bites""","""6am to 1130pm(Mon-Sun)""","""Average""","""3.3""","""17"""
-"""Oka Open Kitchen At Astoria""","""1000""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/oka-open-kitchen-at-astoria-ranjit-avenue/info""","""23""","""Casual Dining""","""12noon to 11pm(Mon-Sun)""","""Good""","""3.8""","""52"""
-"""Lets Chai""","""500""","""Fast Food,Beverages,North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/lets-chai-ranjit-avenue/info""","""23""","""Quick Bites""","""12noon to 11pm(Mon-Sun)""","""Good""","""3.6""","""42"""
-"""Irish Beach""","""1200""","""Continental,Italian""","""Amritsar""","""Mall Road""","""https://www.zomato.com/amritsar/irish-beach-mall-road/info""","""23""","""Club""","""12noon to 1130pm(Mon-Sun)""","""Good""","""3.5""","""42"""
-"""Tandoori Hut""","""400""","""North Indian,Chinese""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/tandoori-hut-gt-road/info""","""23""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""The Khansama""","""500""","""North Indian,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-khansama-ranjit-avenue/info""","""23""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.0""","""17"""
-"""Baskin Robbins""","""300""","""Ice Cream""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/baskin-robbins-ranjit-avenue/info""","""23""","""Dessert Parlor""","""10am to 12midnight(Mon-Sun)""","""Good""","""3.7""","""26"""
-"""Abhi's Kitchen Club""","""500""","""North Indian,Chinese""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/abhis-kitchen-club-mohan-nagar/info""","""23""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""42"""
-"""La Chef""","""350""","""North Indian,Mughlai""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/la-chef-white-avenue/info""","""24""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Average""","""3.4""","""40"""
-"""Spice - Country Inn & Suites""","""1200""","""North Indian,Mughlai""","""Amritsar""","""Country Inn & Suites-- INA Colony""","""https://www.zomato.com/amritsar/spice-country-inn-suites-ina-colony/info""","""24""","""Fine Dining""","""730am to 1030am,1230pm to 330pm,7pm to 11pm...""","""Average""","""3.4""","""31"""
-"""Mirch Masala Punjabi Dhaba""","""200""","""North Indian,South Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/mirch-masala-punjabi-dhaba-town-hall/info""","""24""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Average""","""3.4""","""13"""
-"""Giani""","""200""","""Ice Cream,Desserts""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/giani-lawrence-road/info""","""24""","""Quick Bites""","""11am to 1230AM(Mon-Sun)""","""Good""","""3.5""","""33"""
-"""My Food Hub Kulcha Point""","""100""","""North Indian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/my-food-hub-kulcha-point-basant-nagar/info""","""24""","""Quick Bites""","""930am to 11pm(Mon-Sun)""","""Average""","""3.2""","""26"""
-"""Flavours""","""500""","""Chinese,Continental,Fast Food,North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/flavours-3-ranjit-avenue/info""","""24""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.1""","""34"""
-"""Make My Shake""","""300""","""Beverages""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/make-my-shake-rani-ka-bagh/info""","""24""","""Beverage Shop""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""41"""
-"""The Red Restro""","""600""","""North Indian,Mughlai""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/the-red-restro-town-hall/info""","""24""","""Casual Dining""","""7am to 12midnight(Mon-Sun)""","""Average""","""3.0""","""20"""
-"""Aurah""","""1200""","""Thai,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/aurah-ranjit-avenue/info""","""24""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""45"""
-"""Barcode""","""700""","""North Indian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/barcode-basant-nagar/info""","""24""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""45"""
-"""Cafe Crown Pizza""","""400""","""Italian,Beverages""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/cafe-crown-pizza-1-hathi-gate/info""","""24""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.0""","""41"""
-"""Food Hut""","""300""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/food-hut-ranjit-avenue/info""","""24""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Good""","""3.5""","""38"""
-"""Grab N Go!""","""250""","""Chinese,South Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/grab-n-go-ranjit-avenue/info""","""24""","""Quick Bites""","""2pm to 11pm(Mon-Sun)""","""Good""","""3.6""","""43"""
-"""Biryani House""","""500""","""Biryani""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/biryani-house-ranjit-avenue/info""","""24""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""43"""
-"""Kumar Fast Food""","""600""","""North Indian""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/kumar-fast-food-white-avenue/info""","""24""","""Quick Bites""","""3pm to 11pm(Mon-Sun)""","""Good""","""3.5""","""51"""
-"""Chajju Da Dhaba""","""400""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/chajju-da-dhaba-lawrence-road/info""","""25""","""Dhaba""","""11am to 11pm(Mon,Wed,Thu,Fri,Sat,Sun),Closed...""","""Good""","""3.6""","""38"""
-"""Inderjit Pehalwan Da Dhaba""","""500""","""North Indian""","""Amritsar""","""Amritsar Junction""","""https://www.zomato.com/amritsar/inderjit-pehalwan-da-dhaba-amritsar-junction/info""","""25""","""Quick Bites""","""10am to 1am(Mon-Sun)""","""Good""","""3.9""","""50"""
-"""Krishna Restaurant""","""700""","""North Indian,Chinese,Continental""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/krishna-restaurant-rani-ka-bagh/info""","""25""","""Casual Dining""","""10am to 1130pm(Mon-Sun)""","""Good""","""3.5""","""35"""
-"""Chand Dhaba""","""300""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/chand-dhaba-town-hall/info""","""25""","""Quick Bites""","""2pm to 11pm(Mon-Sun)""","""Average""","""3.4""","""27"""
-"""Lezzetli""","""200""","""Desserts""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/lezzetli-basant-nagar/info""","""25""","""Dessert Parlor""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""21"""
-"""Omega +""","""300""","""North Indian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/omega-basant-nagar/info""","""25""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""14"""
-"""Hotel HK Continental""","""400""","""North Indian,Chinese,Desserts""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/hotel-hk-continental-gt-road/info""","""25""","""Casual Dining""","""8am to 11pm(Mon-Sun)""","""Average""","""3.1""","""14"""
-"""Ac Chicken And Restaurant""","""400""","""North Indian""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/ac-chicken-and-restaurant-hathi-gate/info""","""25""","""Casual Dining""","""11am to 1130pm(Mon-Sun)""","""Average""","""3.3""","""12"""
-"""Sanjay's Real Cheese""","""300""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/sanjays-real-cheese-1-lawrence-road/info""","""25""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""34"""
-"""Basant La Patisserie""","""300""","""Bakery""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/basant-la-patisserie-1-ranjit-avenue/info""","""25""","""Bakery""","""8am to 11pm(Mon-Sun)""","""Good""","""3.5""","""25"""
-"""The Foodhouse Bistro""","""400""","""Fast Food""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/the-foodhouse-bistro-gt-road/info""","""25""","""Quick Bites""","""12noon to 11pm(Mon-Sun)""","""Good""","""3.6""","""33"""
-"""Chicken Brewery""","""650""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/chicken-brewery-ranjit-avenue/info""","""25""","""Quick Bites""","""2pm to 11pm(Mon-Sun)""","""Good""","""3.6""","""21"""
-"""Zaika-Highland Inn""","""600""","""North Indian,Chinese""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/zaika-highland-inn-ina-colony/info""","""25""","""Casual Dining""","""8am to 12midnight(Mon-Sun)""","""Good""","""3.5""","""24"""
-"""The Brew Kitchen""","""600""","""Arabian,Continental""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-brew-kitchen-ranjit-avenue/info""","""25""","""Casual Dining""","""11am to 12midnight(Mon-Sun)""","""Good""","""3.9""","""23"""
-"""The Eatery""","""0""","""North Indian,Chinese,Continental""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/the-eatery-lawrence-road/info""","""25""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""K Nine Restaurant""","""700""","""Italian,North Indian,South Indian,Chinese""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/k-nine-restaurant-ina-colony/info""","""26""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""18"""
-"""Shaina Diner""","""600""","""North Indian,Chinese""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/shaina-diner-hathi-gate/info""","""26""","""Quick Bites""","""1pm to 1130pm(Mon-Sun)""","""Average""","""2.6""","""17"""
-"""Havmor""","""250""","""Ice Cream""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/havmor-ranjit-avenue/info""","""26""","""Quick Bites""","""12noon to 12midnight(Mon-Sun)""","""Good""","""3.5""","""25"""
-"""Swagat Kitchen""","""600""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/swagat-kitchen-ranjit-avenue/info""","""26""","""Casual Dining""","""12noon to 11pm(Mon-Sun)""","""Average""","""3.4""","""33"""
-"""Asian Chicken Corner""","""350""","""North Indian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/asian-chicken-corner-basant-nagar/info""","""26""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""49"""
-"""Salt n Pepper""","""300""","""North Indian,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/salt-n-pepper-ranjit-avenue/info""","""26""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""31"""
-"""Marwari dhaba""","""500""","""Rajasthani,Bengali,Gujarati,North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/marwari-dhaba-town-hall/info""","""26""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Average""","""3.3""","""8"""
-"""D.S. Dhaba""","""200""","""Street Food""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/d-s-dhaba-basant-nagar/info""","""26""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""13"""
-"""Fouji Dhaba""","""300""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/fouji-dhaba-1-gt-road/info""","""26""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""Average""","""3.2""","""8"""
-"""Purple Rice""","""1500""","""Asian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/purple-rice-ranjit-avenue/info""","""26""","""Casual Dining""","""11am to 12midnight(Mon-Sun)""","""Average""","""3.4""","""26"""
-"""Mahajan Chicken House""","""400""","""North Indian,Mughlai""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/mahajan-chicken-house-basant-nagar/info""","""26""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""15"""
-"""City Junction Food Point""","""400""","""Chinese,North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/city-junction-food-point-gt-road/info""","""26""","""Casual Dining""","""830am to 11pm(Mon-Sun)""","""Good""","""3.5""","""29"""
-"""Raja Chicken House""","""500""","""North Indian,Raw Meats""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/raja-chicken-house-ina-colony/info""","""26""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Good""","""3.7""","""34"""
-"""New Munim Di Hatti""","""400""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/new-munim-di-hatti-lawrence-road/info""","""26""","""Quick Bites""","""6am to 11pm(Mon-Sun)""","""Good""","""3.5""","""17"""
-"""Cafe Coffee Day""","""500""","""Cafe""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/cafe-coffee-day-2-ranjit-avenue/info""","""26""","""Café""","""9am to 11pm(Mon-Sun)""","""Good""","""3.5""","""28"""
-"""Speziato""","""900""","""Chinese,Continental,North Indian,Beverages""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/speziato-ranjit-avenue/info""","""27""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""29"""
-"""3D FoodZ""","""600""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/3d-foodz-lawrence-road/info""","""27""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.4""","""26"""
-"""Bombay Special Burger & Soup""","""100""","""Burger""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/bombay-special-burger-soup-ina-colony/info""","""27""","""Quick Bites""","""4pm to 11pm(Mon-Sun)""","""Average""","""3.3""","""15"""
-"""Shaan E Awadh""","""500""","""Mughlai,North Indian,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/shaan-e-awadh-ranjit-avenue/info""","""27""","""Casual Dining""","""12noon to 11pm(Mon-Sun)""","""Average""","""3.4""","""29"""
-"""Bell- A-Sia - Holiday Inn""","""2000""","""Italian""","""Amritsar""","""Holiday Inn-- Ranjit Avenue""","""https://www.zomato.com/amritsar/bell-a-sia-holiday-inn-ranjit-avenue/info""","""27""","""Casual Dining""","""1230pm to 12midnight(Mon-Sun)""","""Good""","""3.6""","""30"""
-"""Peakking Hut""","""400""","""North Indian,Chinese""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/peakking-hut-ina-colony/info""","""27""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""22"""
-"""Golden Fresh Foods""","""500""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/golden-fresh-foods-2-town-hall/info""","""27""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.5""","""23"""
-"""Tandoori Hub - Hotel Swarn House""","""600""","""Chinese,Continental,Fast Food,North Indian""","""Amritsar""","""Azad Nagar""","""https://www.zomato.com/amritsar/tandoori-hub-hotel-swarn-house-azad-nagar/info""","""27""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""11"""
-"""Cruiser 8""","""350""","""North Indian""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/cruiser-8-hathi-gate/info""","""27""","""Casual Dining""","""10am to 1130pm(Mon-Sun)""","""Good""","""3.5""","""37"""
-"""Beliram Mutton & Galouti Kebab""","""400""","""North Indian,Kebab""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/beliram-mutton-galouti-kebab-ranjit-avenue/info""","""27""","""Quick Bites""","""2pm to 11pm(Mon-Sun)""","""Average""","""3.4""","""23"""
-"""Old Kundan Dhaba""","""300""","""North Indian""","""Amritsar""","""Amritsar Junction""","""https://www.zomato.com/amritsar/old-kundan-dhaba-amritsar-junction/info""","""27""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""2.6""","""22"""
-"""Brew Bakers""","""350""","""Bakery,Sandwich,Burger""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/brew-bakers-ranjit-avenue/info""","""27""","""Bakery""","""9am to 11pm(Mon-Sun)""","""Average""","""2.9""","""4"""
-"""Vinayak Veg Champ""","""200""","""South Indian,Chinese""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/vinayak-veg-champ-3-basant-nagar/info""","""27""","""none""","""4pm to 11pm(Mon,Fri,Sat),41pm to 11pm(Tue...""","""Average""","""2.8""","""9"""
-"""The European Knights""","""800""","""Italian,Biryani""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-european-knights-ranjit-avenue/info""","""27""","""Casual Dining""","""9am to 12midnight(Mon-Sun)""","""Good""","""3.5""","""24"""
-"""Yipple""","""300""","""Ice Cream,Desserts""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/yipple-lawrence-road/info""","""27""","""Dessert Parlor""","""10am to 11pm(Mon-Sun)""","""Average""","""3.3""","""7"""
-"""Kaka Ram Sweets""","""200""","""Mithai""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/kaka-ram-sweets-town-hall/info""","""28""","""Sweet Shop""","""11am to 11pm(Mon-Sun)""","""Average""","""3.1""","""7"""
-"""A R Foods""","""100""","""Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/a-r-foods-ranjit-avenue/info""","""28""","""none""","""11am to 11pm(Mon-Sun)""","""Average""","""3.1""","""9"""
-"""Apni Punjabi Rasoi""","""600""","""North Indian""","""Amritsar""","""Trillium Mall-- White Avenue""","""https://www.zomato.com/amritsar/apni-punjabi-rasoi-white-avenue/info""","""28""","""Casual Dining""","""10am to 11pm(Mon-Sun)""","""Average""","""3.4""","""19"""
-"""Ankit Fast Food""","""200""","""Fast Food""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/ankit-fast-food-town-hall/info""","""28""","""Quick Bites""","""4pm to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Dream Paan Shop""","""100""","""Paan,Beverages""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/dream-paan-shop-1-ranjit-avenue/info""","""28""","""Paan Shop""","""10am to 1130pm(Mon-Sun)""","""Good""","""3.5""","""19"""
-"""Chai Time""","""400""","""Tea,Fast Food,Chinese,North Indian""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/chai-time-white-avenue/info""","""28""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""15"""
-"""Hi Que Restro & Tea House""","""900""","""Chinese,North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/hi-que-restro-tea-house-ranjit-avenue/info""","""28""","""Casual Dining""","""1130am to 1130pm(Mon-Sun)""","""Good""","""3.5""","""22"""
-"""Burger Bite""","""200""","""Fast Food,Burger""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/burger-bite-gt-road/info""","""28""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.1""","""7"""
-"""J Vikas Soya Champ""","""150""","""Fast Food""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/j-vikas-soya-champ-ina-colony/info""","""28""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Bobby Meat Shop""","""300""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/bobby-meat-shop-ranjit-avenue/info""","""28""","""Quick Bites""","""2pm to 11pm(Mon-Sun)""","""Average""","""3.0""","""24"""
-"""Neenoo's Classic Chicken Corner""","""400""","""North Indian""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/neenoos-classic-chicken-corner-white-avenue/info""","""28""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""14"""
-"""Barrels Brew Pub""","""800""","""North Indian,Continental,Chinese,Mexican""","""Amritsar""","""AplhaOne Mall-- GT Road""","""https://www.zomato.com/amritsar/barrels-brew-pub-1-gt-road/info""","""28""","""Microbrewery""","""11am to 12midnight(Mon-Sun)""","""Poor""","""2.4""","""19"""
-"""Metro - Humble Hotels""","""1000""","""North Indian,Chinese,Continental""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/metro-humble-hotels-lawrence-road/info""","""28""","""Casual Dining""","""7am to 1030am,11am to 330pm,730pm to 1130pm...""","""Average""","""3.4""","""11"""
-"""Selfie Korner""","""350""","""Fast Food,Beverages""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/selfie-korner-rani-ka-bagh/info""","""28""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""13"""
-"""BAPU DI RASOI""","""350""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/bapu-di-rasoi-ranjit-avenue/info""","""28""","""Quick Bites""","""12noon to 11pm(Mon-Sun)""","""Average""","""2.8""","""6"""
-"""Palli Chicken""","""400""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/palli-chicken-ranjit-avenue/info""","""29""","""Quick Bites""","""12noon to 11pm(Mon-Sun)""","""Good""","""3.6""","""25"""
-"""Fire N Ice Take Away""","""300""","""Fast Food,North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/fire-n-ice-take-away-ranjit-avenue/info""","""29""","""none""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""JD Buffeteria""","""300""","""North Indian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/jd-buffeteria-ina-colony/info""","""29""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""2.6""","""13"""
-"""Tadka Amritsari""","""400""","""North Indian,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/tadka-amritsari-ranjit-avenue/info""","""29""","""Quick Bites""","""1pm to 11pm(Mon-Sun)""","""Average""","""3.2""","""23"""
-"""Rosies Cafe""","""600""","""Cafe,Fast Food,Steak,Burger,Pizza,Beverages""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/rosies-cafe-ranjit-avenue/info""","""29""","""Café""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""11"""
-"""Lahori's Shakes and Meal""","""300""","""Beverages,Fast Food,Continental,Chinese""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/lahoris-shakes-and-meal-rani-ka-bagh/info""","""29""","""Beverage Shop""","""10am to 11pm(Mon-Sun)""","""Average""","""3.4""","""22"""
-"""Boxeo- bar and Lounge""","""800""","""Italian,Chinese,North Indian""","""Amritsar""","""Mall Road""","""https://www.zomato.com/amritsar/boxeo-bar-and-lounge-mall-road/info""","""29""","""Lounge""","""10am to 12midnight(Mon-Sun)""","""Average""","""3.4""","""12"""
-"""Puni Lal Pan And Aam Papad Shop""","""100""","""Paan""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/puni-lal-pan-and-aam-papad-shop-lawrence-road/info""","""29""","""Paan Shop""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""10"""
-"""Mothers Zayka""","""400""","""North Indian,Chinese""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/amritsar/mothers-zayka-kabir-park/info""","""29""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""16"""
-"""Sat Da Dhaba""","""500""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/sat-da-dhaba-gt-road/info""","""29""","""Dhaba""","""9am to 11pm(Mon-Sun)""","""Average""","""3.3""","""11"""
-"""Dishoom lounge""","""800""","""Chinese,Continental,Indian,North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/dishoom-lounge-ranjit-avenue/info""","""29""","""Lounge""","""1215pm to 11pm(Mon-Sun)""","""Average""","""3.1""","""11"""
-"""Pizza King""","""450""","""Fast Food,Pizza""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/pizza-king-basant-nagar/info""","""29""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""16"""
-"""Swaadd-E-Amritsar""","""500""","""North Indian,Chinese,Fast Food""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/swaadd-e-amritsar-town-hall/info""","""29""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Taste Of Amritsar""","""300""","""North Indian,Chinese""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/taste-of-amritsar-1-gt-road/info""","""29""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Taal Restaurant""","""500""","""North Indian,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/taal-restaurant-ranjit-avenue/info""","""29""","""Quick Bites""","""1230pm to 330pm,7pm to 1130pm(Mon-Sun)""","""Average""","""2.8""","""13"""
-"""The Yellow Chilli""","""1200""","""North Indian,Mughlai,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-yellow-chilli-ranjit-avenue/info""","""3""","""Casual Dining""","""11am to 1130pm(Mon-Sun)""","""Good""","""3.7""","""237"""
-"""Surjit Food Plaza""","""1000""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/surjit-food-plaza-lawrence-road/info""","""3""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""223"""
-"""Eldorado""","""700""","""North Indian,Mexican,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/eldorado-ranjit-avenue/info""","""3""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""280"""
-"""Sip N Brew Premium""","""400""","""Cafe,Italian""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/sip-n-brew-premium-rani-ka-bagh/info""","""3""","""Café""","""11am to 11pm(Mon-Sun)""","""Good""","""3.8""","""175"""
-"""Glass House Amritsar""","""800""","""North Indian,Chinese,Continental""","""Amritsar""","""Mall Road""","""https://www.zomato.com/amritsar/glass-house-amritsar-mall-road/info""","""3""","""Casual Dining""","""1pm to 12midnight(Mon-Sun)""","""Good""","""3.9""","""181"""
-"""McDonald's""","""500""","""Burger,Fast Food""","""Amritsar""","""The Celebration Mall-- Basant Nagar""","""https://www.zomato.com/amritsar/mcdonalds-basant-nagar/info""","""3""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""257"""
-"""Pizza Italia""","""600""","""Italian,Pizza""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/pizza-italia-lawrence-road/info""","""3""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.1""","""264"""
-"""Baba Chicken""","""800""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/baba-chicken-lawrence-road/info""","""3""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.1""","""241"""
-"""Reiki Foods""","""150""","""North Indian""","""Amritsar""","""GNDU Area""","""https://www.zomato.com/amritsar/reiki-foods-gndu-area/info""","""3""","""Quick Bites""","""7am to 11pm(Mon-Sun)""","""Good""","""3.9""","""144"""
-"""Bombay Pav Bhaji and Bhel Puri""","""200""","""Street Food,Maharashtrian,South Indian,Pizza,Chinese""","""Amritsar""","""GNDU Area""","""https://www.zomato.com/amritsar/bombay-pav-bhaji-and-bhel-puri-gndu-area/info""","""3""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.8""","""161"""
-"""Brothers Dhaba""","""300""","""North Indian""","""Amritsar""","""Amritsar Cantonment""","""https://www.zomato.com/amritsar/brothers-dhaba-amritsar-cantonment/info""","""3""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""128"""
-"""Beera Chicken House""","""500""","""North Indian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/beera-chicken-house-basant-nagar/info""","""3""","""Quick Bites""","""12noon to 10pm(Mon-Sun)""","""Very Good""","""4.3""","""878"""
-"""House of Shakes""","""400""","""Beverages,Fast Food""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/house-of-shakes-white-avenue/info""","""3""","""Beverage Shop""","""12noon to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""120"""
-"""The Brothers""","""600""","""North Indian,Chinese""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/the-brothers-basant-nagar/info""","""3""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.1""","""154"""
-"""Poornima Chinese Food""","""150""","""Chinese,Fast Food""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/poornima-chinese-food-ina-colony/info""","""3""","""Quick Bites""","""4pm to 1130pm(Mon-Sun)""","""Very Good""","""4.2""","""140"""
-"""The London Club""","""1000""","""North Indian,Finger Food""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/the-london-club-3-gt-road/info""","""30""","""Lounge""","""11am to 12midnight(Mon-Sun)""","""Average""","""3.1""","""13"""
-"""Publik""","""400""","""Italian,Mexican,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/publik-ranjit-avenue/info""","""30""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""7"""
-"""Eat n Treat""","""500""","""Continental,North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/eat-n-treat-lawrence-road/info""","""30""","""Quick Bites""","""11am to 1130pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""A One Snacks Corner""","""600""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/a-one-snacks-corner-ranjit-avenue/info""","""30""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""13"""
-"""Vehra""","""800""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/vehra-lawrence-road/info""","""30""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""12"""
-"""Khaana Sutra""","""500""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/khaana-sutra-gt-road/info""","""30""","""Quick Bites""","""1pm to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Orchid Restaurant - Hotel Shiraz""","""700""","""North Indian,Chinese,Thai,Continental""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/orchid-restaurant-hotel-shiraz-ina-colony/info""","""30""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.0""","""4"""
-"""New Friends Dhaba""","""200""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/new-friends-dhaba-town-hall/info""","""30""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Average""","""2.9""","""8"""
-"""Selfiechino""","""300""","""Fast Food,Burger,Sandwich,Wraps,Chinese""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/selfiechino-lawrence-road/info""","""30""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""8"""
-"""Athens grill""","""400""","""North Indian,Chinese,Continental""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/athens-grill-mohan-nagar/info""","""30""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""11"""
-"""Lucky Dhaba""","""400""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/lucky-dhaba-town-hall/info""","""30""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.0""","""6"""
-"""Biryani House""","""300""","""Biryani""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/biryani-house-ina-colony/info""","""30""","""Quick Bites""","""7pm to 11pm(Mon,Wed,Fri,Sat,Sun),Closed(Tue...""","""Not rated""","""-""","""-"""
-"""Blusilea- The Multi Cuisine Restaurant""","""600""","""North Indian,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/blusilea-the-multi-cuisine-restaurant-ranjit-avenue/info""","""30""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""The Hungry Bite""","""200""","""Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-hungry-bite-ranjit-avenue/info""","""30""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.1""","""5"""
-"""Subhash Foods & Juice Bar""","""300""","""North Indian,Chinese,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/subhash-foods-juice-bar-ranjit-avenue/info""","""30""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""11"""
-"""Fuze Plus""","""400""","""North Indian,Chinese,Bar Food""","""Amritsar""","""GNDU Area""","""https://www.zomato.com/amritsar/fuze-plus-gndu-area/info""","""31""","""Lounge""","""11am to 11pm(Mon-Sun)""","""Average""","""3.1""","""8"""
-"""Sonu Chicken Corner""","""300""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/sonu-chicken-corner-ranjit-avenue/info""","""31""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.0""","""4"""
-"""Amar Fish""","""350""","""Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/amar-fish-ranjit-avenue/info""","""31""","""Quick Bites""","""5pm to 11pm(Mon-Sun)""","""Average""","""3.2""","""11"""
-"""Chill'z""","""250""","""Fast Food,Momos,Beverages""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/chillz-ranjit-avenue/info""","""31""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""La Pinoz Pizza""","""250""","""Pizza""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/la-pinoz-pizza-gt-road/info""","""31""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.3""","""11"""
-"""Punjabi Essence Pure Veg Dhabha""","""200""","""North Indian""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/punjabi-essence-pure-veg-dhabha-white-avenue/info""","""31""","""Dhaba""","""12noon to 11pm(Mon-Sun)""","""Average""","""2.8""","""6"""
-"""Desi English Kitchen""","""1400""","""North Indian,Lebanese,Asian,Italian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/desi-english-kitchen-lawrence-road/info""","""31""","""Lounge""","""12noon to 1130pm(Mon-Sun)""","""Average""","""3.2""","""8"""
-"""Nanda's Hotel And Restaurant""","""1000""","""North Indian,Chinese""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/nandas-hotel-and-restaurant-mohan-nagar/info""","""31""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""8"""
-"""Sanhotra Dhaba""","""200""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/sanhotra-dhaba-gt-road/info""","""31""","""Dhaba""","""9am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Tibbs Frankie""","""300""","""Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/tibbs-frankie-ranjit-avenue/info""","""31""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.0""","""12"""
-"""Tasty Bite""","""300""","""North Indian,Chinese,Fast Food""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/tasty-bite-town-hall/info""","""31""","""Quick Bites""","""10am to 12noon(Mon),12noon to 12midnight(Tue-Sun)""","""Average""","""3.0""","""8"""
-"""China Town Chennai Express""","""450""","""South Indian,Chinese""","""Amritsar""","""Trillium Mall-- White Avenue""","""https://www.zomato.com/amritsar/china-town-chennai-express-white-avenue/info""","""31""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.1""","""8"""
-"""pisa pizza""","""400""","""Pizza""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/pisa-pizza-ina-colony/info""","""31""","""Quick Bites""","""11am to 1130pm(Mon-Sun)""","""Average""","""2.6""","""13"""
-"""The Brew Beer Cafe""","""500""","""Continental,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-brew-beer-cafe-ranjit-avenue/info""","""31""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.1""","""9"""
-"""Brothers Chicken Corner""","""350""","""Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/brothers-chicken-corner-ranjit-avenue/info""","""31""","""Quick Bites""","""6pm to 11pm(Mon,Tue,Wed,Fri,Sat,Sun),Closed...""","""Average""","""3.3""","""12"""
-"""Ees Ell Restaurant""","""300""","""North Indian""","""Amritsar""","""Shastri Nagar""","""https://www.zomato.com/amritsar/ees-ell-restaurant-shastri-nagar/info""","""32""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.1""","""10"""
-"""Aroma Multicuisine Restaurant""","""500""","""North Indian,Chinese""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/aroma-multicuisine-restaurant-gt-road/info""","""32""","""Casual Dining""","""1130am to 11pm(Mon-Sun)""","""Average""","""2.9""","""7"""
-"""Tandoori Flames""","""300""","""North Indian,Chinese""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/tandoori-flames-town-hall/info""","""32""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.2""","""10"""
-"""Shree Ganpati Veg Champ and Fruit Cream""","""250""","""North Indian""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/shree-ganpati-veg-champ-and-fruit-cream-white-avenue/info""","""32""","""Quick Bites""","""4pm to 11pm(Mon-Sun)""","""Average""","""3.2""","""10"""
-"""Rishi Fast Food""","""150""","""Chinese,Beverages,Desserts""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/rishi-fast-food-ina-colony/info""","""32""","""none""","""4pm to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Fire N Ice Restaurant""","""400""","""North Indian,Chinese,Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/fire-n-ice-restaurant-ranjit-avenue/info""","""32""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.0""","""4"""
-"""Hi-Que Express""","""300""","""North Indian,Chinese""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/hi-que-express-lawrence-road/info""","""32""","""Quick Bites""","""12midnight to 1am,1pm to 12midnight(Mon,Wed...""","""Average""","""3.1""","""6"""
-"""ZAIKA old sharma dhaba""","""0""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/zaika-old-sharma-dhaba-town-hall/info""","""32""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Simar Spicy Food""","""400""","""North Indian,Chinese,Fast Food""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/simar-spicy-food-mohan-nagar/info""","""32""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""2.8""","""11"""
-"""Sheetal Again""","""1200""","""North Indian,Chinese""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/sheetal-again-basant-nagar/info""","""32""","""Lounge""","""1130am to 12midnight(Mon-Sun)""","""Average""","""2.9""","""6"""
-"""Caffeine - Golden Tulip""","""700""","""Cafe,Desserts""","""Amritsar""","""Golden Tulip-- Rani Ka Bagh""","""https://www.zomato.com/amritsar/caffeine-golden-tulip-rani-ka-bagh/info""","""32""","""Casual Dining""","""24""","""Average""","""2.7""","""5"""
-"""Giani's""","""300""","""Desserts,Ice Cream,Beverages""","""Amritsar""","""AplhaOne Mall-- GT Road""","""https://www.zomato.com/amritsar/gianis-gt-road/info""","""32""","""Dessert Parlor""","""11am to 12midnight(Mon-Sun)""","""Average""","""3.2""","""7"""
-"""Comfort Inn Alstonia""","""500""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/comfort-inn-alstonia-ranjit-avenue/info""","""32""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Average""","""2.9""","""4"""
-"""Bombay Special Pani Puri Corner""","""100""","""Street Food""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/bombay-special-pani-puri-corner-lawrence-road/info""","""32""","""Quick Bites""","""4pm to 11pm(Mon-Sun)""","""Média""","""3.2""","""8"""
-"""@Tenki""","""800""","""North Indian,Continental,Chinese,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/@tenki-ranjit-avenue/info""","""32""","""Casual Dining""","""4pm to 12midnight(Mon-Sun)""","""Average""","""2.7""","""7"""
-"""Foodmania""","""300""","""Fast Food,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/foodmania-ranjit-avenue/info""","""33""","""Quick Bites""","""1pm to 11pm(Mon-Sun)""","""Average""","""3.0""","""7"""
-"""Brother Chicken Corner""","""500""","""North Indian,Chinese,Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/brother-chicken-corner-ranjit-avenue/info""","""33""","""Casual Dining""","""12noon to 11pm(Mon-Sun)""","""Average""","""2.7""","""7"""
-"""Popular Restaurant""","""300""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/popular-restaurant-gt-road/info""","""33""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""2.8""","""4"""
-"""JS Makhan Fish & Chicken""","""500""","""North Indian,Seafood""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/js-makhan-fish-chicken-hathi-gate/info""","""33""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""2.9""","""6"""
-"""Amar Fish""","""500""","""North Indian""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/amar-fish-2-white-avenue/info""","""33""","""Casual Dining""","""4pm to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Zaika""","""200""","""North Indian,Chinese""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/zaika-2-town-hall/info""","""33""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Lazeez Foods""","""300""","""North Indian,Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/lazeez-foods-ranjit-avenue/info""","""33""","""Quick Bites""","""1130am to 11pm(Mon-Sun)""","""Average""","""3.0""","""7"""
-"""A To Z Lounge & Dine""","""500""","""North Indian""","""Amritsar""","""Amritsar Cantonment""","""https://www.zomato.com/amritsar/a-to-z-lounge-dine-amritsar-cantonment/info""","""33""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""The Peg""","""1200""","""North Indian,Chinese""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/the-peg-1-white-avenue/info""","""33""","""Bar""","""12noon to 1145pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Roamers""","""600""","""Cafe""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/roamers-ranjit-avenue/info""","""33""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Deli Pastry Lounge - Holiday Inn""","""500""","""Bakery""","""Amritsar""","""Holiday Inn-- Ranjit Avenue""","""https://www.zomato.com/amritsar/deli-pastry-lounge-holiday-inn-ranjit-avenue/info""","""33""","""Bakery""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Arora's Food""","""400""","""North Indian,Mughlai,Fast Food""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/aroras-food-rani-ka-bagh/info""","""33""","""Quick Bites""","""24""","""Average""","""3.1""","""5"""
-"""CHACHE DA DHABA""","""300""","""""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/chache-da-dhaba-1-hathi-gate/info""","""33""","""Dhaba""","""12noon to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Taste of Amritsar-Hotel Punnu International""","""300""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/taste-of-amritsar-hotel-punnu-international-lawrence-road/info""","""33""","""Casual Dining""","""9am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Narang Oven Foods & Desserts""","""400""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/narang-oven-foods-desserts-gt-road/info""","""33""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.0""","""5"""
-"""Mr. Burger Hut""","""250""","""Burger,Beverages""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/mr-burger-hut-2-ranjit-avenue/info""","""34""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""2.8""","""4"""
-"""Hotel Raj Darbar""","""500""","""North Indian,South Indian,Chinese""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/hotel-raj-darbar-town-hall/info""","""34""","""Casual Dining""","""8am to 11pm(Mon-Sun)""","""Average""","""3.1""","""5"""
-"""Kings Restaurant""","""500""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/kings-restaurant-town-hall/info""","""34""","""Bar""","""12noon to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""The Lounge""","""600""","""North Indian,Chinese,Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-lounge-ranjit-avenue/info""","""34""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Punjab Calling""","""400""","""North Indian""","""Amritsar""","""Mall Road""","""https://www.zomato.com/amritsar/punjab-calling-mall-road/info""","""34""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Karni Marwad Sweets""","""300""","""Mithai""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/karni-marwad-sweets-basant-nagar/info""","""34""","""Dessert Parlor""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Cafe Beanne""","""400""","""Cafe""","""Amritsar""","""AplhaOne Mall-- GT Road""","""https://www.zomato.com/amritsar/cafe-beanne-gt-road/info""","""34""","""Quick Bites""","""1130am to 1130pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Highway Junction""","""800""","""Mughlai,Chinese,North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/highway-junction-gt-road/info""","""34""","""Casual Dining""","""12noon to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Rotiwala""","""500""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/rotiwala-ranjit-avenue/info""","""34""","""Casual Dining""","""12noon to 11pm(Mon-Sun)""","""Average""","""2.7""","""4"""
-"""Pakeeza Dhaba""","""300""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/pakeeza-dhaba-town-hall/info""","""34""","""Dhaba""","""10am to 11pm(Mon-Sun)""","""Average""","""2.9""","""4"""
-"""Foodfun""","""900""","""North Indian,Chinese,Fast Food""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/foodfun-gt-road/info""","""34""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""The Streets Cafe""","""350""","""Fast Food""","""Amritsar""","""Ranjit Nagar""","""https://www.zomato.com/amritsar/the-streets-cafe-ranjit-nagar/info""","""34""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Average""","""3.0""","""4"""
-"""Brothers Kitchen""","""300""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/brothers-kitchen-ranjit-avenue/info""","""34""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Charcoal Live""","""400""","""North Indian""","""Amritsar""","""Mall Road""","""https://www.zomato.com/amritsar/charcoal-live-mall-road/info""","""34""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Kebabz n Kurries""","""300""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/kebabz-n-kurries-ranjit-avenue/info""","""34""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Aqua Lounge""","""1500""","""North Indian,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/aqua-lounge-ranjit-avenue/info""","""35""","""Lounge""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Pindi Soya""","""500""","""Chinese,North Indian""","""Amritsar""","""Ranjit Nagar""","""https://www.zomato.com/amritsar/pindi-soya-ranjit-nagar/info""","""35""","""Casual Dining""","""12noon to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""BK Mutton Shop""","""350""","""Kebab""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/bk-mutton-shop-hathi-gate/info""","""35""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Dana Pani""","""400""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/dana-pani-ranjit-avenue/info""","""35""","""Dhaba""","""10am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Bittu Chicken House""","""400""","""North Indian,Mughlai""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/bittu-chicken-house-2-hathi-gate/info""","""35""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Mr Mana Multi-Cuisine Hub""","""300""","""Chinese,Continental,North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/mr-mana-multi-cuisine-hub-ranjit-avenue/info""","""35""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Old and Famous Chick Chicken House""","""200""","""North Indian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/old-and-famous-chick-chicken-house-basant-nagar/info""","""35""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""FOB""","""200""","""Burger,Italian,Fast Food""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/fob-mohan-nagar/info""","""35""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Tandoori Nights""","""700""","""North Indian,Chinese,Continental,Fast Food""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/amritsar/tandoori-nights-kabir-park/info""","""35""","""Casual Dining""","""11am to 1130pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Apple Bar & Restaurant""","""600""","""North Indian""","""Amritsar""","""Maquboolpura""","""https://www.zomato.com/amritsar/apple-bar-restaurant-maquboolpura/info""","""35""","""Casual Dining""","""9am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Heritage Dhaba""","""250""","""North Indian,Fast Food""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/heritage-dhaba-town-hall/info""","""35""","""Dhaba""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Ecostay Hotel""","""400""","""North Indian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/ecostay-hotel-basant-nagar/info""","""35""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""UBQ by Barbeque Nation""","""1000""","""North Indian""","""Amritsar""","""Mall Road""","""https://www.zomato.com/amritsar/ubq-by-barbeque-nation-mall-road/info""","""35""","""none""","""12noon to 330pm,630pm to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Khan Afghani Chicken""","""400""","""Afghan""","""Amritsar""","""Maquboolpura""","""https://www.zomato.com/amritsar/khan-afghani-chicken-1-maquboolpura/info""","""35""","""Quick Bites""","""12noon to 12midnight(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Hotel Midtown Banquet Bar And Restaurant""","""700""","""North Indian,Chinese,South Indian""","""Amritsar""","""Hotel Midtown-- GT Road""","""https://www.zomato.com/amritsar/hotel-midtown-banquet-bar-and-restaurant-gt-road/info""","""35""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""The Chinese Room""","""1500""","""Chinese""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/the-chinese-room-1-white-avenue/info""","""36""","""Fine Dining""","""1230pm to 245pm,530pm to 1145pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Lucknowi Biryani""","""400""","""Biryani""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/lucknowi-biryani-mohan-nagar/info""","""36""","""none""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Grand Trunk""","""1200""","""North Indian,Asian,European""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/grand-trunk-3-white-avenue/info""","""36""","""Fine Dining""","""24""","""Not rated""","""-""","""-"""
-"""Indian Paratha Company""","""600""","""Cuisine Varies""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/indian-paratha-company-town-hall/info""","""36""","""Casual Dining""","""7am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""The Streets Cafe""","""300""","""Cafe""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/the-streets-cafe-town-hall/info""","""36""","""Café""","""10am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Border Grill""","""300""","""North Indian,Chinese""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/border-grill-town-hall/info""","""36""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Foodie MOM""","""200""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/foodie-mom-lawrence-road/info""","""36""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Eat & Treat""","""300""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/eat-treat-ranjit-avenue/info""","""36""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Sallow Royal Suites""","""400""","""North Indian,Chinese""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/sallow-royal-suites-gt-road/info""","""36""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Sibling Cuisines""","""300""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/sibling-cuisines-gt-road/info""","""36""","""none""","""6pm to 11pm(Mon-Sun)""","""Not rated""","""-""","""-"""
-"""Happy Food Corner""","""0""","""Chinese""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/happy-food-corner-basant-nagar/info""","""36""","""Quick Bites""","""10am to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""Sunny Meat Shop""","""0""","""North Indian,Mughlai""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/sunny-meat-shop-basant-nagar/info""","""36""","""Quick Bites""","""4pm to 12midnight(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""EatAsia Food""","""700""","""North Indian,South Indian,Chinese,Juices""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/eatasia-food-1-ranjit-avenue/info""","""4""","""Quick Bites""","""11am to 1130pm(Mon-Sun)""","""Very Good""","""4.0""","""139"""
-"""Novelty Sweets""","""150""","""Mithai""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/novelty-sweets-lawrence-road/info""","""4""","""Sweet Shop""","""8am to 12noon(Mon-Sun)""","""Very Good""","""4.2""","""349"""
-"""Makhan Fish & Chicken Hut""","""800""","""North Indian,Chinese""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/makhan-fish-chicken-hut-white-avenue/info""","""4""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""125"""
-"""The Kulcha Land""","""200""","""North Indian,Street Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-kulcha-land-ranjit-avenue/info""","""4""","""Quick Bites""","""9am to 5pm(Mon-Sun)""","""Excellent""","""4.5""","""812"""
-"""Lovely Champ""","""500""","""North Indian,South Indian""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/lovely-champ-mohan-nagar/info""","""4""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Good""","""3.5""","""135"""
-"""Subhash Juice Bar & Restaurant""","""400""","""North Indian,Italian,South Indian,Fast Food,Juices,Chinese""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/subhash-juice-bar-restaurant-hathi-gate/info""","""4""","""Casual Dining""","""10am to 11pm(Mon-Sun)""","""Good""","""3.8""","""137"""
-"""Food Bowl""","""500""","""Chinese,Continental,North Indian""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/amritsar/food-bowl-kabir-park/info""","""4""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""135"""
-"""Lovely Dhaba""","""500""","""Chinese,North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/lovely-dhaba-ranjit-avenue/info""","""4""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""130"""
-"""Kanha Sweets""","""150""","""Fast Food""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/kanha-sweets-1-lawrence-road/info""","""4""","""Quick Bites""","""8am to 10pm(Mon-Sun)""","""Excellent""","""4.7""","""452"""
-"""Lovely Kulcha Land and champ""","""400""","""North Indian""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/lovely-kulcha-land-and-champ-hathi-gate/info""","""4""","""Quick Bites""","""9am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""98"""
-"""Gauri Shankar & Sons""","""300""","""North Indian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/gauri-shankar-sons-ina-colony/info""","""4""","""Dhaba""","""11am to 11pm(Mon-Sun)""","""Good""","""3.8""","""105"""
-"""El Nido Cafe & Lounge""","""300""","""Chinese,Cafe,Continental,Fast Food,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/el-nido-cafe-lounge-ranjit-avenue/info""","""4""","""Café""","""1030am to 11pm(Mon-Sun)""","""Good""","""3.8""","""139"""
-"""Bukhaaraa""","""500""","""North Indian,Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/bukhaaraa-ranjit-avenue/info""","""4""","""Casual Dining""","""1pm to 1130pm(Mon-Sun)""","""Good""","""3.9""","""186"""
-"""Keventers""","""400""","""Beverages,Ice Cream,Desserts""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/keventers-lawrence-road/info""","""4""","""Beverage Shop""","""10am to 1230AM(Mon-Sun)""","""Very Good""","""4.3""","""164"""
-"""Brijwasi Chat Bhandar""","""150""","""Street Food""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/brijwasi-chat-bhandar-ina-colony/info""","""4""","""Quick Bites""","""11am to 8pm(Mon-Sun)""","""Very Good""","""4.1""","""390"""
-"""Sip n Bite""","""400""","""Fast Food""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/sip-n-bite-lawrence-road/info""","""5""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""105"""
-"""Pizza Italia""","""500""","""Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/pizza-italia-1-ranjit-avenue/info""","""5""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""166"""
-"""Pizza Hut""","""700""","""Italian,Pizza""","""Amritsar""","""Trillium Mall-- White Avenue""","""https://www.zomato.com/amritsar/pizza-hut-white-avenue/info""","""5""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""160"""
-"""Bariesto""","""600""","""Bakery,Chinese,Cafe,Continental,Italian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/bariesto-1-ranjit-avenue/info""","""5""","""Café""","""10am to 11pm(Mon-Sun)""","""Good""","""3.5""","""148"""
-"""Biryani Brews""","""300""","""Biryani,North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/biryani-brews-ranjit-avenue/info""","""5""","""Quick Bites""","""(Mon-Sun)""","""Good""","""3.6""","""364"""
-"""Neenoo's Bar-B-Que Fish-N-Chips""","""800""","""Finger Food""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/neenoos-bar-b-que-fish-n-chips-white-avenue/info""","""5""","""Casual Dining""","""1230pm to 11pm(Mon-Sun)""","""Very Good""","""4.2""","""127"""
-"""Friends Dhaba""","""400""","""North Indian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/friends-dhaba-ina-colony/info""","""5""","""Quick Bites""","""12noon to 12midnight(Mon-Sun)""","""Average""","""2.8""","""124"""
-"""Bharawan Da Dhaba""","""500""","""Fast Food,North Indian,Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/bharawan-da-dhaba-1-ranjit-avenue/info""","""5""","""Quick Bites""","""930am to 1130pm(Mon-Sun)""","""Good""","""3.7""","""116"""
-"""Durga's""","""200""","""Ice Cream,Desserts""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/durgas-lawrence-road/info""","""5""","""Dessert Parlor""","""10am to 12midnight(Mon-Sun)""","""Good""","""3.9""","""86"""
-"""Ahuja Milk Bhandar""","""150""","""Beverages""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/ahuja-milk-bhandar-hathi-gate/info""","""5""","""Beverage Shop""","""9am to 9pm(Mon-Sun)""","""Excellent""","""4.5""","""184"""
-"""New Wah ji Wah Champ""","""300""","""Fast Food""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/new-wah-ji-wah-champ-lawrence-road/info""","""5""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""130"""
-"""Kobe Sizzlers""","""1000""","""American,Asian,Chinese,Cafe,Continental,Mughlai""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/kobe-sizzlers-ranjit-avenue/info""","""5""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.8""","""142"""
-"""Burger Hut""","""400""","""Burger,Beverages""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/burger-hut-ranjit-avenue/info""","""5""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.8""","""168"""
-"""Pritam Dhaba""","""250""","""North Indian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/pritam-dhaba-ina-colony/info""","""5""","""Dhaba""","""8am to 1130pm(Mon-Sun)""","""Good""","""3.8""","""75"""
-"""Umang Vaishno Bhojan Bhandar""","""300""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/umang-vaishno-bhojan-bhandar-lawrence-road/info""","""5""","""Quick Bites""","""830am to 11pm(Mon-Sun)""","""Very Good""","""4.2""","""114"""
-"""Bansal Sweets""","""150""","""Fast Food,Mithai""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/bansal-sweets-lawrence-road/info""","""6""","""Sweet Shop""","""8am to 930pm(Mon-Sun)""","""Very Good""","""4.0""","""168"""
-"""Rolls Mania""","""250""","""Rolls,Fast Food""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/rolls-mania-lawrence-road/info""","""6""","""Quick Bites""","""(Mon-Sun)""","""Very Good""","""4.1""","""161"""
-"""Taste Of Punjab""","""500""","""Chinese,Sandwich,North Indian,Wraps""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/taste-of-punjab-gt-road/info""","""6""","""Casual Dining""","""12noon to 1130pm(Mon-Sun)""","""Good""","""3.5""","""46"""
-"""Swagtam Dhaba""","""250""","""North Indian""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/swagtam-dhaba-town-hall/info""","""6""","""Dhaba""","""9am to 430pm(Mon-Sun)""","""Good""","""3.8""","""79"""
-"""Chawlas 2""","""600""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/chawlas-2-lawrence-road/info""","""6""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""127"""
-"""Hoppers""","""400""","""Cafe,Continental,Italian""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/hoppers/info""","""6""","""Café""","""1030am to 1030pm(Mon-Sun)""","""Very Good""","""4.1""","""221"""
-"""Apna Chulla Dhaba""","""600""","""Burger,North Indian,Chinese,Coffee""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/apna-chulla-dhaba-gt-road/info""","""6""","""Quick Bites""","""8am to 1130pm(Mon-Fri),8am to 12midnight(Sat-Sun)""","""Average""","""2.9""","""73"""
-"""Bakes & Beans""","""1200""","""Italian,Cafe""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/bakes-beans-ranjit-avenue/info""","""6""","""Casual Dining""","""11am to 1030pm(Mon-Sun)""","""Very Good""","""4.2""","""150"""
-"""Abhishek Chinese Corner""","""300""","""Chinese,North Indian,Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/abhishek-chinese-corner-ranjit-avenue/info""","""6""","""Casual Dining""","""2pm to 1030pm(Mon-Sun)""","""Good""","""3.9""","""235"""
-"""Astoria Food Pavilion""","""1000""","""North Indian,Italian,Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/astoria-food-pavilion-ranjit-avenue/info""","""6""","""Casual Dining""","""12noon to 11pm(Mon-Fri),12noon to 7pm(Sat-Sun)""","""Very Good""","""4.1""","""122"""
-"""The BrewMaster""","""1400""","""North Indian,Chinese,Italian,Continental""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-brewmaster-ranjit-avenue/info""","""6""","""Lounge""","""12noon to 12midnight(Mon-Sun)""","""Very Good""","""4.0""","""89"""
-"""Annpurna Kulcha""","""100""","""Street Food""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/annpurna-kulcha-lawrence-road/info""","""6""","""Quick Bites""","""9am to 9pm(Mon-Sun)""","""Good""","""3.5""","""124"""
-"""Aamantran""","""300""","""North Indian""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/aamantran-basant-nagar/info""","""6""","""Casual Dining""","""12noon to 5pm,7pm to 1045pm(Mon-Sun)""","""Good""","""3.8""","""121"""
-"""The Belgian Waffle Co.""","""400""","""Ice Cream""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/the-belgian-waffle-co-ranjit-avenue/info""","""6""","""Quick Bites""","""10am to 12midnight(Mon-Sun)""","""Very Good""","""4.1""","""113"""
-"""Adarsh Meat Shop""","""150""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/adarsh-meat-shop-ranjit-avenue/info""","""6""","""Quick Bites""","""12noon to 12midnight(Mon-Sun)""","""Good""","""3.8""","""102"""
-"""Punjab Dhaba""","""900""","""North Indian,Mughlai,Chinese""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/punjab-dhaba-town-hall/info""","""7""","""Dhaba""","""11am to 1am(Mon-Sun)""","""Good""","""3.9""","""121"""
-"""Monu Kulcha Hut""","""300""","""Street Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/monu-kulcha-hut-ranjit-avenue/info""","""7""","""Quick Bites""","""9am to 4pm(Mon-Sun)""","""Very Good""","""4.2""","""154"""
-"""Gian Di Lassi""","""150""","""Beverages,Mithai""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/gian-di-lassi-hathi-gate/info""","""7""","""Beverage Shop""","""9am to 9pm(Mon-Sun)""","""Very Good""","""4.4""","""116"""
-"""Blues Bakers""","""600""","""Bakery,Desserts,Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/blues-bakers-ranjit-avenue/info""","""7""","""Bakery""","""10am to 10pm(Mon-Sun)""","""Good""","""3.6""","""148"""
-"""Monu Kulcha Hut""","""200""","""North Indian""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/monu-kulcha-hut-rani-ka-bagh/info""","""7""","""none""","""9am to 5pm(Mon-Sun)""","""Good""","""3.9""","""167"""
-"""Rajasthani Chat Bhandar""","""200""","""Street Food""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/rajasthani-chat-bhandar-town-hall/info""","""7""","""Quick Bites""","""4pm to 10pm(Mon-Sun)""","""Very Good""","""4.1""","""110"""
-"""Sandella's Cafe""","""700""","""Italian,Mexican,Continental,North Indian,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/sandellas-cafe-ranjit-avenue/info""","""7""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""107"""
-"""Divine Chocolate Factory""","""800""","""Bakery,Cafe,Desserts""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/divine-chocolate-factory-ranjit-avenue/info""","""7""","""Café""","""1130am to 930pm(Mon-Sun)""","""Good""","""3.9""","""132"""
-"""Grill Inn""","""500""","""Fast Food,Fried Chicken""","""Amritsar""","""GNDU Area""","""https://www.zomato.com/amritsar/grill-inn-gndu-area/info""","""7""","""Quick Bites""","""1030am to 11pm(Mon-Sun)""","""Good""","""3.8""","""126"""
-"""New Rajasthan Chat Bhandar""","""200""","""Street Food,Rajasthani""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/new-rajasthan-chat-bhandar-lawrence-road/info""","""7""","""Quick Bites""","""11am to 945pm(Mon-Sun)""","""Very Good""","""4.0""","""97"""
-"""Muscleholics""","""450""","""Healthy Food,Beverages,Fast Food""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/muscleholics-1-ranjit-avenue/info""","""7""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""76"""
-"""Popular Bakery""","""300""","""Bakery""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/popular-bakery-ina-colony/info""","""7""","""Bakery""","""9am to 1045pm(Mon-Sun)""","""Good""","""3.9""","""71"""
-"""The Boston Pizza""","""400""","""Pizza,Italian,Fast Food""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/the-boston-pizza-rani-ka-bagh/info""","""7""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Average""","""3.0""","""119"""
-"""The Food Village""","""600""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/the-food-village-gt-road/info""","""7""","""Quick Bites""","""11am to 10pm(Mon-Sun)""","""Good""","""3.8""","""99"""
-"""Temptation Restaurant""","""700""","""Mexican,North Indian,Chinese,Continental""","""Amritsar""","""White Avenue""","""https://www.zomato.com/amritsar/temptation-restaurant-white-avenue/info""","""7""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""146"""
-"""Italian Pizza""","""600""","""Italian,Pizza""","""Amritsar""","""Hathi Gate""","""https://www.zomato.com/amritsar/italian-pizza-hathi-gate/info""","""8""","""Quick Bites""","""11am to 10pm(Mon-Fri),11am to 1030pm(Sat),2pm...""","""Good""","""3.8""","""103"""
-"""Amritsar Nutri Kulcha & Channa Batura""","""100""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/amritsar-nutri-kulcha-channa-batura-lawrence-road/info""","""8""","""Quick Bites""","""9am to 730pm(Mon-Sun)""","""Good""","""3.7""","""46"""
-"""Cake A Licious""","""400""","""Bakery""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/cake-a-licious-ranjit-avenue/info""","""8""","""Bakery""","""9am to 9pm(Mon-Sun)""","""Average""","""3.2""","""36"""
-"""Bakers Square""","""300""","""Bakery""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/bakers-square-basant-nagar/info""","""8""","""Quick Bites""","""9am to 10pm(Mon-Sun)""","""Good""","""3.9""","""114"""
-"""Kolkata Spl Kathi Rolls""","""200""","""Fast Food""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/kolkata-spl-kathi-rolls-ina-colony/info""","""8""","""Quick Bites""","""4pm to 10pm(Mon-Sun)""","""Good""","""3.9""","""70"""
-"""Royal Nutrition House""","""300""","""Healthy Food,North Indian,Fast Food""","""Amritsar""","""Mall Road""","""https://www.zomato.com/amritsar/royal-nutrition-house-1-mall-road/info""","""8""","""Quick Bites""","""10pm to 11pm(Mon-Sun)""","""None""","""NEW""","""NEW"""
-"""The Country Kulcha House""","""300""","""North Indian""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/amritsar/the-country-kulcha-house-kabir-park/info""","""8""","""Quick Bites""","""9am to 10pm(Mon-Sun)""","""Good""","""3.5""","""77"""
-"""Deep Pizzeria""","""600""","""Italian""","""Amritsar""","""Mohan Nagar""","""https://www.zomato.com/amritsar/deep-pizzeria-mohan-nagar/info""","""8""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.6""","""92"""
-"""AFC""","""350""","""American,Fast Food,Burger,Chinese""","""Amritsar""","""GNDU Area""","""https://www.zomato.com/amritsar/afc-gndu-area/info""","""8""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Good""","""3.7""","""72"""
-"""Tandoori Tadka""","""500""","""North Indian,Chinese""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/tandoori-tadka-ranjit-avenue/info""","""8""","""none""","""1130am to 11pm(Mon,Wed,Thu,Fri,Sat),1130am...""","""Very Good""","""4.0""","""100"""
-"""Flourfairy""","""300""","""Bakery,Desserts,Continental""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/flourfairy-basant-nagar/info""","""8""","""Bakery""","""3pm to 930pm(Mon-Sun)""","""Good""","""3.6""","""56"""
-"""Underdoggs Bar & Kitchen""","""1400""","""American,Italian,Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/underdoggs-bar-kitchen-ranjit-avenue/info""","""8""","""Bar""","""12noon to 12midnight(Mon-Sun)""","""Good""","""3.9""","""112"""
-"""Shake Smith""","""300""","""Beverages,Drinks Only""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/shake-smith-ranjit-avenue/info""","""8""","""Beverage Shop""","""10am to 11pm(Mon-Sun)""","""Very Good""","""4.0""","""75"""
-"""Chaupati Restaurant""","""600""","""North Indian,South Indian,Fast Food,Continental""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/chaupati-restaurant-lawrence-road/info""","""8""","""Quick Bites""","""11am to 11pm(Mon-Sun)""","""Good""","""3.7""","""102"""
-"""Bread Talk by Subhash Juice Bar""","""250""","""Italian,Fast Food""","""Amritsar""","""Basant Nagar""","""https://www.zomato.com/amritsar/bread-talk-by-subhash-juice-bar-basant-nagar/info""","""8""","""Quick Bites""","""10am to 10pm(Mon-Sun)""","""Good""","""3.9""","""77"""
-"""New Kundan Dhaba""","""400""","""North Indian""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/new-kundan-dhaba-rani-ka-bagh/info""","""9""","""Dhaba""","""10am to 10pm(Mon-Sun)""","""Average""","""2.6""","""75"""
-"""Sabri Bhathura Shop""","""180""","""North Indian""","""Amritsar""","""INA Colony""","""https://www.zomato.com/amritsar/sabri-bhathura-shop-1-ina-colony/info""","""9""","""Quick Bites""","""11am to 6pm(Mon-Sun)""","""Good""","""3.9""","""92"""
-"""London Creek Food Service""","""100""","""North Indian""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/amritsar/london-creek-food-service-kabir-park/info""","""9""","""Quick Bites""","""8am to 1030pm(Mon-Sun)""","""Good""","""3.8""","""77"""
-"""Amrit Dhaba""","""500""","""North Indian""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/amrit-dhaba-gt-road/info""","""9""","""Casual Dining""","""11am to 11pm(Mon-Sun)""","""Good""","""3.9""","""91"""
-"""The Little Chef""","""800""","""North Indian,Fast Food""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/the-little-chef-gt-road/info""","""9""","""Casual Dining""","""10am to 11pm(Mon-Sun)""","""Good""","""3.8""","""91"""
-"""Narang Bakery""","""300""","""Desserts,Bakery""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/narang-bakery-3-gt-road/info""","""9""","""Bakery""","""730am to 10pm(Mon-Sun)""","""Good""","""3.8""","""59"""
-"""M's Oven Fresh""","""400""","""Bakery""","""Amritsar""","""Shastri Nagar""","""https://www.zomato.com/amritsar/ms-oven-fresh-shastri-nagar/info""","""9""","""Casual Dining""","""830am to 9pm(Mon-Sun)""","""Good""","""3.5""","""58"""
-"""Burger Brunch""","""300""","""Burger""","""Amritsar""","""Rani Ka Bagh""","""https://www.zomato.com/amritsar/burger-brunch-rani-ka-bagh/info""","""9""","""Quick Bites""","""1130am to 10pm(Mon-Sat),215pm to 10pm(Sun)""","""Good""","""3.5""","""72"""
-"""Roll Express""","""100""","""Rolls""","""Amritsar""","""GT Road""","""https://www.zomato.com/amritsar/roll-express-gt-road/info""","""9""","""Quick Bites""","""10am to 1030pm(Mon-Sat),2pm to 1030pm(Sun)""","""None""","""NEW""","""NEW"""
-"""Ziva All Day Dining - Holiday Inn""","""2000""","""North Indian,Asian""","""Amritsar""","""Holiday Inn-- Ranjit Avenue""","""https://www.zomato.com/amritsar/ziva-all-day-dining-holiday-inn-ranjit-avenue/info""","""9""","""Casual Dining""","""630am to 1230AM(Mon-Sun)""","""Good""","""3.7""","""70"""
-"""Vaishno Bhojan Bhandar""","""400""","""Fast Food""","""Amritsar""","""Town Hall""","""https://www.zomato.com/amritsar/vaishno-bhojan-bhandar-town-hall/info""","""9""","""Quick Bites""","""9am to 10pm(Mon-Sun)""","""Good""","""3.8""","""20"""
-"""Aunty Kitchen""","""150""","""Street Food""","""Amritsar""","""Kabir Park""","""https://www.zomato.com/amritsar/aunty-kitchen-kabir-park/info""","""9""","""Quick Bites""","""8am to 930pm(Mon-Sun)""","""Good""","""3.6""","""55"""
-"""Raja Chick Chicken""","""500""","""North Indian""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/raja-chick-chicken-lawrence-road/info""","""9""","""Quick Bites""","""11am to 1030pm(Mon-Sun)""","""Good""","""3.6""","""65"""
-"""Bansal Bakers""","""500""","""Desserts,Bakery""","""Amritsar""","""Lawrence Road""","""https://www.zomato.com/amritsar/bansal-bakers-lawrence-road/info""","""9""","""Food Court""","""10am to 10pm(Mon-Sun)""","""Average""","""2.9""","""48"""
-"""Flavour of Mutton & Chicken""","""400""","""North Indian""","""Amritsar""","""Ranjit Avenue""","""https://www.zomato.com/amritsar/flavour-of-mutton-chicken-ranjit-avenue/info""","""9""","""Quick Bites""","""11am to 1030pm(Mon-Sun)""","""Average""","""3.4""","""56"""
+NAME,PRICE,CUSINE_CATEGORY,CITY,REGION,CUSINE TYPE,RATING_TYPE,RATING,VOTES
+La Roma Pizzeria,500,"Fast Food,Italian",Amritsar,Ranjit Avenue,Casual Dining,Excellent,4.9,2763
+Bade Bhai ka Brothers Dhaba,500,North Indian,Amritsar,Town Hall,Casual Dining,Very Good,4.4,1008
+Bharawan Da Dhaba,500,"North Indian,Fast Food",Amritsar,Town Hall,Casual Dining,Very Good,4.3,989
+R K Food Plaza,400,"North Indian,Chinese,Fast Food",Amritsar,Town Hall,Quick Bites,Very Good,4.2,508
+Makhan Fish and Chicken Corner,700,"North Indian,Chinese",Amritsar,Basant Nagar,Casual Dining,Very Good,4.0,868
+Bon Gateau,700,"Cafe,Bakery,Fast Food",Amritsar,Ranjit Avenue,Café,Very Good,4.3,414
+Kale Da Dhaba,500,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Very Good,4.1,494
+Brothers' Amritsari Dhaba,400,North Indian,Amritsar,Town Hall,Casual Dining,Very Good,4.3,344
+Burger King,400,Burger,Amritsar,Lawrence Road,Quick Bites,Very Good,4.0,569
+Cafe Connect,500,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,Very Good,4.1,395
+Domino's Pizza,700,"Pizza,Fast Food",Amritsar,Lawrence Road,Quick Bites,Good,3.8,664
+Sip n Breww,200,Cafe,Amritsar,Lawrence Road,Café,Good,3.9,400
+Bombay Pavbhaji - Original,350,"Fast Food,Street Food",Amritsar,INA Colony,Quick Bites,Good,3.9,388
+Sanjha Chulha,400,North Indian,Amritsar,Lawrence Road,Casual Dining,Very Good,4.1,468
+Sakhis Watz Kukin,900,"Chinese,Continental,North Indian,Italian,Mughlai",Amritsar,Ranjit Avenue,Casual Dining,Very Good,4.4,386
+Burning Bun,300,Fast Food,Amritsar,Basant Nagar,Quick Bites,Good,3.5,53
+WAFL Café,500,"Desserts,Bakery,Beverages,Fast Food,Continental",Amritsar,Lawrence Road,Café,Good,3.9,82
+My Shop,700,"North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,Good,3.7,71
+Jagmohan Veg Champ,150,"Fast Food,North Indian",Amritsar,Basant Nagar,Quick Bites,Good,3.6,42
+Krishna Madhur Mishthan Bhandar & Vaishno Dhaba,300,"North Indian,Mithai",Amritsar,Basant Nagar,Dhaba,Good,3.7,44
+Fun Tym Pizzaria,400,"Pizza,Fast Food",Amritsar,Rani Ka Bagh,Quick Bites,Good,3.7,61
+Indian summer restaurant,0,North Indian,Amritsar,Town Hall,Quick Bites,None,NEW,NEW
+In n Out Bakers,300,Bakery,Amritsar,Ranjit Avenue,Bakery,Good,3.6,42
+Peddlers,1000,"North Indian,Italian",Amritsar,Ranjit Avenue,Pub,Good,3.8,89
+The Urban Courtyard,1400,"Fast Food,North Indian,Italian",Amritsar,White Avenue,Casual Dining,Good,3.7,110
+The Pizza Studio,500,"Pizza,Fast Food",Amritsar,Ranjit Avenue,Quick Bites,Average,3.3,117
+New Brijwasi Chat,300,Street Food,Amritsar,Ranjit Avenue,Quick Bites,Good,3.7,40
+Yummy Tummy,300,Fast Food,Amritsar,GT Road,Quick Bites,Good,3.6,34
+Bon's Food Factory,450,"Italian,Chinese",Amritsar,Ranjit Avenue,Quick Bites,Average,3.2,79
+Enjoy Pizza Plus,450,"Pizza,Beverages",Amritsar,Ranjit Avenue,Quick Bites,Average,3.4,88
+Khanna Sweets,300,Mithai,Amritsar,Lawrence Road,Sweet Shop,Good,3.5,21
+Sanjha Chulha Dhaba,300,North Indian,Amritsar,Town Hall,Quick Bites,Good,3.5,63
+The Italian Hub,450,Italian,Amritsar,GT Road,Quick Bites,Good,3.7,49
+Special Bombay Pav Bhaji & Bhel Puri,300,"Fast Food,Street Food",Amritsar,Basant Nagar,Quick Bites,Average,3.3,10
+Pure Punjabi Vegetarian,300,North Indian,Amritsar,Mall Road,Quick Bites,Average,3.3,19
+Foodeez,400,"Chinese,Cafe,Pizza,North Indian,Italian",Amritsar,Rani Ka Bagh,Café,Good,3.5,107
+Subhash Juice Bar,200,"Juices,Fast Food",Amritsar,Basant Nagar,Beverage Shop,Good,3.5,20
+Cut of Joy,300,"Cafe,Fast Food",Amritsar,Kabir Park,Café,None,NEW,NEW
+Amrit Pastry Shop,150,"Bakery,Desserts",Amritsar,GT Road,Bakery,Good,3.7,47
+Cheesy Hub,150,"Fast Food,Burger,Sandwich",Amritsar,Basant Nagar,Quick Bites,Average,3.3,11
+Famous Kulcha Corner,100,North Indian,Amritsar,Rani Ka Bagh,Dhaba,Good,3.6,16
+The  Bakers,350,"Desserts,Fast Food",Amritsar,Kabir Park,Bakery,Average,3.4,23
+Food Forest,600,"Chinese,North Indian",Amritsar,Ranjit Avenue,Casual Dining,Average,3.2,39
+Sardar Ji Kulcha,150,"North Indian,Fast Food",Amritsar,Basant Nagar,Quick Bites,Average,3.4,15
+Mom's Cafe,300,"Fast Food,Italian",Amritsar,INA Colony,Quick Bites,Average,3.3,14
+Bakewell Bakers,300,Bakery,Amritsar,INA Colony,Bakery,Average,2.9,43
+Prem Nath & Sons Kulfe Wale,150,"Ice Cream,Desserts",Amritsar,Hathi Gate,Dessert Parlor,Good,3.5,20
+Chawlas 2,500,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Good,3.7,93
+Dchef's Delite,300,Fast Food,Amritsar,Amritsar Cantonment,Quick Bites,Average,3.3,12
+BB - Brother Bakery,400,Bakery,Amritsar,Amritsar Cantonment,Bakery,Average,2.9,8
+Ghar Ka Khana,150,North Indian,Amritsar,Town Hall,Quick Bites,None,NEW,NEW
+Big Bites,200,Fast Food,Amritsar,Basant Nagar,Quick Bites,None,NEW,NEW
+Lotizza Pizza,400,Italian,Amritsar,Basant Nagar,Quick Bites,Good,3.6,63
+Kulcha King,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Good,3.5,34
+Apsra Dhaba,300,North Indian,Amritsar,Hathi Gate,Quick Bites,Average,3.1,4
+British Beer Cafe,500,"North Indian,Cafe",Amritsar,Ranjit Avenue,Café,Average,3.4,33
+HS Buger House,200,Fast Food,Amritsar,GT Road,Quick Bites,Not rated,-,-
+American Pizza,200,Pizza,Amritsar,GT Road,Quick Bites,Average,3.2,9
+Life Bakery,500,Desserts,Amritsar,Mohan Nagar,Bakery,Good,3.7,70
+BK Chat Bhandar,100,"North Indian,Fast Food,Street Food",Amritsar,Hathi Gate,Quick Bites,Average,3.2,6
+Laxmi Bikaner Sweets,200,Mithai,Amritsar,Ranjit Avenue,Sweet Shop,Average,3.3,13
+Patola Drinks N Gabru Snacks,250,North Indian,Amritsar,Amritsar Cantonment,Quick Bites,Average,3.3,13
+Ambey Bikaner Sweets,100,"Mithai,Street Food",Amritsar,Kabir Park,Sweet Shop,Average,3.4,20
+Sonu Kulcha Hut,150,Street Food,Amritsar,White Avenue,Quick Bites,Average,3.4,26
+Mc Grill,500,Fast Food,Amritsar,Kabir Park,Quick Bites,Average,3.4,29
+Juice And Fruit Shop,100,Juices,Amritsar,INA Colony,Beverage Shop,Average,3.2,8
+Nanking Express,350,Chinese,Amritsar,GT Road,Food Court,Average,3.4,22
+Narula's,600,North Indian,Amritsar,White Avenue,Quick Bites,Average,3.4,24
+Jack Shack,200,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Good,3.5,22
+Punjabi Tadka,400,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Average,3.3,24
+Chapatti Wala,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Poor,2.4,22
+Rudra Food Court,300,"Burger,South Indian,Fast Food,North Indian",Amritsar,GT Road,Quick Bites,Average,3.3,15
+PANBUCKS,0,,Amritsar,Mohan Nagar,Bakery,None,NEW,NEW
+Canadian Pizza,350,"Pizza,Fast Food",Amritsar,Hathi Gate,Quick Bites,Average,3.3,26
+Mind Kaffe & Shakes,300,Beverages,Amritsar,White Avenue,Quick Bites,Average,3.4,17
+The Pisa Pizza,400,"Fast Food,Pizza",Amritsar,Maquboolpura,Quick Bites,Average,3.2,13
+Cakerz N Bakerz,350,"Bakery,Desserts",Amritsar,Hathi Gate,none,Average,3.3,21
+The Chocolate Room,300,"Continental,Burger,Fast Food,Desserts",Amritsar,Kabir Park,Quick Bites,Average,3.2,8
+The Pearl,600,North Indian,Amritsar,Ranjit Avenue,Casual Dining,Average,3.1,5
+Regal Restaurant,300,"Fast Food,South Indian",Amritsar,Mall Road,Quick Bites,Average,2.7,5
+Food junction,250,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,Average,3.2,19
+Bittu Meat Walla,400,North Indian,Amritsar,Ranjit Nagar,Quick Bites,Average,3.4,17
+Eat,500,"North Indian,Chinese",Amritsar,Hathi Gate,Casual Dining,Average,3.1,6
+Maoh American Food,150,Continental,Amritsar,Town Hall,Quick Bites,Average,3.2,8
+Italio,400,"Pizza,Italian",Amritsar,AplhaOne Mall-- GT Road,Quick Bites,Average,3.2,11
+Zyka,700,"Chinese,North Indian,Coffee",Amritsar,Town Hall,Casual Dining,Good,3.5,48
+Cafe Square,350,"Pizza,Fast Food",Amritsar,Lawrence Road,Quick Bites,Average,2.8,9
+Aay Kay Hotel,1000,"North Indian,Chinese,Continental",Amritsar,Rani Ka Bagh,Casual Dining,Average,3.3,14
+Honey Hut,200,"Desserts,Ice Cream",Amritsar,AplhaOne Mall-- GT Road,Dessert Parlor,Average,3.1,11
+New Bite Club Pizza,200,"Pizza,Fast Food,Beverages",Amritsar,GT Road,Quick Bites,None,NEW,NEW
+Charcoal 'N' Wudz,1100,North Indian,Amritsar,Ranjit Avenue,Casual Dining,Very Good,4.3,99
+Prohibition,300,"Italian,Continental",Amritsar,Ranjit Avenue,Quick Bites,Average,3.3,20
+Chill out Restaurant,400,"Chinese,Italian",Amritsar,Mohan Nagar,Quick Bites,Average,3.3,11
+King Chicken Corner,250,"North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,Average,3.2,9
+Om Snacks & Fastfood,300,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,Average,3.3,19
+Man Vs Food,350,"Italian,Fast Food",Amritsar,Shastri Nagar,Quick Bites,Average,2.9,13
+Giani Punjabi Lassi,100,Mithai,Amritsar,Hathi Gate,Sweet Shop,Average,3.2,9
+Ravi's Chicken Treat,400,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Average,3.1,9
+Bawarchi,400,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Average,3.2,9
+Babaji Vaishno Bhojan Bhandar,150,"North Indian,Fast Food",Amritsar,Rani Ka Bagh,Bhojanalya,Not rated,-,-
+Royal Pan Parlour,100,Paan,Amritsar,Ranjit Avenue,Paan Shop,None,NEW,NEW
+Manu Kulcha,200,Street Food,Amritsar,Ranjit Avenue,Quick Bites,Average,3.2,4
+Arora Bakers,300,"Bakery,Desserts",Amritsar,Kabir Park,Bakery,Average,3.0,8
+Avtar Non Veg Dhaba,350,North Indian,Amritsar,Rani Ka Bagh,Dhaba,Average,2.9,17
+Italian Pizza,300,Italian,Amritsar,Maquboolpura,Quick Bites,Average,3.1,10
+New Janta Vaishno Dhaba,250,"North Indian,Fast Food",Amritsar,White Avenue,Dhaba,Average,3.0,7
+Baskin Robbins,300,Ice Cream,Amritsar,Trillium Mall-- White Avenue,Dessert Parlor,Average,3.1,6
+Chaman Chicken Hut,1000,North Indian,Amritsar,Ranjit Avenue,Casual Dining,Average,3.2,14
+Standard Sweets Shop,150,Mithai,Amritsar,Town Hall,Sweet Shop,Not rated,-,-
+Grover Bakers,200,Bakery,Amritsar,Mall Road,Bakery,Average,3.2,11
+Gill's Chick-inn,350,Mughlai,Amritsar,Ranjit Avenue,Quick Bites,Average,2.7,12
+Republic of Chicken,400,"Raw Meats,Fast Food,Mughlai",Amritsar,Ranjit Avenue,Meat Shop,Average,2.6,11
+Italian Bite,600,Italian,Amritsar,Rani Ka Bagh,Quick Bites,None,NEW,NEW
+Chinar Hot Shop,250,"Fast Food,Chinese,South Indian",Amritsar,Amritsar Junction,Quick Bites,Not rated,-,-
+New Standard Sweet Shop,150,Mithai,Amritsar,Town Hall,Sweet Shop,Not rated,-,-
+Tare Di Hatti,250,North Indian,Amritsar,Lawrence Road,Kiosk,Average,3.2,9
+Little Princess Treasures,400,"Bakery,Cafe,Desserts",Amritsar,Ranjit Avenue,Bakery,Average,2.8,13
+Monga Bakers,200,Bakery,Amritsar,Basant Nagar,Bakery,Average,3.3,11
+Chill N Food,300,"Fast Food,Beverages",Amritsar,Ranjit Avenue,Quick Bites,Average,3.0,10
+Bemisaal Restaurant,1400,"Chinese,Indian,Italian",Amritsar,Ranjit Avenue,Casual Dining,Average,3.0,5
+Ashoka Fish Corner,300,North Indian,Amritsar,Town Hall,Quick Bites,Not rated,-,-
+Ravis Chicken Treat,300,Fast Food,Amritsar,Town Hall,Quick Bites,Average,2.9,6
+Truly Tasty Tiffen Service,200,North Indian,Amritsar,GT Road,none,None,NEW,NEW
+Ravis Chicken,400,"Fast Food,North Indian",Amritsar,Town Hall,Quick Bites,Average,2.9,6
+Radha Krishna Shakti Mishtaan Bhandaar,400,Mithai,Amritsar,Ranjit Avenue,Sweet Shop,Not rated,-,-
+Formos,500,"North Indian,Chinese,Fast Food",Amritsar,Lawrence Road,Casual Dining,Good,3.9,77
+The pizza.com,300,"Italian,Fast Food",Amritsar,Hathi Gate,Quick Bites,None,NEW,NEW
+South Indian Dosa Wala,150,South Indian,Amritsar,INA Colony,Quick Bites,Average,3.0,4
+Pappu Chicken Shop,400,"North Indian,Fast Food",Amritsar,Amritsar Cantonment,Quick Bites,Average,3.0,7
+Mama Meat Shop,300,Raw Meats,Amritsar,Ranjit Avenue,Meat Shop,Average,3.0,4
+Superior Rasoi,450,"North Indian,Chinese",Amritsar,Ranjit Nagar,Quick Bites,Not rated,-,-
+Pick n Move,600,North Indian,Amritsar,Lawrence Road,Quick Bites,Average,2.7,7
+Hadippa,600,North Indian,Amritsar,Ranjit Avenue,Casual Dining,Average,2.8,5
+Bakers,200,Bakery,Amritsar,Ranjit Avenue,Bakery,Average,3.1,6
+Crystal - Takeaway,180,Chinese,Amritsar,INA Colony,Quick Bites,Good,3.8,52
+Chaurasia Brothers,100,Juices,Amritsar,Rani Ka Bagh,Beverage Shop,Average,2.9,6
+Fresh And Tasty,300,"Fast Food,Chinese",Amritsar,Rani Ka Bagh,Quick Bites,Average,3.2,5
+Walia Fast Food,200,Fast Food,Amritsar,Basant Nagar,Quick Bites,None,NEW,NEW
+Labbu Shah Kulcha King,300,"Street Food,North Indian",Amritsar,Ranjit Avenue,Quick Bites,Not rated,-,-
+House Of Candy,200,Desserts,Amritsar,Ranjit Nagar,Confectionery,Not rated,-,-
+Cafe Buddha,500,Cafe,Amritsar,Ranjit Avenue,Café,Not rated,-,-
+Lookwell Bakers,300,Bakery,Amritsar,GT Road,Quick Bites,Average,3.0,4
+Krazy Kitchen,300,"North Indian,Chinese",Amritsar,GT Road,Quick Bites,Not rated,-,-
+RB Sahni Dhoklawala,150,Street Food,Amritsar,Ranjit Avenue,Quick Bites,Not rated,-,-
+Meat Adda,300,North Indian,Amritsar,Amritsar Cantonment,Quick Bites,Not rated,-,-
+Canadian Cafe,500,"Italian,North Indian,Chinese,Continental",Amritsar,Ranjit Avenue,Quick Bites,Good,3.6,53
+Royal Pizza,400,Italian,Amritsar,Ranjit Avenue,Quick Bites,None,NEW,NEW
+Heere di hatti,100,North Indian,Amritsar,Town Hall,Quick Bites,None,NEW,NEW
+Om juice bar,0,"Burger,Cafe",Amritsar,Mohan Nagar,Beverage Shop,None,NEW,NEW
+Mangal Da Dhaba,300,North Indian,Amritsar,GT Road,Dhaba,Not rated,-,-
+Crazy Bar,500,"Indian,Chinese,Fast Food",Amritsar,Hathi Gate,Casual Dining,Not rated,-,-
+Frozen Corner,300,"North Indian,Chinese",Amritsar,Rani Ka Bagh,Casual Dining,Not rated,-,-
+Eat Well Restaurant,500,"North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,Not rated,-,-
+Rinky Kulcha,100,North Indian,Amritsar,White Avenue,Quick Bites,Not rated,-,-
+Hotel Lamhe,500,"North Indian,Chinese,Continental",Amritsar,Rani Ka Bagh,Casual Dining,Not rated,-,-
+Laxmi Bikaner Restaurant,600,North Indian,Amritsar,Hathi Gate,Quick Bites,Not rated,-,-
+Apni Rasoi,200,North Indian,Amritsar,GT Road,Quick Bites,Not rated,-,-
+Friends Kulcha Land,150,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Not rated,-,-
+Street Cafe,200,Fast Food,Amritsar,Rani Ka Bagh,Quick Bites,Not rated,-,-
+The Potato King,100,"North Indian,Fast Food",Amritsar,Rani Ka Bagh,Quick Bites,Not rated,-,-
+Bawa Kulcha Point,100,North Indian,Amritsar,Lawrence Road,Quick Bites,Not rated,-,-
+The Frozen Factory,250,Ice Cream,Amritsar,Ranjit Avenue,Quick Bites,Good,3.9,104
+The Pizza Point,300,Pizza,Amritsar,Mohan Nagar,Quick Bites,Average,3.2,41
+Pizza Hudd,400,"Fast Food,Pizza",Amritsar,Basant Nagar,Quick Bites,Not rated,-,-
+AJ Food Court,250,"Fast Food,Chinese",Amritsar,Shastri Nagar,none,None,NEW,NEW
+Hungry Pizza,500,"Fast Food,Italian,Pizza",Amritsar,Rani Ka Bagh,Quick Bites,Very Good,4.0,294
+Cafe Chokolade,250,"Salad,Cafe,Healthy Food,Fast Food",Amritsar,Ranjit Avenue,Café,Very Good,4.0,303
+Janta Food,200,"North Indian,Street Food",Amritsar,INA Colony,Quick Bites,Very Good,4.1,187
+Subway,500,"Healthy Food,Sandwich,Salad",Amritsar,Lawrence Road,Quick Bites,Very Good,4.1,413
+KFC,500,"Burger,Fast Food",Amritsar,White Avenue,Quick Bites,Very Good,4.2,404
+Annpurna Veg. Dhaba,400,North Indian,Amritsar,Basant Nagar,Quick Bites,Very Good,4.0,269
+Los Fiesta,600,"Italian,Chinese",Amritsar,Basant Nagar,Casual Dining,Good,3.9,252
+Anjan Mutton and Chicken Products,200,"Biryani,Chinese,Fast Food,North Indian,Burger",Amritsar,Azad Nagar,Quick Bites,Very Good,4.2,357
+Charming Chicken,600,North Indian,Amritsar,Basant Nagar,Quick Bites,Very Good,4.4,573
+Bubby Fish & Chicken Corner,300,North Indian,Amritsar,INA Colony,Quick Bites,Good,3.8,342
+Crystal Restaurant,800,"North Indian,Mughlai",Amritsar,INA Colony,Casual Dining,Very Good,4.0,304
+Burgrill,450,"Fast Food,Burger",Amritsar,Ranjit Avenue,Quick Bites,Very Good,4.2,261
+Muskaan,500,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Good,3.9,364
+Zaika Family Restaurant,300,North Indian,Amritsar,GT Road,Quick Bites,Very Good,4.1,114
+Pappi Di Hatti Tandoori Magic,400,North Indian,Amritsar,White Avenue,Quick Bites,Very Good,4.1,231
+Krishna Snacks Corner,150,Street Food,Amritsar,Ranjit Avenue,Quick Bites,Not rated,-,-
+Munim Di Hatti,100,Beverages,Amritsar,Lawrence Road,Beverage Shop,Not rated,-,-
+Pizza Lovers,200,"Pizza,Fast Food",Amritsar,Lawrence Road,Quick Bites,None,NEW,NEW
+Just Baked,200,Bakery,Amritsar,Ranjit Avenue,Bakery,Not rated,-,-
+American food,150,"Burger,Cafe",Amritsar,Basant Nagar,Café,None,NEW,NEW
+Backyard Burgers,200,"Fast Food,Burger,Desserts,Beverages",Amritsar,Rani Ka Bagh,Quick Bites,None,NEW,NEW
+Amritsari Kulcha,0,North Indian,Amritsar,INA Colony,Quick Bites,None,NEW,NEW
+Bhagwati Kulcha And Spicy Hut,200,North Indian,Amritsar,Basant Nagar,Quick Bites,None,NEW,NEW
+Funky Junky,350,"Fast Food,Italian",Amritsar,Ranjit Avenue,Quick Bites,None,NEW,NEW
+Bhadur kulcha corner,0,,Amritsar,Basant Nagar,Casual Dining,None,NEW,NEW
+J J Brothers Kulcha Point,100,"Street Food,Fast Food",Amritsar,Shastri Nagar,Quick Bites,None,NEW,NEW
+Sethi's Charcoal Grill,400,"North Indian,Desserts,Beverages",Amritsar,Ranjit Avenue,Casual Dining,Not rated,-,-
+Sweet Infuzion,300,Bakery,Amritsar,GT Road,none,None,NEW,NEW
+Dawat E Punjab,700,"North Indian,Chinese,Fast Food",Amritsar,Rani Ka Bagh,Casual Dining,None,NEW,NEW
+Tamanna Restaurant,0,North Indian,Amritsar,INA Colony,Quick Bites,None,NEW,NEW
+Randhawa chicken house,0,North Indian,Amritsar,GT Road,Quick Bites,None,NEW,NEW
+Talk Of The Town,500,"Chinese,Cafe,Continental,Fast Food,North Indian,Coffee,Desserts",Amritsar,Ranjit Avenue,Casual Dining,Very Good,4.0,47
+Amrit Dhaba Family Restaurant,300,"North Indian,Chinese",Amritsar,GNDU Area,Dhaba,Good,3.7,57
+Spicy Hut Vintage,500,"North Indian,Fast Food,Beverages",Amritsar,Ranjit Avenue,Casual Dining,Good,3.5,81
+Fit Fuel,400,"Healthy Food,North Indian",Amritsar,Ranjit Avenue,Quick Bites,Good,3.7,67
+Peshawari,300,"North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,Good,3.6,93
+South Indian Madrasi Dosa Wala,500,South Indian,Amritsar,INA Colony,Quick Bites,Good,3.8,57
+Tasty Hut's Afghani Soya,400,North Indian,Amritsar,GT Road,Casual Dining,Good,3.8,81
+The Cooling Pan,200,Ice Cream,Amritsar,Basant Nagar,Dessert Parlor,Average,2.9,6
+Mom'z Restaurant & Cafe,600,"North Indian,Chinese,Continental",Amritsar,Lawrence Road,Casual Dining,Average,3.3,94
+Mathura Chat,150,Street Food,Amritsar,Lawrence Road,Quick Bites,Average,3.3,71
+Cafe Oz Restaurant & Lounge Bar,1200,"North Indian,Chinese,Continental,Italian",Amritsar,Ranjit Avenue,Casual Dining,Average,3.4,78
+The Snack Juction,400,"Chinese,North Indian",Amritsar,Mohan Nagar,Casual Dining,Good,3.8,101
+Fun Tym Pizzaria,300,"Pizza,Fast Food,Beverages",Amritsar,Lawrence Road,Quick Bites,Average,2.8,54
+The Floreans,700,"Cafe,Chinese,Continental,North Indian,Italian",Amritsar,Ranjit Avenue,Café,Average,3.4,77
+Inderpuri Foods,300,North Indian,Amritsar,INA Colony,Quick Bites,Good,3.7,80
+KFK Bar-B-Que Fish-N-Chips,500,North Indian,Amritsar,White Avenue,Casual Dining,Good,3.8,56
+Crystal Restaurant Plaza,500,"Mughlai,Continental,Chinese,Italian",Amritsar,INA Colony,Casual Dining,Good,3.6,50
+Ultra Punjabi,300,"North Indian,Chinese,Italian,Continental",Amritsar,GT Road,Quick Bites,Good,3.5,20
+The Shakes Hub,400,"South Indian,Fast Food,Pizza,Desserts,Beverages",Amritsar,GNDU Area,Beverage Shop,Good,3.7,42
+Like Italy,500,Italian,Amritsar,AplhaOne Mall-- GT Road,Casual Dining,Good,3.6,34
+Bombay Pav Bhaji & Bhel Puri,200,Street Food,Amritsar,INA Colony,Quick Bites,Good,3.5,44
+Sip 'n' Bite,400,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,Good,3.7,61
+Shake Up,350,"Beverages,Fast Food",Amritsar,Rani Ka Bagh,Quick Bites,Good,3.5,40
+Gautam Food Corner,500,North Indian,Amritsar,Ranjit Avenue,Casual Dining,Good,3.5,43
+DOMO,150,"Chinese,Momos,South Indian",Amritsar,Mall Road,Quick Bites,Average,3.3,79
+Roast N Toast,400,"Cafe,Thai,Lebanese,Italian",Amritsar,Ranjit Avenue,Café,Good,3.7,64
+Spicy Hut,450,"North Indian,Fast Food",Amritsar,Shakti Nagar,Quick Bites,Good,3.6,36
+New Sunny Chicken Corner,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Good,3.6,51
+Subhash Juice Bar and Fast Food,200,"Juices,Street Food",Amritsar,Ranjit Avenue,Casual Dining,Good,3.5,37
+Bon's Adda,400,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,Good,3.7,60
+Just Mughlai,300,"Biryani,Hyderabadi,Lucknowi,North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,Good,3.5,37
+Dinein 181,900,"North Indian,Fast Food",Amritsar,Rani Ka Bagh,Quick Bites,Good,3.5,46
+Ravindra's Dhaba,300,"North Indian,Chinese",Amritsar,Mohan Nagar,Dhaba,Average,3.4,35
+Wah Ji Wah,200,North Indian,Amritsar,Town Hall,Quick Bites,Good,3.5,26
+Moti Mahal Premier - Golden Tulip,1000,"North Indian,Chinese,Mughlai",Amritsar,Golden Tulip-- Rani Ka Bagh,Casual Dining,Good,3.9,45
+The Chocolate Room,200,Cafe,Amritsar,Ranjit Avenue,Café,Good,3.6,63
+The Amritsar Haveli,400,"Salad,Chinese,Cafe,Sandwich,Fast Food,North Indian,Desserts",Amritsar,Town Hall,Quick Bites,Average,3.3,17
+Oka Open Kitchen At Astoria,1000,North Indian,Amritsar,Ranjit Avenue,Casual Dining,Good,3.8,52
+Lets Chai,500,"Fast Food,Beverages,North Indian",Amritsar,Ranjit Avenue,Quick Bites,Good,3.6,42
+Irish Beach,1200,"Continental,Italian",Amritsar,Mall Road,Club,Good,3.5,42
+Tandoori Hut,400,"North Indian,Chinese",Amritsar,GT Road,Quick Bites,None,NEW,NEW
+The Khansama,500,"North Indian,Chinese",Amritsar,Ranjit Avenue,Quick Bites,Average,3.0,17
+Baskin Robbins,300,Ice Cream,Amritsar,Ranjit Avenue,Dessert Parlor,Good,3.7,26
+Abhi's Kitchen Club,500,"North Indian,Chinese",Amritsar,Mohan Nagar,Quick Bites,Good,3.5,42
+La Chef,350,"North Indian,Mughlai",Amritsar,White Avenue,Quick Bites,Average,3.4,40
+Spice - Country Inn & Suites,1200,"North Indian,Mughlai",Amritsar,Country Inn & Suites-- INA Colony,Fine Dining,Average,3.4,31
+Mirch Masala Punjabi Dhaba,200,"North Indian,South Indian",Amritsar,Town Hall,Quick Bites,Average,3.4,13
+Giani,200,"Ice Cream,Desserts",Amritsar,Lawrence Road,Quick Bites,Good,3.5,33
+My Food Hub Kulcha Point,100,North Indian,Amritsar,Basant Nagar,Quick Bites,Average,3.2,26
+Flavours,500,"Chinese,Continental,Fast Food,North Indian",Amritsar,Ranjit Avenue,Quick Bites,Average,3.1,34
+Make My Shake,300,Beverages,Amritsar,Rani Ka Bagh,Beverage Shop,Average,3.4,41
+The Red Restro,600,"North Indian,Mughlai",Amritsar,Town Hall,Casual Dining,Average,3.0,20
+Aurah,1200,"Thai,Chinese",Amritsar,Ranjit Avenue,Casual Dining,Good,3.7,45
+Barcode,700,North Indian,Amritsar,Basant Nagar,Quick Bites,Average,3.4,45
+Cafe Crown Pizza,400,"Italian,Beverages",Amritsar,Hathi Gate,Quick Bites,Average,3.0,41
+Food Hut,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Good,3.5,38
+Grab N Go!,250,"Chinese,South Indian",Amritsar,Ranjit Avenue,Quick Bites,Good,3.6,43
+Biryani House,500,Biryani,Amritsar,Ranjit Avenue,Quick Bites,Good,3.6,43
+Kumar Fast Food,600,North Indian,Amritsar,White Avenue,Quick Bites,Good,3.5,51
+Chajju Da Dhaba,400,North Indian,Amritsar,Lawrence Road,Dhaba,Good,3.6,38
+Inderjit Pehalwan Da Dhaba,500,North Indian,Amritsar,Amritsar Junction,Quick Bites,Good,3.9,50
+Krishna Restaurant,700,"North Indian,Chinese,Continental",Amritsar,Rani Ka Bagh,Casual Dining,Good,3.5,35
+Chand Dhaba,300,North Indian,Amritsar,Town Hall,Quick Bites,Average,3.4,27
+Lezzetli,200,Desserts,Amritsar,Basant Nagar,Dessert Parlor,Average,3.2,21
+Omega +,300,North Indian,Amritsar,Basant Nagar,Quick Bites,Average,3.3,14
+Hotel HK Continental,400,"North Indian,Chinese,Desserts",Amritsar,GT Road,Casual Dining,Average,3.1,14
+Ac Chicken And Restaurant,400,North Indian,Amritsar,Hathi Gate,Casual Dining,Average,3.3,12
+Sanjay's Real Cheese,300,North Indian,Amritsar,Lawrence Road,Quick Bites,Good,3.6,34
+Basant La Patisserie,300,Bakery,Amritsar,Ranjit Avenue,Bakery,Good,3.5,25
+The Foodhouse Bistro,400,Fast Food,Amritsar,GT Road,Quick Bites,Good,3.6,33
+Chicken Brewery,650,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Good,3.6,21
+Zaika-Highland Inn,600,"North Indian,Chinese",Amritsar,INA Colony,Casual Dining,Good,3.5,24
+The Brew Kitchen,600,"Arabian,Continental",Amritsar,Ranjit Avenue,Casual Dining,Good,3.9,23
+The Eatery,0,"North Indian,Chinese,Continental",Amritsar,Lawrence Road,Quick Bites,None,NEW,NEW
+K Nine Restaurant,700,"Italian,North Indian,South Indian,Chinese",Amritsar,INA Colony,Casual Dining,Average,3.3,18
+Shaina Diner,600,"North Indian,Chinese",Amritsar,Hathi Gate,Quick Bites,Average,2.6,17
+Havmor,250,Ice Cream,Amritsar,Ranjit Avenue,Quick Bites,Good,3.5,25
+Swagat Kitchen,600,North Indian,Amritsar,Ranjit Avenue,Casual Dining,Average,3.4,33
+Asian Chicken Corner,350,North Indian,Amritsar,Basant Nagar,Quick Bites,Good,3.6,49
+Salt n Pepper,300,"North Indian,Italian",Amritsar,Ranjit Avenue,Quick Bites,Average,3.4,31
+Marwari dhaba,500,"Rajasthani,Bengali,Gujarati,North Indian",Amritsar,Town Hall,Quick Bites,Average,3.3,8
+D.S. Dhaba,200,Street Food,Amritsar,Basant Nagar,Quick Bites,Average,3.3,13
+Fouji Dhaba,300,North Indian,Amritsar,GT Road,Quick Bites,Average,3.2,8
+Purple Rice,1500,Asian,Amritsar,Ranjit Avenue,Casual Dining,Average,3.4,26
+Mahajan Chicken House,400,"North Indian,Mughlai",Amritsar,Basant Nagar,Casual Dining,Average,3.3,15
+City Junction Food Point,400,"Chinese,North Indian",Amritsar,GT Road,Casual Dining,Good,3.5,29
+Raja Chicken House,500,"North Indian,Raw Meats",Amritsar,INA Colony,Quick Bites,Good,3.7,34
+New Munim Di Hatti,400,North Indian,Amritsar,Lawrence Road,Quick Bites,Good,3.5,17
+Cafe Coffee Day,500,Cafe,Amritsar,Ranjit Avenue,Café,Good,3.5,28
+Speziato,900,"Chinese,Continental,North Indian,Beverages",Amritsar,Ranjit Avenue,Casual Dining,Good,3.5,29
+3D FoodZ,600,North Indian,Amritsar,Lawrence Road,Quick Bites,Average,3.4,26
+Bombay Special Burger & Soup,100,Burger,Amritsar,INA Colony,Quick Bites,Average,3.3,15
+Shaan E Awadh,500,"Mughlai,North Indian,Chinese",Amritsar,Ranjit Avenue,Casual Dining,Average,3.4,29
+Bell- A-Sia - Holiday Inn,2000,Italian,Amritsar,Holiday Inn-- Ranjit Avenue,Casual Dining,Good,3.6,30
+Peakking Hut,400,"North Indian,Chinese",Amritsar,INA Colony,Quick Bites,Good,3.5,22
+Golden Fresh Foods,500,North Indian,Amritsar,Town Hall,Casual Dining,Good,3.5,23
+Tandoori Hub - Hotel Swarn House,600,"Chinese,Continental,Fast Food,North Indian",Amritsar,Azad Nagar,Casual Dining,Average,3.2,11
+Cruiser 8,350,North Indian,Amritsar,Hathi Gate,Casual Dining,Good,3.5,37
+Beliram Mutton & Galouti Kebab,400,"North Indian,Kebab",Amritsar,Ranjit Avenue,Quick Bites,Average,3.4,23
+Old Kundan Dhaba,300,North Indian,Amritsar,Amritsar Junction,Quick Bites,Average,2.6,22
+Brew Bakers,350,"Bakery,Sandwich,Burger",Amritsar,Ranjit Avenue,Bakery,Average,2.9,4
+Vinayak Veg Champ,200,"South Indian,Chinese",Amritsar,Basant Nagar,none,Average,2.8,9
+The European Knights,800,"Italian,Biryani",Amritsar,Ranjit Avenue,Casual Dining,Good,3.5,24
+Yipple,300,"Ice Cream,Desserts",Amritsar,Lawrence Road,Dessert Parlor,Average,3.3,7
+Kaka Ram Sweets,200,Mithai,Amritsar,Town Hall,Sweet Shop,Average,3.1,7
+A R Foods,100,Fast Food,Amritsar,Ranjit Avenue,none,Average,3.1,9
+Apni Punjabi Rasoi,600,North Indian,Amritsar,Trillium Mall-- White Avenue,Casual Dining,Average,3.4,19
+Ankit Fast Food,200,Fast Food,Amritsar,Town Hall,Quick Bites,None,NEW,NEW
+Dream Paan Shop,100,"Paan,Beverages",Amritsar,Ranjit Avenue,Paan Shop,Good,3.5,19
+Chai Time,400,"Tea,Fast Food,Chinese,North Indian",Amritsar,White Avenue,Quick Bites,Average,3.2,15
+Hi Que Restro & Tea House,900,"Chinese,North Indian",Amritsar,Ranjit Avenue,Casual Dining,Good,3.5,22
+Burger Bite,200,"Fast Food,Burger",Amritsar,GT Road,Quick Bites,Average,3.1,7
+J Vikas Soya Champ,150,Fast Food,Amritsar,INA Colony,Quick Bites,None,NEW,NEW
+Bobby Meat Shop,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Average,3.0,24
+Neenoo's Classic Chicken Corner,400,North Indian,Amritsar,White Avenue,Quick Bites,Average,3.3,14
+Barrels Brew Pub,800,"North Indian,Continental,Chinese,Mexican",Amritsar,AplhaOne Mall-- GT Road,Microbrewery,Poor,2.4,19
+Metro - Humble Hotels,1000,"North Indian,Chinese,Continental",Amritsar,Lawrence Road,Casual Dining,Average,3.4,11
+Selfie Korner,350,"Fast Food,Beverages",Amritsar,Rani Ka Bagh,Quick Bites,Average,3.3,13
+BAPU DI RASOI,350,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Average,2.8,6
+Palli Chicken,400,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Good,3.6,25
+Fire N Ice Take Away,300,"Fast Food,North Indian",Amritsar,Ranjit Avenue,none,Not rated,-,-
+JD Buffeteria,300,North Indian,Amritsar,INA Colony,Quick Bites,Average,2.6,13
+Tadka Amritsari,400,"North Indian,Chinese",Amritsar,Ranjit Avenue,Quick Bites,Average,3.2,23
+Rosies Cafe,600,"Cafe,Fast Food,Steak,Burger,Pizza,Beverages",Amritsar,Ranjit Avenue,Café,Average,3.3,11
+Lahori's Shakes and Meal,300,"Beverages,Fast Food,Continental,Chinese",Amritsar,Rani Ka Bagh,Beverage Shop,Average,3.4,22
+Boxeo- bar and Lounge,800,"Italian,Chinese,North Indian",Amritsar,Mall Road,Lounge,Average,3.4,12
+Puni Lal Pan And Aam Papad Shop,100,Paan,Amritsar,Lawrence Road,Paan Shop,Average,3.3,10
+Mothers Zayka,400,"North Indian,Chinese",Amritsar,Kabir Park,Quick Bites,Average,3.3,16
+Sat Da Dhaba,500,North Indian,Amritsar,GT Road,Dhaba,Average,3.3,11
+Dishoom lounge,800,"Chinese,Continental,Indian,North Indian",Amritsar,Ranjit Avenue,Lounge,Average,3.1,11
+Pizza King,450,"Fast Food,Pizza",Amritsar,Basant Nagar,Quick Bites,Average,3.2,16
+Swaadd-E-Amritsar,500,"North Indian,Chinese,Fast Food",Amritsar,Town Hall,Quick Bites,None,NEW,NEW
+Taste Of Amritsar,300,"North Indian,Chinese",Amritsar,GT Road,Quick Bites,None,NEW,NEW
+Taal Restaurant,500,"North Indian,Chinese",Amritsar,Ranjit Avenue,Quick Bites,Average,2.8,13
+The Yellow Chilli,1200,"North Indian,Mughlai,Chinese",Amritsar,Ranjit Avenue,Casual Dining,Good,3.7,237
+Surjit Food Plaza,1000,North Indian,Amritsar,Lawrence Road,Casual Dining,Very Good,4.0,223
+Eldorado,700,"North Indian,Mexican,Chinese",Amritsar,Ranjit Avenue,Casual Dining,Very Good,4.0,280
+Sip N Brew Premium,400,"Cafe,Italian",Amritsar,Rani Ka Bagh,Café,Good,3.8,175
+Glass House Amritsar,800,"North Indian,Chinese,Continental",Amritsar,Mall Road,Casual Dining,Good,3.9,181
+McDonald's,500,"Burger,Fast Food",Amritsar,The Celebration Mall-- Basant Nagar,Quick Bites,Very Good,4.0,257
+Pizza Italia,600,"Italian,Pizza",Amritsar,Lawrence Road,Casual Dining,Very Good,4.1,264
+Baba Chicken,800,North Indian,Amritsar,Lawrence Road,Casual Dining,Very Good,4.1,241
+Reiki Foods,150,North Indian,Amritsar,GNDU Area,Quick Bites,Good,3.9,144
+Bombay Pav Bhaji and Bhel Puri,200,"Street Food,Maharashtrian,South Indian,Pizza,Chinese",Amritsar,GNDU Area,Quick Bites,Good,3.8,161
+Brothers Dhaba,300,North Indian,Amritsar,Amritsar Cantonment,Quick Bites,Very Good,4.0,128
+Beera Chicken House,500,North Indian,Amritsar,Basant Nagar,Quick Bites,Very Good,4.3,878
+House of Shakes,400,"Beverages,Fast Food",Amritsar,White Avenue,Beverage Shop,Very Good,4.0,120
+The Brothers,600,"North Indian,Chinese",Amritsar,Basant Nagar,Quick Bites,Very Good,4.1,154
+Poornima Chinese Food,150,"Chinese,Fast Food",Amritsar,INA Colony,Quick Bites,Very Good,4.2,140
+The London Club,1000,"North Indian,Finger Food",Amritsar,GT Road,Lounge,Average,3.1,13
+Publik,400,"Italian,Mexican,Chinese",Amritsar,Ranjit Avenue,Quick Bites,Average,3.3,7
+Eat n Treat,500,"Continental,North Indian",Amritsar,Lawrence Road,Quick Bites,Not rated,-,-
+A One Snacks Corner,600,North Indian,Amritsar,Ranjit Avenue,Casual Dining,Average,3.2,13
+Vehra,800,North Indian,Amritsar,Lawrence Road,Casual Dining,Average,3.2,12
+Khaana Sutra,500,North Indian,Amritsar,GT Road,Quick Bites,Not rated,-,-
+Orchid Restaurant - Hotel Shiraz,700,"North Indian,Chinese,Thai,Continental",Amritsar,INA Colony,Casual Dining,Average,3.0,4
+New Friends Dhaba,200,North Indian,Amritsar,Town Hall,Quick Bites,Average,2.9,8
+Selfiechino,300,"Fast Food,Burger,Sandwich,Wraps,Chinese",Amritsar,Lawrence Road,Quick Bites,Average,3.2,8
+Athens grill,400,"North Indian,Chinese,Continental",Amritsar,Mohan Nagar,Quick Bites,Average,3.3,11
+Lucky Dhaba,400,North Indian,Amritsar,Town Hall,Quick Bites,Average,3.0,6
+Biryani House,300,Biryani,Amritsar,INA Colony,Quick Bites,Not rated,-,-
+Blusilea- The Multi Cuisine Restaurant,600,"North Indian,Italian",Amritsar,Ranjit Avenue,Casual Dining,None,NEW,NEW
+The Hungry Bite,200,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,Average,3.1,5
+Subhash Foods & Juice Bar,300,"North Indian,Chinese,Italian",Amritsar,Ranjit Avenue,Quick Bites,Average,3.2,11
+Fuze Plus,400,"North Indian,Chinese,Bar Food",Amritsar,GNDU Area,Lounge,Average,3.1,8
+Sonu Chicken Corner,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Average,3.0,4
+Amar Fish,350,Mughlai,Amritsar,Ranjit Avenue,Quick Bites,Average,3.2,11
+Chill'z,250,"Fast Food,Momos,Beverages",Amritsar,Ranjit Avenue,Quick Bites,Not rated,-,-
+La Pinoz Pizza,250,Pizza,Amritsar,GT Road,Quick Bites,Average,3.3,11
+Punjabi Essence Pure Veg Dhabha,200,North Indian,Amritsar,White Avenue,Dhaba,Average,2.8,6
+Desi English Kitchen,1400,"North Indian,Lebanese,Asian,Italian",Amritsar,Lawrence Road,Lounge,Average,3.2,8
+Nanda's Hotel And Restaurant,1000,"North Indian,Chinese",Amritsar,Mohan Nagar,Casual Dining,Average,3.2,8
+Sanhotra Dhaba,200,North Indian,Amritsar,GT Road,Dhaba,Not rated,-,-
+Tibbs Frankie,300,Mughlai,Amritsar,Ranjit Avenue,Quick Bites,Average,3.0,12
+Tasty Bite,300,"North Indian,Chinese,Fast Food",Amritsar,Town Hall,Quick Bites,Average,3.0,8
+China Town Chennai Express,450,"South Indian,Chinese",Amritsar,Trillium Mall-- White Avenue,Quick Bites,Average,3.1,8
+pisa pizza,400,Pizza,Amritsar,INA Colony,Quick Bites,Average,2.6,13
+The Brew Beer Cafe,500,"Continental,Chinese",Amritsar,Ranjit Avenue,Quick Bites,Average,3.1,9
+Brothers Chicken Corner,350,Fast Food,Amritsar,Ranjit Avenue,Quick Bites,Average,3.3,12
+Ees Ell Restaurant,300,North Indian,Amritsar,Shastri Nagar,Quick Bites,Average,3.1,10
+Aroma Multicuisine Restaurant,500,"North Indian,Chinese",Amritsar,GT Road,Casual Dining,Average,2.9,7
+Tandoori Flames,300,"North Indian,Chinese",Amritsar,Town Hall,Quick Bites,Average,3.2,10
+Shree Ganpati Veg Champ and Fruit Cream,250,North Indian,Amritsar,White Avenue,Quick Bites,Average,3.2,10
+Rishi Fast Food,150,"Chinese,Beverages,Desserts",Amritsar,INA Colony,none,Not rated,-,-
+Fire N Ice Restaurant,400,"North Indian,Chinese,Fast Food",Amritsar,Ranjit Avenue,Quick Bites,Average,3.0,4
+Hi-Que Express,300,"North Indian,Chinese",Amritsar,Lawrence Road,Quick Bites,Average,3.1,6
+ZAIKA old sharma dhaba,0,North Indian,Amritsar,Town Hall,Casual Dining,None,NEW,NEW
+Simar Spicy Food,400,"North Indian,Chinese,Fast Food",Amritsar,Mohan Nagar,Quick Bites,Average,2.8,11
+Sheetal Again,1200,"North Indian,Chinese",Amritsar,Basant Nagar,Lounge,Average,2.9,6
+Caffeine - Golden Tulip,700,"Cafe,Desserts",Amritsar,Golden Tulip-- Rani Ka Bagh,Casual Dining,Average,2.7,5
+Giani's,300,"Desserts,Ice Cream,Beverages",Amritsar,AplhaOne Mall-- GT Road,Dessert Parlor,Average,3.2,7
+Comfort Inn Alstonia,500,North Indian,Amritsar,Ranjit Avenue,Casual Dining,Average,2.9,4
+Bombay Special Pani Puri Corner,100,Street Food,Amritsar,Lawrence Road,Quick Bites,Média,3.2,8
+@Tenki,800,"North Indian,Continental,Chinese,Italian",Amritsar,Ranjit Avenue,Casual Dining,Average,2.7,7
+Foodmania,300,"Fast Food,Chinese",Amritsar,Ranjit Avenue,Quick Bites,Average,3.0,7
+Brother Chicken Corner,500,"North Indian,Chinese,Indian",Amritsar,Ranjit Avenue,Casual Dining,Average,2.7,7
+Popular Restaurant,300,North Indian,Amritsar,GT Road,Quick Bites,Average,2.8,4
+JS Makhan Fish & Chicken,500,"North Indian,Seafood",Amritsar,Hathi Gate,Quick Bites,Average,2.9,6
+Amar Fish,500,North Indian,Amritsar,White Avenue,Casual Dining,Not rated,-,-
+Zaika,200,"North Indian,Chinese",Amritsar,Town Hall,Quick Bites,None,NEW,NEW
+Lazeez Foods,300,"North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,Average,3.0,7
+A To Z Lounge & Dine,500,North Indian,Amritsar,Amritsar Cantonment,Casual Dining,Not rated,-,-
+The Peg,1200,"North Indian,Chinese",Amritsar,White Avenue,Bar,Not rated,-,-
+Roamers,600,Cafe,Amritsar,Ranjit Avenue,Quick Bites,Not rated,-,-
+Deli Pastry Lounge - Holiday Inn,500,Bakery,Amritsar,Holiday Inn-- Ranjit Avenue,Bakery,Not rated,-,-
+Arora's Food,400,"North Indian,Mughlai,Fast Food",Amritsar,Rani Ka Bagh,Quick Bites,Average,3.1,5
+CHACHE DA DHABA,300,,Amritsar,Hathi Gate,Dhaba,None,NEW,NEW
+Taste of Amritsar-Hotel Punnu International,300,North Indian,Amritsar,Lawrence Road,Casual Dining,Not rated,-,-
+Narang Oven Foods & Desserts,400,North Indian,Amritsar,GT Road,Quick Bites,Average,3.0,5
+Mr. Burger Hut,250,"Burger,Beverages",Amritsar,Ranjit Avenue,Quick Bites,Average,2.8,4
+Hotel Raj Darbar,500,"North Indian,South Indian,Chinese",Amritsar,Town Hall,Casual Dining,Average,3.1,5
+Kings Restaurant,500,North Indian,Amritsar,Town Hall,Bar,Not rated,-,-
+The Lounge,600,"North Indian,Chinese,Fast Food",Amritsar,Ranjit Avenue,Casual Dining,Not rated,-,-
+Punjab Calling,400,North Indian,Amritsar,Mall Road,Quick Bites,Not rated,-,-
+Karni Marwad Sweets,300,Mithai,Amritsar,Basant Nagar,Dessert Parlor,None,NEW,NEW
+Cafe Beanne,400,Cafe,Amritsar,AplhaOne Mall-- GT Road,Quick Bites,Not rated,-,-
+Highway Junction,800,"Mughlai,Chinese,North Indian",Amritsar,GT Road,Casual Dining,Not rated,-,-
+Rotiwala,500,North Indian,Amritsar,Ranjit Avenue,Casual Dining,Average,2.7,4
+Pakeeza Dhaba,300,North Indian,Amritsar,Town Hall,Dhaba,Average,2.9,4
+Foodfun,900,"North Indian,Chinese,Fast Food",Amritsar,GT Road,Casual Dining,None,NEW,NEW
+The Streets Cafe,350,Fast Food,Amritsar,Ranjit Nagar,Quick Bites,Average,3.0,4
+Brothers Kitchen,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Not rated,-,-
+Charcoal Live,400,North Indian,Amritsar,Mall Road,Quick Bites,Not rated,-,-
+Kebabz n Kurries,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Not rated,-,-
+Aqua Lounge,1500,"North Indian,Chinese",Amritsar,Ranjit Avenue,Lounge,Not rated,-,-
+Pindi Soya,500,"Chinese,North Indian",Amritsar,Ranjit Nagar,Casual Dining,Not rated,-,-
+BK Mutton Shop,350,Kebab,Amritsar,Hathi Gate,Quick Bites,Not rated,-,-
+Dana Pani,400,North Indian,Amritsar,Ranjit Avenue,Dhaba,Not rated,-,-
+Bittu Chicken House,400,"North Indian,Mughlai",Amritsar,Hathi Gate,Quick Bites,None,NEW,NEW
+Mr Mana Multi-Cuisine Hub,300,"Chinese,Continental,North Indian",Amritsar,Ranjit Avenue,Quick Bites,Not rated,-,-
+Old and Famous Chick Chicken House,200,North Indian,Amritsar,Basant Nagar,Quick Bites,None,NEW,NEW
+FOB,200,"Burger,Italian,Fast Food",Amritsar,Mohan Nagar,Quick Bites,Not rated,-,-
+Tandoori Nights,700,"North Indian,Chinese,Continental,Fast Food",Amritsar,Kabir Park,Casual Dining,Not rated,-,-
+Apple Bar & Restaurant,600,North Indian,Amritsar,Maquboolpura,Casual Dining,Not rated,-,-
+Heritage Dhaba,250,"North Indian,Fast Food",Amritsar,Town Hall,Dhaba,Not rated,-,-
+Ecostay Hotel,400,North Indian,Amritsar,Basant Nagar,Casual Dining,Not rated,-,-
+UBQ by Barbeque Nation,1000,North Indian,Amritsar,Mall Road,none,Not rated,-,-
+Khan Afghani Chicken,400,Afghan,Amritsar,Maquboolpura,Quick Bites,None,NEW,NEW
+Hotel Midtown Banquet Bar And Restaurant,700,"North Indian,Chinese,South Indian",Amritsar,Hotel Midtown-- GT Road,Casual Dining,Not rated,-,-
+The Chinese Room,1500,Chinese,Amritsar,White Avenue,Fine Dining,Not rated,-,-
+Lucknowi Biryani,400,Biryani,Amritsar,Mohan Nagar,none,None,NEW,NEW
+Grand Trunk,1200,"North Indian,Asian,European",Amritsar,White Avenue,Fine Dining,Not rated,-,-
+Indian Paratha Company,600,Cuisine Varies,Amritsar,Town Hall,Casual Dining,None,NEW,NEW
+The Streets Cafe,300,Cafe,Amritsar,Town Hall,Café,Not rated,-,-
+Border Grill,300,"North Indian,Chinese",Amritsar,Town Hall,Quick Bites,None,NEW,NEW
+Foodie MOM,200,North Indian,Amritsar,Lawrence Road,Quick Bites,Not rated,-,-
+Eat & Treat,300,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Not rated,-,-
+Sallow Royal Suites,400,"North Indian,Chinese",Amritsar,GT Road,Quick Bites,None,NEW,NEW
+Sibling Cuisines,300,North Indian,Amritsar,GT Road,none,Not rated,-,-
+Happy Food Corner,0,Chinese,Amritsar,Basant Nagar,Quick Bites,None,NEW,NEW
+Sunny Meat Shop,0,"North Indian,Mughlai",Amritsar,Basant Nagar,Quick Bites,None,NEW,NEW
+EatAsia Food,700,"North Indian,South Indian,Chinese,Juices",Amritsar,Ranjit Avenue,Quick Bites,Very Good,4.0,139
+Novelty Sweets,150,Mithai,Amritsar,Lawrence Road,Sweet Shop,Very Good,4.2,349
+Makhan Fish & Chicken Hut,800,"North Indian,Chinese",Amritsar,White Avenue,Quick Bites,Good,3.9,125
+The Kulcha Land,200,"North Indian,Street Food",Amritsar,Ranjit Avenue,Quick Bites,Excellent,4.5,812
+Lovely Champ,500,"North Indian,South Indian",Amritsar,Mohan Nagar,Quick Bites,Good,3.5,135
+Subhash Juice Bar & Restaurant,400,"North Indian,Italian,South Indian,Fast Food,Juices,Chinese",Amritsar,Hathi Gate,Casual Dining,Good,3.8,137
+Food Bowl,500,"Chinese,Continental,North Indian",Amritsar,Kabir Park,Quick Bites,Very Good,4.0,135
+Lovely Dhaba,500,"Chinese,North Indian",Amritsar,Ranjit Avenue,Quick Bites,Good,3.9,130
+Kanha Sweets,150,Fast Food,Amritsar,Lawrence Road,Quick Bites,Excellent,4.7,452
+Lovely Kulcha Land and champ,400,North Indian,Amritsar,Hathi Gate,Quick Bites,Very Good,4.0,98
+Gauri Shankar & Sons,300,North Indian,Amritsar,INA Colony,Dhaba,Good,3.8,105
+El Nido Cafe & Lounge,300,"Chinese,Cafe,Continental,Fast Food,Italian",Amritsar,Ranjit Avenue,Café,Good,3.8,139
+Bukhaaraa,500,"North Indian,Mughlai",Amritsar,Ranjit Avenue,Casual Dining,Good,3.9,186
+Keventers,400,"Beverages,Ice Cream,Desserts",Amritsar,Lawrence Road,Beverage Shop,Very Good,4.3,164
+Brijwasi Chat Bhandar,150,Street Food,Amritsar,INA Colony,Quick Bites,Very Good,4.1,390
+Sip n Bite,400,Fast Food,Amritsar,Lawrence Road,Quick Bites,Good,3.9,105
+Pizza Italia,500,Italian,Amritsar,Ranjit Avenue,Quick Bites,Very Good,4.0,166
+Pizza Hut,700,"Italian,Pizza",Amritsar,Trillium Mall-- White Avenue,Casual Dining,Good,3.6,160
+Bariesto,600,"Bakery,Chinese,Cafe,Continental,Italian",Amritsar,Ranjit Avenue,Café,Good,3.5,148
+Biryani Brews,300,"Biryani,North Indian",Amritsar,Ranjit Avenue,Quick Bites,Good,3.6,364
+Neenoo's Bar-B-Que Fish-N-Chips,800,Finger Food,Amritsar,White Avenue,Casual Dining,Very Good,4.2,127
+Friends Dhaba,400,North Indian,Amritsar,INA Colony,Quick Bites,Average,2.8,124
+Bharawan Da Dhaba,500,"Fast Food,North Indian,Mughlai",Amritsar,Ranjit Avenue,Quick Bites,Good,3.7,116
+Durga's,200,"Ice Cream,Desserts",Amritsar,Lawrence Road,Dessert Parlor,Good,3.9,86
+Ahuja Milk Bhandar,150,Beverages,Amritsar,Hathi Gate,Beverage Shop,Excellent,4.5,184
+New Wah ji Wah Champ,300,Fast Food,Amritsar,Lawrence Road,Quick Bites,Good,3.7,130
+Kobe Sizzlers,1000,"American,Asian,Chinese,Cafe,Continental,Mughlai",Amritsar,Ranjit Avenue,Casual Dining,Good,3.8,142
+Burger Hut,400,"Burger,Beverages",Amritsar,Ranjit Avenue,Quick Bites,Good,3.8,168
+Pritam Dhaba,250,North Indian,Amritsar,INA Colony,Dhaba,Good,3.8,75
+Umang Vaishno Bhojan Bhandar,300,North Indian,Amritsar,Lawrence Road,Quick Bites,Very Good,4.2,114
+Bansal Sweets,150,"Fast Food,Mithai",Amritsar,Lawrence Road,Sweet Shop,Very Good,4.0,168
+Rolls Mania,250,"Rolls,Fast Food",Amritsar,Lawrence Road,Quick Bites,Very Good,4.1,161
+Taste Of Punjab,500,"Chinese,Sandwich,North Indian,Wraps",Amritsar,GT Road,Casual Dining,Good,3.5,46
+Swagtam Dhaba,250,North Indian,Amritsar,Town Hall,Dhaba,Good,3.8,79
+Chawlas 2,600,North Indian,Amritsar,Lawrence Road,Casual Dining,Good,3.9,127
+Hoppers,400,"Cafe,Continental,Italian",Amritsar,Kabir Park,Café,Very Good,4.1,221
+Apna Chulla Dhaba,600,"Burger,North Indian,Chinese,Coffee",Amritsar,GT Road,Quick Bites,Average,2.9,73
+Bakes & Beans,1200,"Italian,Cafe",Amritsar,Ranjit Avenue,Casual Dining,Very Good,4.2,150
+Abhishek Chinese Corner,300,"Chinese,North Indian,Fast Food",Amritsar,Ranjit Avenue,Casual Dining,Good,3.9,235
+Astoria Food Pavilion,1000,"North Indian,Italian,Fast Food",Amritsar,Ranjit Avenue,Casual Dining,Very Good,4.1,122
+The BrewMaster,1400,"North Indian,Chinese,Italian,Continental",Amritsar,Ranjit Avenue,Lounge,Very Good,4.0,89
+Annpurna Kulcha,100,Street Food,Amritsar,Lawrence Road,Quick Bites,Good,3.5,124
+Aamantran,300,North Indian,Amritsar,Basant Nagar,Casual Dining,Good,3.8,121
+The Belgian Waffle Co.,400,Ice Cream,Amritsar,Ranjit Avenue,Quick Bites,Very Good,4.1,113
+Adarsh Meat Shop,150,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Good,3.8,102
+Punjab Dhaba,900,"North Indian,Mughlai,Chinese",Amritsar,Town Hall,Dhaba,Good,3.9,121
+Monu Kulcha Hut,300,Street Food,Amritsar,Ranjit Avenue,Quick Bites,Very Good,4.2,154
+Gian Di Lassi,150,"Beverages,Mithai",Amritsar,Hathi Gate,Beverage Shop,Very Good,4.4,116
+Blues Bakers,600,"Bakery,Desserts,Fast Food",Amritsar,Ranjit Avenue,Bakery,Good,3.6,148
+Monu Kulcha Hut,200,North Indian,Amritsar,Rani Ka Bagh,none,Good,3.9,167
+Rajasthani Chat Bhandar,200,Street Food,Amritsar,Town Hall,Quick Bites,Very Good,4.1,110
+Sandella's Cafe,700,"Italian,Mexican,Continental,North Indian,Chinese",Amritsar,Ranjit Avenue,Casual Dining,Good,3.9,107
+Divine Chocolate Factory,800,"Bakery,Cafe,Desserts",Amritsar,Ranjit Avenue,Café,Good,3.9,132
+Grill Inn,500,"Fast Food,Fried Chicken",Amritsar,GNDU Area,Quick Bites,Good,3.8,126
+New Rajasthan Chat Bhandar,200,"Street Food,Rajasthani",Amritsar,Lawrence Road,Quick Bites,Very Good,4.0,97
+Muscleholics,450,"Healthy Food,Beverages,Fast Food",Amritsar,Ranjit Avenue,Quick Bites,Very Good,4.0,76
+Popular Bakery,300,Bakery,Amritsar,INA Colony,Bakery,Good,3.9,71
+The Boston Pizza,400,"Pizza,Italian,Fast Food",Amritsar,Rani Ka Bagh,Quick Bites,Average,3.0,119
+The Food Village,600,North Indian,Amritsar,GT Road,Quick Bites,Good,3.8,99
+Temptation Restaurant,700,"Mexican,North Indian,Chinese,Continental",Amritsar,White Avenue,Casual Dining,Good,3.7,146
+Italian Pizza,600,"Italian,Pizza",Amritsar,Hathi Gate,Quick Bites,Good,3.8,103
+Amritsar Nutri Kulcha & Channa Batura,100,North Indian,Amritsar,Lawrence Road,Quick Bites,Good,3.7,46
+Cake A Licious,400,Bakery,Amritsar,Ranjit Avenue,Bakery,Average,3.2,36
+Bakers Square,300,Bakery,Amritsar,Basant Nagar,Quick Bites,Good,3.9,114
+Kolkata Spl Kathi Rolls,200,Fast Food,Amritsar,INA Colony,Quick Bites,Good,3.9,70
+Royal Nutrition House,300,"Healthy Food,North Indian,Fast Food",Amritsar,Mall Road,Quick Bites,None,NEW,NEW
+The Country Kulcha House,300,North Indian,Amritsar,Kabir Park,Quick Bites,Good,3.5,77
+Deep Pizzeria,600,Italian,Amritsar,Mohan Nagar,Quick Bites,Good,3.6,92
+AFC,350,"American,Fast Food,Burger,Chinese",Amritsar,GNDU Area,Quick Bites,Good,3.7,72
+Tandoori Tadka,500,"North Indian,Chinese",Amritsar,Ranjit Avenue,none,Very Good,4.0,100
+Flourfairy,300,"Bakery,Desserts,Continental",Amritsar,Basant Nagar,Bakery,Good,3.6,56
+Underdoggs Bar & Kitchen,1400,"American,Italian,Indian",Amritsar,Ranjit Avenue,Bar,Good,3.9,112
+Shake Smith,300,"Beverages,Drinks Only",Amritsar,Ranjit Avenue,Beverage Shop,Very Good,4.0,75
+Chaupati Restaurant,600,"North Indian,South Indian,Fast Food,Continental",Amritsar,Lawrence Road,Quick Bites,Good,3.7,102
+Bread Talk by Subhash Juice Bar,250,"Italian,Fast Food",Amritsar,Basant Nagar,Quick Bites,Good,3.9,77
+New Kundan Dhaba,400,North Indian,Amritsar,Rani Ka Bagh,Dhaba,Average,2.6,75
+Sabri Bhathura Shop,180,North Indian,Amritsar,INA Colony,Quick Bites,Good,3.9,92
+London Creek Food Service,100,North Indian,Amritsar,Kabir Park,Quick Bites,Good,3.8,77
+Amrit Dhaba,500,North Indian,Amritsar,GT Road,Casual Dining,Good,3.9,91
+The Little Chef,800,"North Indian,Fast Food",Amritsar,GT Road,Casual Dining,Good,3.8,91
+Narang Bakery,300,"Desserts,Bakery",Amritsar,GT Road,Bakery,Good,3.8,59
+M's Oven Fresh,400,Bakery,Amritsar,Shastri Nagar,Casual Dining,Good,3.5,58
+Burger Brunch,300,Burger,Amritsar,Rani Ka Bagh,Quick Bites,Good,3.5,72
+Roll Express,100,Rolls,Amritsar,GT Road,Quick Bites,None,NEW,NEW
+Ziva All Day Dining - Holiday Inn,2000,"North Indian,Asian",Amritsar,Holiday Inn-- Ranjit Avenue,Casual Dining,Good,3.7,70
+Vaishno Bhojan Bhandar,400,Fast Food,Amritsar,Town Hall,Quick Bites,Good,3.8,20
+Aunty Kitchen,150,Street Food,Amritsar,Kabir Park,Quick Bites,Good,3.6,55
+Raja Chick Chicken,500,North Indian,Amritsar,Lawrence Road,Quick Bites,Good,3.6,65
+Bansal Bakers,500,"Desserts,Bakery",Amritsar,Lawrence Road,Food Court,Average,2.9,48
+Flavour of Mutton & Chicken,400,North Indian,Amritsar,Ranjit Avenue,Quick Bites,Average,3.4,56

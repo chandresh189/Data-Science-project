@@ -1,0 +1,894 @@
+NAME,PRICE,CUSINE_CATEGORY,CITY,REGION,CUSINE TYPE,RATING_TYPE,RATING,VOTES
+The Salt Cafe Kitchen & Bar,1000,"North Indian,Continental,Italian",Agra,Tajganj,Casual Dining,Excellent,4.8,273
+Bhagat Halwai,300,"Desserts,Bakery,Fast Food,South Indian",Agra,Civil Lines,Quick Bites,Very Good,4.3,554
+Bikanervala,700,"North Indian,South Indian,Mithai,Street Food,Desserts",Agra,Khandari,Quick Bites,Very Good,4.4,645
+Mama Chicken Mama Franky House,600,"North Indian,Mughlai,Rolls,Chinese,Fast Food,Street Food",Agra,Agra Cantt,Quick Bites,Very Good,4.3,894
+Honeydew Restaurant,500,"North Indian,Fast Food,Chinese,South Indian",Agra,Dayal Bagh,Quick Bites,Very Good,4.1,489
+Cafe Turquoise Cottage,1600,"North Indian,Chinese,Continental,Italian,Pizza",Agra,Tajganj,Casual Dining,Excellent,4.7,294
+Hichkee,1200,"Continental,North Indian,Chinese",Agra,Civil Lines,Casual Dining,Very Good,4.4,581
+Domino's Pizza,700,"Pizza,Fast Food",Agra,Civil Lines,Quick Bites,Good,3.9,583
+Urban Deck,1000,"Mexican,Italian,North Indian",Agra,Khandari,Casual Dining,Very Good,4.3,608
+Pinch Of Spice,1600,"North Indian,Chinese,Mughlai",Agra,Civil Lines,Casual Dining,Excellent,4.5,863
+Pizza Hut,700,"Italian,Pizza",Agra,Tajganj,Casual Dining,Very Good,4.0,547
+Aahar,700,"North Indian,South Indian,Chinese,Bakery,Momos",Agra,Civil Lines,Casual Dining,Very Good,4.0,368
+Tea'se Me - Rooftop Tea Boutique,1000,"Chinese,Italian,Continental,North Indian",Agra,Tajganj,Casual Dining,Excellent,4.7,676
+Shree Balaji Family Restaurant,400,"North Indian,South Indian,Fast Food",Agra,Sikandra,Quick Bites,Good,3.8,254
+GMB - Gopika Sweets & Restaurant,400,"Desserts,North Indian,South Indian,Chinese,Fast Food,Street Food",Agra,Tajganj,Casual Dining,Very Good,4.1,279
+Kings Pizza And Burger,200,Fast Food,Agra,Kamla Nagar,Quick Bites,Good,3.5,40
+RS Sweets & Restaurant,650,"North Indian,South Indian",Agra,Dayal Bagh,Casual Dining,Good,3.7,79
+Cake D'or,1600,"Bakery,Desserts",Agra,Civil Lines,Bakery,Very Good,4.1,53
+Mirch  Lagi,100,North Indian,Agra,Civil Lines,Quick Bites,Good,3.7,50
+Lakshmi Vilas,400,South Indian,Agra,Agra Cantt,Casual Dining,Good,3.7,65
+Mughal Spice,1150,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Very Good,4.0,49
+Cake House,300,Bakery,Agra,Kamla Nagar,Quick Bites,Good,3.7,26
+Chai Garam,200,"Tea,Street Food",Agra,Civil Lines,Quick Bites,Average,3.4,54
+The Global Savour,600,North Indian,Agra,Tajganj,Casual Dining,Good,3.8,51
+Preetam,100,Bakery,Agra,Dayal Bagh,Quick Bites,Good,3.6,56
+Golden China Restaurant,800,Chinese,Agra,Tajganj,Casual Dining,Good,3.5,45
+Delhi Darbar Restaurant,800,"North Indian,Chinese",Agra,Rakabganj,Casual Dining,Poor,2.4,45
+Sadar Wala,100,"Fast Food,Rolls",Agra,Shahganj,none,Good,3.7,120
+Jeetu Dhaba,300,North Indian,Agra,Kamla Nagar,Dhaba,Average,2.8,114
+Pradeep Store,150,Fast Food,Agra,Kamla Nagar,Quick Bites,Good,3.5,68
+The Star Diner,300,"North Indian,South Indian,Chinese",Agra,Agra Cantt,Casual Dining,Good,3.6,54
+Restaurant Nukkar,200,North Indian,Agra,Civil Lines,Casual Dining,Good,3.7,59
+D's Family Restaurant,600,"North Indian,Chinese",Agra,Sikandra,Casual Dining,Good,3.8,51
+Desire Bakers,100,Bakery,Agra,Kamla Nagar,Bakery,Good,3.8,48
+Shri Thakur Ji Misthan Bhandar,150,Mithai,Agra,Kamla Nagar,Sweet Shop,None,NEW,NEW
+New Agra Fast Food & Restaurant,250,North Indian,Agra,Agra Cantt,Quick Bites,Good,3.7,42
+Sips And Bites,250,"Fast Food,Beverages,Italian",Agra,Shahganj,Quick Bites,Good,3.8,51
+Chota Mama Chicken & Mama Veg,700,North Indian,Agra,Sikandra,Quick Bites,Average,3.0,111
+Brijwasi  Sweets & Restaurant,300,"Mithai,North Indian",Agra,Civil Lines,Quick Bites,Average,3.4,37
+Agarwal Sweets & Dairy,300,Desserts,Agra,Shahganj,Dessert Parlor,Good,3.8,15
+Taj Mahal Family Restaurant,1000,"North Indian,Mughlai",Agra,Tajganj,Casual Dining,Average,3.4,42
+The Street Cafe And Bistro,300,"Desserts,Fast Food",Agra,Kamla Nagar,Quick Bites,None,NEW,NEW
+Sai Khandelaa Restaurant,1000,"North Indian,Chinese,Continental,Mughlai",Agra,Agra Cantt,Casual Dining,Good,3.9,46
+Pind Balluchi,1000,"Mughlai,North Indian",Agra,Sikandra,Casual Dining,Good,3.6,52
+Biryani King,300,Biryani,Agra,Kamla Nagar,Quick Bites,Good,3.6,47
+Taj Terrace - Hotel Taj Resorts,1000,"North Indian,Continental,Chinese",Agra,Tajganj,Casual Dining,Good,3.9,24
+Burger Point,100,"Fast Food,Beverages",Agra,Sikandra,Quick Bites,None,NEW,NEW
+Millenium Motors and Cafe,220,Cafe,Agra,Dayal Bagh,Café,Good,3.6,24
+Amritsari Tandoori Kulcha Wa Choor Choor Naan,250,North Indian,Agra,Civil Lines,Quick Bites,Good,3.7,29
+Tongue Twister,150,Chinese,Agra,Kamla Nagar,none,Good,3.7,29
+Ambey Bakers,300,Bakery,Agra,Civil Lines,Bakery,Good,3.8,40
+Udupi Shri Krishna Vilas,500,"South Indian,North Indian",Agra,Tajganj,Casual Dining,Good,3.7,26
+Bake'O'Fy,300,"Fast Food,Desserts",Agra,Dayal Bagh,Quick Bites,Good,3.7,31
+Chickenwala.com,300,North Indian,Agra,Sikandra,Quick Bites,Good,3.5,57
+Red Caffino,200,"Pizza,Burger,Beverages,Desserts",Agra,Tajganj,Quick Bites,Good,3.5,29
+Jackson Egg Corner,100,Fast Food,Agra,Civil Lines,Quick Bites,Average,3.1,32
+Sagar Ratna,600,"South Indian,North Indian,Chinese",Agra,Khandari,Casual Dining,Good,3.5,86
+Ajanta Sweets,200,Mithai,Agra,Kamla Nagar,Sweet Shop,Good,3.7,38
+The Rasoi,200,Fast Food,Agra,Sikandra,Quick Bites,None,NEW,NEW
+Guru Kripa Bhojnalaya,300,North Indian,Agra,Kamla Nagar,Quick Bites,Very Good,4.0,79
+Manohar Lal Daulat Ram Garg Gajak Wale,150,Mithai,Agra,Sikandra,Sweet Shop,Good,3.5,57
+The Delicious Restaurant,500,Fast Food,Agra,Shahganj,Quick Bites,Average,3.2,34
+Jab We Meet,500,"North Indian,Mughlai",Agra,Civil Lines,Quick Bites,Good,3.6,44
+Chai Ka Adda,100,Tea,Agra,Sikandra,Beverage Shop,Good,3.7,29
+Kushwah Lassi Corner,100,Beverages,Agra,Shahganj,Beverage Shop,Average,3.4,15
+Agra Bana,800,"North Indian,Chinese,Continental,South Indian",Agra,Kuberpur,Casual Dining,Good,3.5,44
+24*7 Hunger Solutions,200,"North Indian,Chinese,Continental",Agra,Agra Cantt,none,Good,3.5,38
+Neelam Restaurant,400,North Indian,Agra,Dayal Bagh,Casual Dining,Average,3.4,36
+Ripples - Mansingh Palace,1500,"North Indian,Continental",Agra,Mansingh Palace-- Tajganj,Fine Dining,Not rated,-,-
+Sheesh Mahal - Mansingh Palace,1800,"North Indian,Chinese,Continental",Agra,Mansingh Palace-- Tajganj,Fine Dining,Good,3.6,19
+Anil Gajak Palace,300,Mithai,Agra,Civil Lines,Sweet Shop,Good,3.8,47
+Kesar Restaurant,1200,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Average,3.3,24
+FNP Cakes ‘n’ More,200,"Bakery,Desserts",Agra,Rakabganj,Bakery,Good,3.5,13
+Healthy & Tasty Food,300,Fast Food,Agra,Shahganj,Quick Bites,Good,3.5,14
+Kings Pizza And Burger,200,"Pizza,Burger",Agra,Rakabganj,Quick Bites,Good,3.5,15
+Bob Marley Restaurant,600,North Indian,Agra,Tajganj,Casual Dining,Average,3.2,24
+Crazy Burger,100,Burger,Agra,Sikandra,Quick Bites,Good,3.6,18
+Shri Dauji Sweets,200,"Mithai,Street Food",Agra,Shahganj,Sweet Shop,Average,3.0,33
+Om Restaurant,250,North Indian,Agra,Civil Lines,Quick Bites,Good,3.7,97
+Bhaagya Shree Studio & Bakers,250,Bakery,Agra,Kamla Nagar,Bakery,Good,3.6,19
+Brijwasi Bhojnalaya,200,North Indian,Agra,Rakabganj,Bhojanalya,Average,3.4,23
+Food & Fight,200,Fast Food,Agra,Sikandra,Quick Bites,Good,3.5,20
+Jenith Fast Food,300,"North Indian,South Indian,Continental",Agra,Mantola,Quick Bites,Average,3.4,15
+Chef Signature,900,"Fast Food,Continental,Indian",Agra,Tajganj,Quick Bites,Average,3.0,20
+Food Treasure,200,"Bakery,Fast Food",Agra,Sikandra,Bakery,Good,3.5,15
+Iccha Veg Biryani,100,Biryani,Agra,Sikandra,Kiosk,Good,3.5,22
+The Park Restaurant,1000,"North Indian,Chinese,Continental,Mughlai",Agra,Agra Cantt,Casual Dining,Good,3.6,77
+Agarsen Sweet,600,"Mithai,Fast Food",Agra,Sikandra,Sweet Shop,Average,3.4,14
+Chhabra Bakers and Confectioners,200,"Bakery,Fast Food",Agra,Shahganj,Confectionery,Average,3.2,21
+Laxman Momo's Corner,100,Momos,Agra,Tajganj,Quick Bites,Good,3.5,23
+Pracheen Petha,200,Desserts,Agra,Civil Lines,Sweet Shop,None,NEW,NEW
+Bansal Sweets,100,"Mithai,Street Food",Agra,Shahganj,Sweet Shop,Average,2.7,30
+AFC Kitchen,300,Fast Food,Agra,Tajganj,Quick Bites,Average,3.3,23
+The Crispy Treat,150,Fast Food,Agra,Sikandra,Quick Bites,Average,3.3,8
+Pranjal Food Court,300,Fast Food,Agra,Sikandra,Quick Bites,Average,3.0,21
+Goli Vada Paav No.1,100,Street Food,Agra,Shahganj,Quick Bites,Average,3.2,20
+Giani,300,"Beverages,Desserts,Ice Cream",Agra,Civil Lines,Dessert Parlor,Average,2.5,18
+Laxman Momo's Corner,100,Street Food,Agra,Agra Cantt,Quick Bites,Good,3.8,20
+Shagun Cafe,100,"Bakery,Cafe",Agra,Khandari,Quick Bites,Average,3.4,12
+Cake & More,500,Bakery,Agra,Kamla Nagar,Quick Bites,Average,3.0,16
+Panchhi Petha Store,400,Mithai,Agra,Mantola,Sweet Shop,Average,3.4,12
+Mor Mukut Misthan Bhandar,400,"Mithai,Desserts,Street Food",Agra,Kamla Nagar,Sweet Shop,Average,3.3,14
+Garg Dairy,200,"Bakery,Fast Food",Agra,Kamla Nagar,Bakery,Average,3.3,12
+Fauzi Dhaba,650,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Average,3.0,17
+Hungernomia,300,"Wraps,Sandwich,Burger,Fast Food",Agra,Civil Lines,Quick Bites,Average,3.3,16
+Jugalbandi,250,"North Indian,Chinese",Agra,Sikandra,Quick Bites,Average,3.4,22
+Maya Restaurant,900,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Average,2.7,17
+Little N Chef,200,"Chinese,Fast Food",Agra,Shahganj,Quick Bites,Good,3.5,33
+Little Maggi Point,150,Fast Food,Agra,Kamla Nagar,Quick Bites,Average,3.2,11
+Cafe Coffee Day,500,"Cafe,Fast Food",Agra,Civil Lines,Café,Good,3.9,96
+Swad Restaurant,500,North Indian,Agra,Agra Cantt,Casual Dining,Not rated,-,-
+Yes Restaurant,300,"North Indian,South Indian",Agra,Tajganj,none,Average,3.4,13
+Hunger Target,200,Chinese,Agra,Agra Cantt,Quick Bites,None,NEW,NEW
+Hiralal Misthan Bhandar,250,Mithai,Agra,Civil Lines,Sweet Shop,Average,3.2,4
+Biryaniwala,200,Biryani,Agra,Mantola,none,Average,3.4,15
+Chinu Bakers,150,Fast Food,Agra,Kamla Nagar,none,Good,3.5,10
+Thor The Party World,500,"North Indian,Chinese,Italian",Agra,Tajganj,Lounge,Very Good,4.0,44
+Jai Jhulelal Patties Corner,100,Fast Food,Agra,Shahganj,Quick Bites,Good,3.6,24
+Shubham Restaurant,500,"North Indian,Chinese,South Indian,Fast Food",Agra,Arjun Nagar,Casual Dining,Average,2.8,29
+Pizza Pasta Corner,250,Pizza,Agra,Shahganj,Quick Bites,Average,3.3,9
+Brownee,100,Fast Food,Agra,Kamla Nagar,Quick Bites,Average,3.3,25
+Vaishno Bhalla House,200,Fast Food,Agra,Rakabganj,Quick Bites,Average,3.4,20
+Aastha Family Dhaba,350,North Indian,Agra,Tajganj,Quick Bites,Average,3.2,7
+Me & My Choice,500,Fast Food,Agra,Shahganj,Quick Bites,Average,3.4,11
+AJ's Cafe & Bakery,300,Cafe,Agra,Agra Cantt,Café,Average,2.8,21
+Moti Mahal Restaurant,800,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Average,3.0,15
+Djlecious By Divya,400,Bakery,Agra,Mantola,none,Not rated,-,-
+Bazaar Cafe,400,Cafe,Agra,Sikandra,Café,Average,3.4,7
+Royals Cafe Corner Restaurant,700,"Cafe,North Indian,Chinese,Continental",Agra,Tajganj,Café,Average,3.2,22
+Choki Dhani - Rajasthani Bhojnalya,200,"Rajasthani,North Indian",Agra,Sikandra,Quick Bites,Average,3.1,8
+Ravi Fast Food,200,Fast Food,Agra,Civil Lines,Quick Bites,Good,3.6,21
+Food Factory,100,Fast Food,Agra,Sikandra,Quick Bites,None,NEW,NEW
+Biryani Point,150,Biryani,Agra,Shahganj,Quick Bites,None,NEW,NEW
+Freshop,200,Fast Food,Agra,Civil Lines,Quick Bites,Average,3.4,12
+Ceezak Food Corner,350,"Chinese,Fast Food",Agra,Arjun Nagar,Quick Bites,Average,3.3,17
+China Town,200,Fast Food,Agra,Shahganj,Quick Bites,Average,3.3,8
+New Chetna Store Patties Hub,100,Fast Food,Agra,Civil Lines,Quick Bites,Average,3.4,16
+Burgero,400,"Burger,Fast Food",Agra,Shahganj,Quick Bites,Average,2.8,18
+Sri Balaji Restaurant,500,"South Indian,North Indian,Beverages",Agra,Tajganj,Casual Dining,Average,3.4,14
+Freaky Burger,200,Burger,Agra,Rakabganj,Quick Bites,Average,3.1,9
+Sanjay Food Corner,100,North Indian,Agra,Sikandra,Quick Bites,Average,3.2,6
+Punjabi Tadka,100,"Fast Food,North Indian",Agra,Sikandra,Quick Bites,Average,3.3,8
+Thug Truck,150,"Fast Food,Chinese",Agra,Khandari,Food Truck,Average,3.4,13
+Shri Radhay Chaat Bhandar,150,Fast Food,Agra,Kamla Nagar,none,Average,3.4,11
+the bollywood fries,200,Fast Food,Agra,Kamla Nagar,Quick Bites,Average,3.2,5
+Wow Vada Pav,200,"Street Food,Wraps,Burger",Agra,Sikandra,Quick Bites,Average,3.3,4
+Sprinkle Bakery And Fast Food,200,"Bakery,Fast Food",Agra,Sikandra,Bakery,None,NEW,NEW
+Speise Restaurant,500,"Biryani,Chinese,Mughlai,Indian",Agra,Tajganj,Casual Dining,Average,3.3,9
+Sagra,200,Fast Food,Agra,Agra Cantt,Quick Bites,Average,3.4,13
+Dr Cake And Confectionery,150,Fast Food,Agra,Kamla Nagar,Quick Bites,Average,3.3,9
+Isha Food Plaza,150,"Fast Food,Bakery",Agra,Dayal Bagh,Quick Bites,Average,3.3,9
+Taste And Food,150,North Indian,Agra,Sikandra,Quick Bites,Not rated,-,-
+Food Paradise,200,"Bakery,Desserts",Agra,Sikandra,Bakery,Average,3.1,4
+Club 2100,300,Fast Food,Agra,Kamla Nagar,Quick Bites,Average,3.3,12
+FCB Fast Food Corner,300,Fast Food,Agra,Tajganj,Quick Bites,Average,3.2,9
+Habova's BL Food Plaza,350,"Chinese,Indian,North Indian",Agra,Sikandra,Quick Bites,Average,3.2,14
+Rola Wala,400,"Rolls,Chinese,Momos",Agra,Khandari,Quick Bites,Good,3.6,96
+Amartsari Naan Thali,200,North Indian,Agra,Civil Lines,Quick Bites,Average,3.0,6
+Chinu Restaurant,400,North Indian,Agra,Kamla Nagar,Casual Dining,Average,3.1,6
+Riya dairy & fast food,100,Fast Food,Agra,Dayal Bagh,Quick Bites,Average,3.3,12
+Tasty Bite Restaurant,800,"North Indian,Chinese",Agra,Tajganj,Casual Dining,Average,2.9,5
+Indo American Foods,150,"Fast Food,Italian",Agra,Dayal Bagh,Quick Bites,Average,3.3,13
+JMB Bakery,350,"Bakery,Fast Food",Agra,Sikandra,Quick Bites,Average,3.1,13
+Pracheen Petha,0,Desserts,Agra,Civil Lines,Sweet Shop,None,NEW,NEW
+Anokhe Paratha,150,North Indian,Agra,Tajganj,Quick Bites,Average,3.3,10
+Yadav Dhaba Purana,300,North Indian,Agra,Civil Lines,Dhaba,Good,3.9,225
+Mocha,1500,"Cafe,Italian,Chinese,Continental,North Indian",Agra,Tajganj,Café,Very Good,4.3,441
+Jahanpanah,850,"North Indian,Mughlai",Agra,Agra Cantt,Casual Dining,Good,3.9,270
+Subway,500,"Healthy Food,Sandwich,Salad",Agra,Khandari,Quick Bites,Very Good,4.1,253
+Papa Ji Da Dhaba,250,North Indian,Agra,Civil Lines,Dhaba,Very Good,4.0,341
+Pind Balluchi,1000,"North Indian,Mughlai",Agra,Tajganj,Casual Dining,Very Good,4.2,494
+Chapter 1 Cafe,1000,"Cafe,Italian,Mexican,North Indian,Continental",Agra,Tajganj,Café,Very Good,4.2,263
+Sugar N Thyme,1000,"Cafe,Chinese,Thai,Continental,Italian,Bakery,Desserts",Agra,Tajganj,Café,Very Good,4.3,261
+Amritsari Kulcha Junction,600,North Indian,Agra,Civil Lines,Quick Bites,Very Good,4.1,321
+G Thal,900,"Rajasthani,Gujarati,Mughlai",Agra,Khandari,Casual Dining,Good,3.7,240
+D'Delicia,1600,"North Indian,Chinese,Mexican,Italian",Agra,Tajganj,Fine Dining,Excellent,4.6,224
+Jain Restaurant,500,North Indian,Agra,Shahganj,Quick Bites,Very Good,4.2,262
+Bhadawar Hotel,200,North Indian,Agra,Mantola,Quick Bites,Very Good,4.0,138
+Thaaliwala,700,"North Indian,Fast Food",Agra,Tajganj,Casual Dining,Very Good,4.0,316
+The Forest,800,Indian,Agra,Sikandra,Casual Dining,Good,3.7,250
+Burger Panda,250,"Burger,Fast Food",Agra,Shahganj,Quick Bites,Good,3.9,82
+Apollo Foods,400,Bakery,Agra,Civil Lines,Quick Bites,Average,3.1,4
+Dear Shoppy,200,Fast Food,Agra,Khandari,Quick Bites,Average,3.3,8
+Shri Mahaveer Bakery And Confectionery,150,"Desserts,Bakery",Agra,Sikandra,Bakery,Average,3.1,4
+Mr. Food,200,Fast Food,Agra,Shahganj,Quick Bites,None,NEW,NEW
+Chai Dose,100,Tea,Agra,Dayal Bagh,none,None,NEW,NEW
+Sukoon Restaurant,850,"North Indian,Desserts,Chinese,Biryani",Agra,Tajganj,Casual Dining,Not rated,-,-
+Agarwal Sweet House,300,Mithai,Agra,Khandari,Sweet Shop,Not rated,-,-
+Foodie Bites,250,"North Indian,Fast Food",Agra,Sikandra,none,Average,3.1,6
+S.R Restaurant & Fast food,500,"North Indian,Fast Food",Agra,Tajganj,Casual Dining,Average,2.9,7
+Gravy Spicy Tasty,400,North Indian,Agra,Sikandra,none,Average,3.2,11
+Lick N Bite Bakers,300,Bakery,Agra,Sikandra,Bakery,Average,2.9,6
+K.K Juice House,150,Juices,Agra,Lohamandi,Beverage Shop,None,NEW,NEW
+Munna Lal Sweets,150,Mithai,Agra,Mantola,Sweet Shop,None,NEW,NEW
+Grilled And Chilled Cafe,100,Fast Food,Agra,Sikandra,none,Not rated,-,-
+Prince Bakers,250,"Bakery,Fast Food",Agra,Civil Lines,Bakery,Average,3.2,10
+New Agarwal Sweet,250,"Mithai,Street Food",Agra,Shahganj,Sweet Shop,None,NEW,NEW
+Cakeshh,800,Bakery,Agra,Dayal Bagh,Bakery,Average,3.2,6
+K.D Bakers,200,Bakery,Agra,Sikandra,Dessert Parlor,Average,3.0,4
+Indian Spice,450,"North Indian,South Indian,Chinese",Agra,Sikandra,Casual Dining,Average,2.8,9
+Shivam Restaurant,250,"North Indian,Chinese,Fast Food",Agra,Tajganj,Quick Bites,Average,3.1,4
+Vintage House,900,"North Indian,Continental",Agra,Tajganj,Casual Dining,Very Good,4.1,27
+Rajmahal Restaurant,1000,"North Indian,Chinese",Agra,Tajganj,Casual Dining,Average,2.8,7
+Naturelo,400,"Ice Cream,Desserts,Beverages",Agra,Civil Lines,Dessert Parlor,Very Good,4.0,50
+Maruti Restaurant,700,"North Indian,South Indian,Chinese",Agra,Khandari,Casual Dining,Average,3.2,7
+Maharaja Agrasen Confectionery,200,Bakery,Agra,Sikandra,Bakery,Not rated,-,-
+Shubhansh Eat And Treat Point,200,Fast Food,Agra,Sikandra,Quick Bites,Not rated,-,-
+Ram Shyam Pan Bhandar,100,Paan,Agra,Kamla Nagar,Paan Shop,None,NEW,NEW
+Unique Foodz & Bakez,300,Fast Food,Agra,Kamla Nagar,Quick Bites,Average,3.2,5
+Shri Jagdamba Bakers,200,"Fast Food,Bakery",Agra,Kamla Nagar,Bakery,Average,3.2,7
+Agarsen Sweets,400,Mithai,Agra,Civil Lines,Sweet Shop,Average,3.2,5
+Indo Italian Street,200,Street Food,Agra,Kamla Nagar,Quick Bites,Average,3.3,8
+Jain Food Court,300,North Indian,Agra,Khandari,Quick Bites,Average,3.1,4
+Cake Room,100,Bakery,Agra,Tajganj,Bakery,None,NEW,NEW
+Imran Hot Roll Centre,100,Rolls,Agra,Shahganj,Kiosk,Average,3.2,8
+Veg Express,300,North Indian,Agra,Civil Lines,none,Average,3.1,5
+Hotel  Neelkanth,300,North Indian,Agra,Civil Lines,Quick Bites,Not rated,-,-
+Govind Ji Sweets,200,"Mithai,Street Food",Agra,Sikandra,Sweet Shop,None,NEW,NEW
+Top'n'treat,150,Fast Food,Agra,Khandari,Quick Bites,Average,3.1,4
+Brothers Bistro,500,Cafe,Agra,Kamla Nagar,Café,Good,3.5,55
+The Golden Grilled,400,"North Indian,Fast Food",Agra,Khandari,Casual Dining,Average,3.2,5
+Novelty Restaurant,1000,"North Indian,Mughlai",Agra,Rakabganj,Casual Dining,Average,2.8,5
+Gupta Bakery & Sweet Shop,250,Bakery,Agra,Tajganj,Bakery,Not rated,-,-
+Prasadam,100,North Indian,Agra,Khandari,Quick Bites,Average,3.2,6
+Yash Cafe,500,"North Indian,Fast Food",Agra,Tajganj,Casual Dining,Not rated,-,-
+Rathi Ranchhod,200,Mithai,Agra,Sikandra,Sweet Shop,Not rated,-,-
+Anant Krishna Foods,150,Bakery,Agra,Dayal Bagh,Bakery,Not rated,-,-
+Punjabi Van,250,"North Indian,Fast Food",Agra,Kamla Nagar,Quick Bites,Average,2.9,4
+Maggi Magic,200,Fast Food,Agra,Khandari,Quick Bites,None,NEW,NEW
+Gaurav Sweets,250,Mithai,Agra,Sikandra,Sweet Shop,Average,3.1,5
+Little Spice Restaurant,250,"North Indian,South Indian,Continental",Agra,Tajganj,Quick Bites,Not rated,-,-
+Ichchha Veg Briyani & Fast Food,200,"Biryani,Fast Food",Agra,Sikandra,Quick Bites,Average,3.2,4
+BUDDIE'S CAFE,0,Cafe,Agra,Kamla Nagar,Café,None,NEW,NEW
+G Baba Francky Corner,200,Fast Food,Agra,Sikandra,Quick Bites,Average,3.1,6
+Deshraj Ka Dhaba,150,North Indian,Agra,Civil Lines,Quick Bites,Not rated,-,-
+Y NOT Cafe and restaurant,350,Cafe,Agra,Sikandra,Café,Not rated,-,-
+Ahan Restaurant - Hotel Trisha Bhoomi Residency,850,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Not rated,-,-
+Bhimsain Baij Nath - Dalmoth Pehta Wala,200,"Mithai,Desserts",Agra,Civil Lines,Dessert Parlor,Not rated,-,-
+Jyoti Family Restaurant,300,North Indian,Agra,Khandari,Quick Bites,Not rated,-,-
+Ganga Khandvi Dhokla House,100,Fast Food,Agra,Kamla Nagar,Quick Bites,Not rated,-,-
+Abdul Sattar Nashte Wale,150,Fast Food,Agra,Mantola,Quick Bites,None,NEW,NEW
+New Riao Restaurant,1000,"North Indian,Chinese,Mughlai,Continental",Agra,Agra Cantt,Casual Dining,Average,2.8,4
+Desi Masala,200,North Indian,Agra,Civil Lines,Quick Bites,Average,3.2,5
+Girraj Restaurant,200,North Indian,Agra,Civil Lines,Quick Bites,Not rated,-,-
+Annapurna,500,"Chinese,Fast Food,North Indian,South Indian",Agra,Tajganj,Quick Bites,Not rated,-,-
+Anjali Sweet,200,"Mithai,Fast Food",Agra,Sikandra,Sweet Shop,Not rated,-,-
+Bedweiser Cafe,350,"North Indian,Fast Food",Agra,Tajganj,Quick Bites,Average,3.2,5
+Gopal Juice Corner,100,Juices,Agra,Sikandra,Beverage Shop,Not rated,-,-
+Relax He Relax Restaurant,800,"North Indian,Chinese",Agra,Tajganj,Quick Bites,Not rated,-,-
+Thali Bhojnalaya,300,"North Indian,South Indian,Chinese",Agra,Tajganj,Quick Bites,Not rated,-,-
+Swad Thali,200,North Indian,Agra,Mantola,Quick Bites,Not rated,-,-
+Vidhi Foods,200,North Indian,Agra,Sikandra,Quick Bites,None,NEW,NEW
+Pandit Ji Sweets,200,Mithai,Agra,Shahganj,Sweet Shop,None,NEW,NEW
+Jai Pepsi Cafe,100,Street Food,Agra,Dayal Bagh,Quick Bites,Not rated,-,-
+Gupta Ji Restaurant,100,North Indian,Agra,Tajganj,Quick Bites,None,NEW,NEW
+Goyal Sweet,250,Mithai,Agra,Kamla Nagar,Sweet Shop,Not rated,-,-
+Jai Pratha King,100,North Indian,Agra,Dayal Bagh,Quick Bites,Not rated,-,-
+New Taj Darbar,900,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Not rated,-,-
+Brijwasi Chat Bandar,100,Street Food,Agra,Sikandra,Quick Bites,Not rated,-,-
+Khan Baba Fruits And Juice Corner,100,Juices,Agra,Sikandra,Beverage Shop,Not rated,-,-
+Eats And Treats,300,Fast Food,Agra,Civil Lines,none,None,NEW,NEW
+JMD Juice and Shakes,250,"Beverages,Fast Food",Agra,Agra Cantt,Beverage Shop,Not rated,-,-
+The Idea Inn,800,"North Indian,Continental,Chinese",Agra,Tajganj,Casual Dining,Not rated,-,-
+Karan Restaurant,1000,"Chinese,North Indian,Fast Food",Agra,Hotel Ganga Ratan-- Tajganj,Casual Dining,Average,3.1,4
+Eggstroke,500,"North Indian,Rolls,Sandwich",Agra,Civil Lines,Quick Bites,Not rated,-,-
+Jain Sweet,200,"Mithai,Desserts",Agra,Sikandra,Sweet Shop,Not rated,-,-
+Pratap Restaurant,500,Cuisine Varies,Agra,Tajganj,Quick Bites,None,NEW,NEW
+Shree Dwarikadesh Dosa Corner,200,South Indian,Agra,Sikandra,Quick Bites,Not rated,-,-
+Swad Sweets And Food Paradise,400,"North Indian,South Indian,Chinese",Agra,Shahganj,Quick Bites,Not rated,-,-
+Agra Prasadam,250,North Indian,Agra,Civil Lines,Quick Bites,Not rated,-,-
+Bedariya Ram Gajak Wale,700,Desserts,Agra,Mantola,Quick Bites,Not rated,-,-
+Food By Kilo,250,North Indian,Agra,Civil Lines,Quick Bites,None,NEW,NEW
+Rajput Food Corner,150,North Indian,Agra,Civil Lines,Quick Bites,Not rated,-,-
+Zaika's - The Taste,300,North Indian,Agra,Civil Lines,Quick Bites,Not rated,-,-
+Green Park Restaurant,600,"North Indian,Mughlai",Agra,Tajganj,Casual Dining,Not rated,-,-
+Star Chilli,1250,North Indian,Agra,Tajganj,Casual Dining,Not rated,-,-
+The Glass Onion Cafe And Family Corner,250,North Indian,Agra,Dayal Bagh,Quick Bites,Not rated,-,-
+Bansal Sweets,200,Mithai,Agra,Rakabganj,Sweet Shop,Not rated,-,-
+Shree Krishna Murari Misthan Bhandar,200,"Desserts,Street Food,Fast Food",Agra,Dayal Bagh,Sweet Shop,Not rated,-,-
+Tree House Cafe,500,"Italian,Mexican,Chinese,North Indian",Agra,Civil Lines,Food Court,Not rated,-,-
+Mithaas Sweets & Snacks,200,Mithai,Agra,Tajganj,Sweet Shop,Not rated,-,-
+Aapki Rasoi,200,North Indian,Agra,Dayal Bagh,Quick Bites,Not rated,-,-
+Bhadawar Sweets,250,Mithai,Agra,Sikandra,Sweet Shop,Not rated,-,-
+Prema Palace Hotel & Restaurant,1000,North Indian,Agra,Tajganj,Casual Dining,Not rated,-,-
+Cafe Aim Korean Restaurant,350,Korean,Agra,Tajganj,Casual Dining,Not rated,-,-
+Shri Parasnath Misthan Bhandar,300,"Mithai,Street Food",Agra,Mantola,Sweet Shop,Not rated,-,-
+Shri Raj Bhojnalya,200,North Indian,Agra,Civil Lines,Bhojanalya,Not rated,-,-
+Anna Purna Canteen,250,North Indian,Agra,Civil Lines,Quick Bites,Not rated,-,-
+Pracheen Petha,100,"Desserts,Mithai",Agra,Mantola,Sweet Shop,Not rated,-,-
+Radha Swami Chinese Fast Food,100,"North Indian,Chinese,Street Food",Agra,Tajganj,Quick Bites,Not rated,-,-
+Lucky's Cafe,400,"Fast Food,Cafe,North Indian",Agra,Tajganj,Café,None,NEW,NEW
+Amrut Restaurant,300,North Indian,Agra,Dayal Bagh,Quick Bites,Not rated,-,-
+Gun - Gun Confectionery,100,Fast Food,Agra,Shahganj,none,None,NEW,NEW
+Brijwasi Sweet House,400,"Mithai,Desserts",Agra,Dayal Bagh,Sweet Shop,None,NEW,NEW
+Gupta Sweets,400,Mithai,Agra,Kamla Nagar,Sweet Shop,Not rated,-,-
+Shiva Bhojhnalaya,200,North Indian,Agra,Sikandra,Quick Bites,Not rated,-,-
+Gori Shankar Fruit &  Punchshake Corner,100,Beverages,Agra,Sikandra,Beverage Shop,Not rated,-,-
+Krishna Namkeen and Sweet,200,Mithai,Agra,Shahganj,Sweet Shop,Not rated,-,-
+Hiralal Food Corner,250,Fast Food,Agra,Civil Lines,Quick Bites,Not rated,-,-
+VR Food Zone,250,Indian,Agra,Dayal Bagh,Quick Bites,Not rated,-,-
+laxman Fast Food,200,Fast Food,Agra,Civil Lines,Quick Bites,None,NEW,NEW
+Chocolate Cafe,0,Bakery,Agra,Kamla Nagar,none,Not rated,-,-
+Jodha Restaurant,800,North Indian,Agra,Sikandra,Casual Dining,Not rated,-,-
+Golden Grilled,400,Mughlai,Agra,Khandari,Quick Bites,Not rated,-,-
+Apna Bhojnalaya,150,North Indian,Agra,Shahganj,Quick Bites,None,NEW,NEW
+Mama  Bhojnalya,600,"Healthy Food,North Indian,Fast Food",Agra,Kamla Nagar,Quick Bites,None,NEW,NEW
+Moolchand Grocery And Bakery,200,Bakery,Agra,Sikandra,Bakery,Not rated,-,-
+Rajput Bakers,200,Bakery,Agra,Kuberpur,Bakery,None,NEW,NEW
+Grace Rooftop Restaurant,200,North Indian,Agra,Tajganj,Quick Bites,None,NEW,NEW
+Hotel Taj Heights,700,"North Indian,Chinese,Mughlai",Agra,Tajganj,Casual Dining,Not rated,-,-
+Krishna Namkeen and Sweets,200,Mithai,Agra,Shahganj,Sweet Shop,Not rated,-,-
+Harbour Delight - Hotel Light House,700,"North Indian,Chinese",Agra,Tajganj,Casual Dining,Not rated,-,-
+Rudra Fast Food,100,North Indian,Agra,Shahganj,Quick Bites,Not rated,-,-
+Pandit Ji Fast Food,200,Fast Food,Agra,Shahganj,Quick Bites,None,NEW,NEW
+Mama Cake House,150,Bakery,Agra,Kamla Nagar,Quick Bites,Not rated,-,-
+Gaurav Bakers,150,"Bakery,Fast Food",Agra,Sikandra,Bakery,Not rated,-,-
+China Town,200,"Fast Food,Burger",Agra,Shahganj,none,Not rated,-,-
+Blue Bird Bakers,250,Bakery,Agra,Kamla Nagar,Bakery,None,NEW,NEW
+Radhey govind bakery,250,"Bakery,Fast Food",Agra,Shahganj,Bakery,Not rated,-,-
+Hotel Atithi,600,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Not rated,-,-
+All About chocolat,500,Desserts,Agra,Khandari,none,None,NEW,NEW
+Sri Sainath Food Service,250,North Indian,Agra,Khandari,Quick Bites,Not rated,-,-
+Radhika Sweet Corner,300,Mithai,Agra,Sikandra,Sweet Shop,Not rated,-,-
+Swaggy Cafe,100,North Indian,Agra,Tajganj,Quick Bites,None,NEW,NEW
+Prem Confectionery,100,Fast Food,Agra,Shahganj,Confectionery,None,NEW,NEW
+Rahul Bakers,200,"Fast Food,Bakery",Agra,Shahganj,Bakery,None,NEW,NEW
+Youngistan Cafe,400,Cafe,Agra,Civil Lines,Café,Not rated,-,-
+Agra Coffee House,150,"Coffee,Fast Food",Agra,Civil Lines,Quick Bites,Not rated,-,-
+Shree Jee Sweets And Dairy,200,Mithai,Agra,Shahganj,Dessert Parlor,None,NEW,NEW
+Abhishek Restaurant,200,North Indian,Agra,Tajganj,Quick Bites,None,NEW,NEW
+Bullet Adda,500,"Cafe,Continental,Italian",Agra,Sikandra,Café,Very Good,4.1,216
+Aromatic Nosh,700,Fast Food,Agra,Kamla Nagar,Quick Bites,Very Good,4.1,100
+MKOP,200,"Bakery,Fast Food",Agra,Civil Lines,Dessert Parlor,Very Good,4.4,228
+Pari Family Restaurant,400,"North Indian,Fast Food,South Indian",Agra,Sikandra,Quick Bites,Good,3.8,231
+Social Attitude,600,"Cafe,Chinese,Finger Food,North Indian",Agra,Shahganj,Café,Good,3.8,178
+Bercos,1000,"Chinese,Thai",Agra,Civil Lines,Casual Dining,Very Good,4.1,196
+Ram Babu Parathe Wale,700,Fast Food,Agra,Sikandra,Quick Bites,Average,3.1,235
+Anant Restaurant,350,South Indian,Agra,Kamla Nagar,Casual Dining,Very Good,4.1,223
+The Momo Corner,200,"Chinese,Momos,Wraps,Burger",Agra,Kamla Nagar,Quick Bites,Very Good,4.2,147
+Grey House Cafe,1500,Cafe,Agra,Tajganj,Café,Very Good,4.1,197
+Dasaprakash Restaurant,550,"South Indian,Desserts",Agra,Rakabganj,Casual Dining,Very Good,4.1,211
+KFC,500,"Burger,Fast Food",Agra,Tajganj,Quick Bites,Very Good,4.0,224
+Capri Restaurant,850,"North Indian,Mughlai",Agra,Civil Lines,Casual Dining,Good,3.5,200
+Campus Bakers,300,"Fast Food,Bakery",Agra,Sikandra,Quick Bites,Very Good,4.1,142
+The Rollings,700,"North Indian,Chinese,Continental",Agra,Khandari,Lounge,Good,3.9,146
+Agarwal Sweet House,250,"Mithai,Fast Food",Agra,Kamla Nagar,Sweet Shop,Not rated,-,-
+Jag Prem Restaurant,400,North Indian,Agra,Tajganj,Casual Dining,Not rated,-,-
+Mama Mutton Chicken Bhandhar,200,"Hyderabadi,Lucknowi,North Indian,Roast Chicken",Agra,Sikandra,Bhojanalya,None,NEW,NEW
+Mor Mukut Misthan Bhandar,150,Mithai,Agra,Civil Lines,Sweet Shop,None,NEW,NEW
+Raj Milk Product And Sweets,350,"Bakery,Chinese",Agra,Tajganj,Bakery,None,NEW,NEW
+RS Eating Hub,200,"Bakery,Fast Food",Agra,Mantola,Bakery,None,NEW,NEW
+Dayaram Sweets & Namkeen,100,"Mithai,Street Food",Agra,Mantola,none,None,NEW,NEW
+Al - Kareem restaurant,200,Afghan,Agra,Shahganj,Casual Dining,None,NEW,NEW
+Friend's Adda,150,"North Indian,South Indian,Chinese",Agra,Dayal Bagh,Quick Bites,Not rated,-,-
+Goswami Restaurant,200,North Indian,Agra,Sikandra,Quick Bites,None,NEW,NEW
+Ghatu Shyam Ji Sweets,100,Mithai,Agra,Civil Lines,Sweet Shop,None,NEW,NEW
+Mom's Food,200,North Indian,Agra,Kamla Nagar,none,None,NEW,NEW
+House Of Cuisine,400,Fast Food,Agra,Civil Lines,Quick Bites,Not rated,-,-
+Ganpati Bakers,150,"Mithai,Fast Food",Agra,Shahganj,Quick Bites,Not rated,-,-
+Punjabi Paratha,100,North Indian,Agra,Tajganj,Casual Dining,None,NEW,NEW
+Pikipuu Agra,350,"Desserts,Bakery",Agra,Tajganj,Dessert Parlor,Not rated,-,-
+quality paratha,0,North Eastern,Agra,Agra Cantt,none,None,NEW,NEW
+Pandit-Nirmit,0,"North Indian,South Indian,Chinese",Agra,Sikandra,Quick Bites,None,NEW,NEW
+Bread Roll HQ,250,Fast Food,Agra,Mantola,Quick Bites,None,Opening,Opening
+Sardari Chicken,300,"North Indian,Chinese",Agra,Sikandra,none,None,NEW,NEW
+Gopaldas Pethe Wale,0,Desserts,Agra,Mantola,Sweet Shop,None,NEW,NEW
+Giani Ice Cream,200,Ice Cream,Agra,Agra Cantt,Dessert Parlor,Very Good,4.1,33
+Ultimate Pizza,400,Fast Food,Agra,Arjun Nagar,Quick Bites,Good,3.7,62
+Marleys  The Milkshake,350,Beverages,Agra,Tajganj,Beverage Shop,Good,3.7,43
+Culinary Junction By Udupi,800,"North Indian,South Indian,European,Chinese,Italian",Agra,Tajganj,Casual Dining,Very Good,4.3,24
+Punjabi Swag,350,North Indian,Agra,Dayal Bagh,Quick Bites,Good,3.8,83
+Hari Chatni Restaurant,650,"North Indian,Chinese",Agra,Civil Lines,Casual Dining,Good,3.7,82
+Pandit Bhojhnalaya,200,North Indian,Agra,Sikandra,Bhojanalya,Good,3.5,56
+Bhole Kona Grill,450,"North Indian,Fast Food",Agra,Shahganj,Quick Bites,Good,3.5,81
+Indian Chicken Express,700,"Mughlai,North Indian",Agra,Shahganj,Quick Bites,Good,3.8,82
+Lovely Restaurant,400,North Indian,Agra,Tajganj,Quick Bites,Good,3.5,17
+The Greens Restaurant & Herbal Cafe,500,"North Indian,South Indian,Chinese,Continental",Agra,Rakabganj,Casual Dining,Good,3.9,50
+Club Rush,1100,"North Indian,Chinese,Continental",Agra,Tajganj,Lounge,Good,3.8,71
+Blue Coriander,800,"North Indian,Continental,Cafe",Agra,Civil Lines,Casual Dining,Good,3.9,63
+Mama's Vegetarian Food Corner,200,"Fast Food,South Indian",Agra,Agra Cantt,Quick Bites,Good,3.6,62
+Shere Punjab Restaurant,500,"North Indian,South Indian,Continental",Agra,Kamla Nagar,Casual Dining,Good,3.8,57
+Sri Dauji's Chatpataa,500,"North Indian,South Indian",Agra,Kamla Nagar,Casual Dining,Good,3.8,41
+Ashoka Bar,1000,North Indian,Agra,Civil Lines,Bar,Good,3.7,51
+Spice Kitchen - The Sizzling Multi-Cuisine Restaurant,600,"North Indian,South Indian,Chinese",Agra,Rakabganj,Casual Dining,Good,3.5,35
+Shri Thakur Ji Bhojanalaya,150,North Indian,Agra,Civil Lines,Casual Dining,Good,3.9,39
+Mercury Cafe,250,Beverages,Agra,Tajganj,Quick Bites,Good,3.6,39
+Chhabra's Chicken Corner,300,"North Indian,Biryani,Chinese,Rolls",Agra,Shahganj,Quick Bites,Good,3.7,64
+Satkar Pastries,500,"Fast Food,Desserts",Agra,Kamla Nagar,Quick Bites,Good,3.7,32
+Labbaik Chicken Corner,600,Biryani,Agra,Mantola,Casual Dining,Good,3.7,55
+Roadies,550,Mughlai,Agra,Sikandra,Quick Bites,Good,3.5,67
+The London Bakery,500,Bakery,Agra,Kamla Nagar,Bakery,Good,3.9,59
+Cafe Godfather,500,"North Indian,Chinese,Italian,Continental",Agra,Tajganj,Café,Good,3.7,19
+Indian By Nature,1200,North Indian,Agra,Civil Lines,Casual Dining,Average,2.5,51
+Pankhuri Restaurant,1000,"North Indian,Chinese,Continental,South Indian",Agra,Rakabganj,Casual Dining,Good,3.9,66
+Karims,1200,"Mughlai,Kebab",Agra,Tajganj,Quick Bites,Good,3.8,57
+Vaishno Bakery,300,"Fast Food,Bakery",Agra,Lohamandi,Quick Bites,Good,3.5,27
+Gobhi.com,250,"North Indian,Chinese",Agra,Arjun Nagar,Quick Bites,Good,3.8,56
+Aleem,500,"Biryani,Mughlai,Kebab",Agra,Tajganj,Quick Bites,Good,3.8,69
+WOS Cafe - World of Spices,800,"North Indian,Chinese",Agra,Tajganj,Casual Dining,Good,3.9,34
+Hungrill Cafe & Restaurant,200,Fast Food,Agra,Sikandra,Quick Bites,Good,3.6,57
+Shri Dharamraj Yadav Dhaba,200,North Indian,Agra,Civil Lines,Dhaba,Good,3.6,65
+Hotel Solitaire,600,"North Indian,South Indian,Chinese",Agra,Civil Lines,Casual Dining,Good,3.7,58
+Om Restaurant,400,"North Indian,South Indian",Agra,Agra Cantt,Quick Bites,Good,3.6,52
+Spicy Spoon,550,"South Indian,Chinese,North Indian",Agra,Kamla Nagar,Casual Dining,Good,3.6,59
+Pushpak Misthan Bhandar and Sweet,200,"Mithai,Fast Food",Agra,Mantola,Sweet Shop,Good,3.8,31
+Hotel Amar - Noorjahan Restaurant,900,"North Indian,Chinese,Continental,South Indian",Agra,Hotel Amar-- Tajganj,Casual Dining,Good,3.7,42
+Gupta Ji Dhaba & Veg Briyani,150,North Indian,Agra,Sikandra,Dhaba,Good,3.7,36
+Green Veg Thali,300,North Indian,Agra,Tajganj,Quick Bites,Average,2.9,44
+Dilli Darbar,300,North Indian,Agra,Civil Lines,Quick Bites,Good,3.6,30
+Mama Franky House,200,Fast Food,Agra,Shahganj,Kiosk,Average,3.4,42
+Agra Zayka Family Restaurant,400,"North Indian,Chinese,Continental",Agra,Kamla Nagar,Casual Dining,Average,3.2,55
+Kings,600,"Bakery,Continental",Agra,Kamla Nagar,Quick Bites,Good,3.6,56
+Sanjay Bakers & Confectioner,300,"Bakery,Desserts",Agra,Kamla Nagar,Bakery,Good,3.6,41
+Pandit Bhojnalaya,200,North Indian,Agra,Sikandra,Bhojanalya,Average,3.1,16
+Dreams Bakers Paradise,200,Bakery,Agra,Civil Lines,Bakery,Good,3.6,66
+Glassy,1500,"Cafe,Chinese,Continental,Indian",Agra,Tajganj,Café,Good,3.7,45
+Baba Chicken Mutton,300,"Mughlai,Afghan",Agra,Sikandra,Quick Bites,Average,3.3,27
+Hunger Point Cafe and Bakers,400,"Cafe,Chinese,Continental",Agra,Tajganj,Quick Bites,Average,2.8,57
+Masterchef,400,"Italian,North Indian",Agra,Sikandra,Quick Bites,Good,3.5,45
+Hunger Bites,200,"South Indian,Momos,Chinese",Agra,Khandari,Quick Bites,None,NEW,NEW
+Cafe De Fusion,250,Cafe,Agra,Agra Cantt,Café,Good,3.9,36
+Balaji Dosa Factory,250,"South Indian,Street Food",Agra,Khandari,Food Truck,Average,3.3,56
+Sizzling Lounge,300,Fast Food,Agra,Khandari,Quick Bites,Average,3.0,26
+Selfie Restaurant,400,North Indian,Agra,Lohamandi,Quick Bites,Good,3.5,55
+Bhagat Food Court,500,"Chinese,Street Food",Agra,Civil Lines,Quick Bites,Good,3.5,60
+Ohh..foodies,300,"American,Beverages,Biryani,Continental,Indian,North Indian,Pizza",Agra,Mantola,Quick Bites,Good,3.5,37
+European Bakery,300,"Bakery,Desserts,Fast Food",Agra,Civil Lines,Bakery,Good,3.5,30
+Cafe Chilam,750,"Cafe,Fast Food,Chinese",Agra,Tajganj,Café,Good,3.5,48
+Chatpati Rasoi,350,North Indian,Agra,Tajganj,Dhaba,Good,3.5,47
+Ravi Patties & Mocktail Point,100,Street Food,Agra,Shahganj,Quick Bites,Good,3.8,38
+Mama Momos,400,"Fast Food,Momos",Agra,Agra Cantt,Quick Bites,Good,3.5,53
+Munchies,500,"Chinese,Fast Food",Agra,Agra Cantt,Quick Bites,Good,3.6,41
+Rasam,500,North Indian,Agra,Tajganj,Casual Dining,Good,3.6,41
+DR Food Plaza,200,North Indian,Agra,Kamla Nagar,Quick Bites,Good,3.7,54
+Kings Spoon,500,"North Indian,Chinese,Continental",Agra,Sikandra,Casual Dining,Average,3.4,33
+Shyam Ji Restaurant,300,North Indian,Agra,Agra Cantt,Quick Bites,Good,3.8,30
+Bhagwati Dhaba & Thali,200,North Indian,Agra,Kamla Nagar,Quick Bites,Average,3.3,13
+V & S Maggie Point,150,"Fast Food,Italian",Agra,Shahganj,Quick Bites,Good,3.7,32
+C-9 Restaurant,700,"Chinese,Continental,Desserts,North Indian,Pizza,Rolls,Sandwich,South Indian",Agra,Civil Lines,Quick Bites,Good,3.5,46
+Tunda Kababi,500,"North Indian,Mughlai",Agra,Civil Lines,Casual Dining,Average,3.0,24
+Flavours Restaurant,850,"North Indian,Chinese,Fast Food,South Indian",Agra,Civil Lines,Casual Dining,Good,3.9,52
+Sri Dauji Restaurant,100,Desserts,Agra,Kamla Nagar,Dessert Parlor,Average,3.3,36
+Labbaik Chicken Corner,600,"Mughlai,North Indian",Agra,Civil Lines,Quick Bites,Good,3.5,37
+Saket Restaurant,750,"North Indian,Chinese,South Indian",Agra,Khandari,Casual Dining,Average,3.1,41
+Level 4,700,Continental,Agra,Tajganj,Quick Bites,None,NEW,NEW
+Chef On Wheels,200,"Chinese,Continental,North Indian",Agra,Tajganj,Quick Bites,Average,3.3,39
+Prem Bhalla Restaurant,650,"North Indian,Chinese,Fast Food",Agra,Arjun Nagar,Casual Dining,Good,3.6,35
+Nandani Red Crystal Restaurant,250,"South Indian,Pizza,Chinese,Desserts",Agra,Sikandra,Quick Bites,Average,3.3,28
+The Master Chef Restaurant,400,"Fast Food,Italian,Chinese",Agra,Agra Cantt,Quick Bites,Average,3.4,33
+Bhagwan Corner Cakes And Pastries,200,Bakery,Agra,Mantola,Bakery,Average,3.3,15
+The Tounge,400,"North Indian,South Indian,Chinese",Agra,Kamla Nagar,Casual Dining,Good,3.6,32
+Panchratan Restaurant,900,"North Indian,South Indian",Agra,Civil Lines,Casual Dining,Good,3.6,42
+Shri Ambika Restaurant,850,"North Indian,South Indian,Chinese",Agra,Kamla Nagar,Casual Dining,Good,3.6,46
+Punjabi Hut,400,"Indian,North Indian",Agra,Shahganj,Quick Bites,Average,2.8,37
+Sauma,1400,"Chinese,North Indian",Agra,Tajganj,Casual Dining,Good,3.8,26
+Dhaba Dictionary,200,North Indian,Agra,Tajganj,Quick Bites,Average,3.1,6
+Twisters,500,"Chinese,Fast Food,Mughlai,North Indian,Rolls",Agra,Civil Lines,Quick Bites,Good,3.7,44
+Faluda Corner,200,Ice Cream,Agra,Agra Cantt,Dessert Parlor,Average,3.3,18
+Zam Zam Chicken Corner,300,Fast Food,Agra,Sikandra,Quick Bites,Average,3.4,45
+Punjabi Grill,700,"Mughlai,North Indian",Agra,Tajganj,Quick Bites,Good,3.6,27
+Goldy Cool Cafe & Bakers,300,"Bakery,Fast Food",Agra,Kamla Nagar,Quick Bites,None,NEW,NEW
+Ambience Restaurant,800,"North Indian,Continental",Agra,Kamla Nagar,Casual Dining,Average,3.4,38
+Foyer Restaurant and Cafe,800,Cafe,Agra,Tajganj,Quick Bites,Average,2.9,15
+G Chakna- G Hotel,1000,"Chinese,Continental,North Indian",Agra,Kamla Nagar,Casual Dining,Good,3.6,28
+Thakur Ji Thaliwala,200,Indian,Agra,Kamla Nagar,Quick Bites,Average,3.4,15
+Dasaprakash Restaurant,650,South Indian,Agra,Tajganj,Casual Dining,Good,3.8,22
+Jain Bhojnalya,300,North Indian,Agra,Sikandra,Bhojanalya,Good,3.5,29
+Shivam Restaurant,200,"Fast Food,Desserts",Agra,Agra Cantt,Quick Bites,Average,2.8,28
+Food Stock Xchange,500,"North Indian,Chinese,Fast Food",Agra,Tajganj,Quick Bites,Good,3.6,24
+The Culture Of Spices- Kitchen & Lounge,900,"North Indian,Continental",Agra,Sikandra,Casual Dining,Average,3.1,18
+Falahar,150,"Fast Food,Street Food",Agra,Khandari,none,None,NEW,NEW
+Waffled,200,Desserts,Agra,Tajganj,Dessert Parlor,Average,3.4,20
+Login Restaurant & Rooftop Cafe,400,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Average,3.4,26
+The Silk Route Restaurant,1000,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Average,3.4,29
+Safarnama Cafe,400,"Cafe,North Indian",Agra,Tajganj,Café,None,NEW,NEW
+Jawahar Bhojnalay,400,North Indian,Agra,Dayal Bagh,Dhaba,Good,3.6,29
+Abhishek Dhaba,350,North Indian,Agra,Tajganj,Dhaba,Average,3.2,37
+Khanaa Khazanaa,400,"North Indian,Continental,Fast Food",Agra,Dayal Bagh,Quick Bites,Average,3.4,22
+Navratan Fast Food & Restaurant,500,"North Indian,South Indian,Fast Food",Agra,Dayal Bagh,Quick Bites,Good,3.6,39
+Lal Tadka Restaurant,500,North Indian,Agra,Lohamandi,Casual Dining,Average,3.3,29
+The Chef's Club,600,"North Indian,Chinese",Agra,Tajganj,Casual Dining,Good,3.5,26
+Anjali Restaurant,500,"North Indian,Chinese,Continental,South Indian",Agra,Shahganj,Quick Bites,Average,3.1,34
+Eating Meeting Restaurant,600,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Poor,2.3,25
+Merry Go Round,1250,"North Indian,Chinese,Continental",Agra,Hotel Pushp Villa-- Tajganj,Casual Dining,Average,2.7,24
+Shake Adda,250,Beverages,Agra,Kamla Nagar,Quick Bites,Good,3.6,33
+Hotel Bengal Lodge Bar & Restaurant,650,Finger Food,Agra,Rakabganj,Bar,Not rated,-,-
+Lazeez Restaurant,600,North Indian,Agra,Tajganj,Casual Dining,Average,3.2,9
+Mulla Ji Briyani Restaurant,200,Biryani,Agra,Sikandra,none,Average,3.4,9
+Hotel Poonam Plaza,700,"North Indian,Chinese",Agra,Dayal Bagh,Casual Dining,Good,3.5,24
+Goverdhan Bakery,300,"Bakery,Fast Food",Agra,Shahganj,Bakery,Good,3.7,22
+Vishal Dhaba,150,North Indian,Agra,Tajganj,Dhaba,None,NEW,NEW
+Orange Restaurant,1500,"Chinese,Continental,Fast Food,Finger Food,North Indian",Agra,Rakabganj,Casual Dining,Good,3.6,18
+Gyani Dhaba,150,North Indian,Agra,Dayal Bagh,Dhaba,Good,3.6,26
+Panchhi Petha Bhandar,200,Mithai,Agra,Sikandra,Sweet Shop,Good,3.5,21
+Family Zaika,1000,"North Indian,South Indian",Agra,Sikandra,Casual Dining,Average,3.1,30
+What The Food,400,Fast Food,Agra,Civil Lines,Quick Bites,Good,3.8,217
+Atlantic Foods,400,"Bakery,Desserts,Sandwich,Burger,Pizza,Fast Food",Agra,Civil Lines,Dessert Parlor,Very Good,4.0,134
+The Masterchef Restaurant,600,"Cafe,Italian",Agra,Kamla Nagar,Café,Good,3.9,206
+Udupi Brindavan,600,"South Indian,North Indian,Chinese",Agra,Khandari,Casual Dining,Very Good,4.1,193
+Agra Chat House,150,Street Food,Agra,Agra Cantt,Quick Bites,Very Good,4.2,161
+Dosa Plaza,300,"South Indian,North Indian,Chinese",Agra,Khandari,Quick Bites,Good,3.7,192
+The Chocolate Room,400,"Desserts,Mexican,Italian,Fast Food",Agra,Tajganj,Dessert Parlor,Very Good,4.3,124
+CHHAT - Over The Top,800,"North Indian,Chinese,Lebanese,Continental,Mediterranean,Mexican",Agra,Tajganj,Quick Bites,Very Good,4.0,51
+Jux Pux,300,"Beverages,Juices,Fast Food",Agra,Agra Cantt,Beverage Shop,Very Good,4.1,151
+Achman Cafe,700,"Cafe,Fast Food",Agra,Civil Lines,Café,Very Good,4.1,228
+The Greener Side,300,Fast Food,Agra,Civil Lines,Quick Bites,Very Good,4.4,410
+Sardarji Da Dhaba,400,North Indian,Agra,Agra Cantt,Casual Dining,Good,3.8,140
+Chopstix,600,Chinese,Agra,Civil Lines,Quick Bites,Good,3.8,169
+Cafe Kulhad,400,Fast Food,Agra,Civil Lines,Quick Bites,Very Good,4.0,121
+Fruck,400,Street Food,Agra,Khandari,Food Truck,Very Good,4.0,116
+Bhai bhai,200,"Chinese,North Indian",Agra,Civil Lines,Quick Bites,Average,3.3,27
+Janta Khana Khazana,300,"Fast Food,Bakery",Agra,Shahganj,Quick Bites,Good,3.5,25
+Crush Cafe,400,"Chinese,Desserts,Fast Food,Sandwich",Agra,Agra Cantt,Café,Average,2.6,25
+Tandoori Hut,400,North Indian,Agra,Tajganj,Quick Bites,Average,3.2,24
+The Taste of Taj City,500,"North Indian,Chinese",Agra,Sikandra,Casual Dining,Average,2.9,15
+Foodnary,300,"North Indian,South Indian,Chinese",Agra,Shahganj,Quick Bites,Average,3.3,10
+Om Sai Food Court,200,Fast Food,Agra,Dayal Bagh,Quick Bites,Good,3.5,21
+Spice Treat Dhaba,350,"North Indian,Chinese",Agra,Tajganj,Quick Bites,Poor,2.4,26
+Ohh.. Biryani,400,Biryani,Agra,Tajganj,Quick Bites,Average,3.3,7
+Shree Ganesh South Indian Restaurant,200,South Indian,Agra,Sikandra,Quick Bites,Good,3.6,28
+Dosa Kitchen,250,South Indian,Agra,Sikandra,Food Truck,Good,3.5,17
+Chinese Dhaba,150,Chinese,Agra,Sikandra,Food Truck,Average,3.0,23
+Chawla's Chic-Inn,400,"Mughlai,North Indian",Agra,Civil Lines,Quick Bites,Good,3.6,38
+Tandoori Night,200,"North Indian,Fast Food",Agra,Sikandra,Quick Bites,Average,3.3,10
+Punjabi Junction,600,"North Indian,Chinese",Agra,Sikandra,Casual Dining,Average,2.7,21
+Chanchal Hotel,400,North Indian,Agra,Agra Cantt,Dhaba,Average,3.4,19
+Chowpaty By Captain,200,"Fast Food,South Indian,Street Food",Agra,Sikandra,Quick Bites,Average,3.4,12
+Pizza Delight Cafe,500,"Italian,Fast Food",Agra,Sikandra,Quick Bites,Good,3.5,13
+Maan Singh Egg Corner,150,Street Food,Agra,Kamla Nagar,Quick Bites,Average,3.3,23
+Tuk Tuk The Food Express,200,Fast Food,Agra,Agra Cantt,Quick Bites,Average,2.9,22
+Maharaja Restaurant,800,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Average,2.8,14
+Maa Gayatri Bhojnalya,200,North Indian,Agra,Kamla Nagar,Quick Bites,Average,3.3,7
+Pandit Ji Bhojhnalaya,150,North Indian,Agra,Sikandra,Bhojanalya,Good,3.6,23
+Skyline Lounge & Rooftop,500,North Indian,Agra,Kamla Nagar,Casual Dining,Average,3.3,16
+Agra Darbar,750,North Indian,Agra,Rakabganj,Casual Dining,Poor,2.4,19
+Awadhi Foods,400,North Indian,Agra,Civil Lines,Quick Bites,Good,3.6,24
+New Chinese King,300,"Chinese,Momos",Agra,Sikandra,Quick Bites,Average,2.8,22
+Fry Cafe,250,"Cafe,Fast Food,Beverages",Agra,Kamla Nagar,Quick Bites,Average,2.8,5
+Haveli Restaurant,1000,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Poor,2.4,16
+Dasaprakash Xpress,800,"North Indian,Chinese",Agra,Tajganj,Casual Dining,Average,2.8,15
+Babu Non Veg Punjabi Tadka,200,North Indian,Agra,Kamla Nagar,none,Average,3.3,9
+Celebrations Foods,200,"Fast Food,Bakery",Agra,Sikandra,Quick Bites,Good,3.6,8
+Happy Hours Restaurant,1000,"North Indian,South Indian,Chinese",Agra,Tajganj,Casual Dining,Average,3.3,16
+Tikka Town Restaurant,300,"Chinese,North Indian",Agra,Civil Lines,Quick Bites,Average,3.3,23
+Vrindavan Pan Bhandar,100,Paan,Agra,Kamla Nagar,Paan Shop,Good,3.5,21
+Quality Restaurant,800,"North Indian,Chinese",Agra,Tajganj,Casual Dining,Poor,2.3,18
+Dreams Bakers Paradise,250,"Fast Food,Bakery",Agra,Sikandra,Bakery,Average,2.9,26
+Brijwasi Sweet House,200,Mithai,Agra,Lohamandi,Sweet Shop,Average,3.3,21
+Panchhi Petha Dalmoth,200,Mithai,Agra,Khandari,Sweet Shop,Average,3.3,9
+The Mughal Darbar,800,"North Indian,Chinese,Mughlai,Continental",Agra,Tajganj,Casual Dining,Average,3.3,15
+Gobhi.Com Tiffin Centre,200,North Indian,Agra,Arjun Nagar,Quick Bites,None,NEW,NEW
+Vaishno Balaji Dhaba,200,North Indian,Agra,Agra Cantt,Dhaba,Average,2.8,20
+Bindhadi Ki Rasoi,500,"Rajasthani,North Indian",Agra,Kamla Nagar,Quick Bites,Average,3.2,17
+South Indian Corner,200,South Indian,Agra,Lohamandi,Quick Bites,Average,3.0,9
+Seven Hills Rooftop Restaurant,1500,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Average,3.4,18
+Gramma Food Zone,200,South Indian,Agra,Arjun Nagar,Quick Bites,Average,3.3,15
+Bhawna Palace Hotel,600,"North Indian,Chinese,South Indian",Agra,Khandari,Casual Dining,Average,3.4,12
+Krishna Sweet House,200,"Mithai,Fast Food",Agra,Khandari,Sweet Shop,Average,3.3,9
+Manoj Bhojnalay,250,North Indian,Agra,Agra Cantt,Dhaba,Average,3.0,7
+Agra Petha And Dalmoth,200,Mithai,Agra,Tajganj,Sweet Shop,None,NEW,NEW
+Paris Bakery,350,"Bakery,Desserts",Agra,Sikandra,Bakery,Average,3.1,11
+Bushra KFB,200,North Indian,Agra,Khandari,Quick Bites,Average,3.1,7
+Raj Darbar Restaurant,750,North Indian,Agra,Rakabganj,Casual Dining,Average,2.6,13
+Sandeep Egg Centre,150,Street Food,Agra,Sikandra,Quick Bites,Good,3.5,19
+Spicy Tongue,700,"North Indian,Chinese",Agra,Sikandra,Casual Dining,Average,3.0,12
+Salt - Pepper Restaurant,1100,"North Indian,Chinese,Continental",Agra,Hotel Royale Residency-- Tajganj,Casual Dining,Average,3.4,10
+Patyali Tadka,500,"North Indian,Rolls",Agra,Kamla Nagar,Quick Bites,Average,3.0,21
+Brother Cafe,300,Chinese,Agra,Sikandra,Quick Bites,None,NEW,NEW
+Beloved Bakers,300,Bakery,Agra,Khandari,Bakery,Average,3.3,8
+Zam Zam Chicken Corner,150,North Indian,Agra,Tajganj,Quick Bites,Average,3.1,11
+Jordan Restaurant,400,North Indian,Agra,Tajganj,Casual Dining,Average,3.2,9
+Kumaun Dhaba,400,North Indian,Agra,Tajganj,Dhaba,Good,3.5,18
+Meals On Wheels,200,"Fast Food,North Indian,Chinese",Agra,Tajganj,Quick Bites,Average,3.1,16
+Chinese Food Plaza,100,"Chinese,Fast Food",Agra,Shahganj,Quick Bites,None,NEW,NEW
+U & Me Cafe Family Restaurant,400,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Average,2.9,15
+New Pushpak Misthan Bhandar,400,Mithai,Agra,Rakabganj,Sweet Shop,Average,3.4,11
+Shanti Sweets,600,Mithai,Agra,Kamla Nagar,Sweet Shop,Average,3.2,15
+Gup-Shup Food Point,200,"Fast Food,Chinese",Agra,Shahganj,Quick Bites,Average,3.1,6
+Delicious Food Plaza,200,"Fast Food,Bakery",Agra,Shahganj,Confectionery,Average,3.1,8
+Agarwal Food Corner,400,North Eastern,Agra,Tajganj,Quick Bites,Average,3.2,12
+Qaisar Bagh Restaurant,800,"North Indian,Mughlai,Chinese,Continental",Agra,Tajganj,Casual Dining,Average,2.8,12
+Kulfi Heeralal -Tundla Wale,100,Desserts,Agra,Kamla Nagar,Dessert Parlor,None,NEW,NEW
+Same Place Food Court & Hukka Corner,750,"North Indian,Chinese,South Indian",Agra,Dayal Bagh,Casual Dining,Average,3.3,19
+Kashish Restaurant,750,"North Indian,Mughlai",Agra,Tajganj,Quick Bites,Average,3.3,10
+Agra Mutton Chicken House,650,North Indian,Agra,Civil Lines,Casual Dining,Average,2.6,20
+Tiwari Bombay Style Bhel and Panipuri,100,Street Food,Agra,Agra Cantt,Quick Bites,Average,3.4,15
+King of Spice,700,"North Indian,Chinese",Agra,Tajganj,Casual Dining,Average,2.8,13
+Chatori Gali,300,"Chinese,North Indian,South Indian",Agra,Kamla Nagar,Quick Bites,Average,2.7,20
+Shree Ganesh Chowemin and Fast Food,200,Fast Food,Agra,Sikandra,Quick Bites,Average,3.0,5
+Thali Master,400,North Indian,Agra,Agra Cantt,Quick Bites,Average,2.9,8
+Sikander Restaurant,300,North Indian,Agra,Sikandra,Quick Bites,Average,3.2,9
+Jalsa Restaurant,400,"North Indian,Italian",Agra,Sikandra,Casual Dining,Good,3.5,14
+Kohinoor Bar & Restaurant,800,"North Indian,Continental,Chinese",Agra,Civil Lines,Casual Dining,Average,2.9,11
+Deep Corner,300,Bakery,Agra,Shahganj,Bakery,Average,3.3,11
+Baskin Robin,500,"Desserts,Ice Cream",Agra,Civil Lines,Quick Bites,Good,3.5,14
+Good Friend Cafe,400,Fast Food,Agra,Tajganj,Quick Bites,Average,2.9,16
+Taj Juice And Ice- Cream Parlour,200,"Juices,Ice Cream",Agra,Shahganj,Beverage Shop,Average,3.1,10
+Spice Darbar Family Restaurant,500,"North Indian,Chinese,Fast Food",Agra,Tajganj,Quick Bites,Average,3.3,7
+Thikana,800,"Cafe,Italian,Mexican,Continental,North Indian",Agra,Kuberpur,Casual Dining,Average,3.0,7
+Ravi Dosa Corner,150,South Indian,Agra,Arjun Nagar,Quick Bites,Average,3.3,16
+Shri Krishna Vaishno Bhojanalaya,350,North Indian,Agra,Civil Lines,Casual Dining,Average,3.4,13
+The Zest Restaurant,500,North Indian,Agra,Tajganj,Casual Dining,None,NEW,NEW
+Kela Devi Patties,250,"Fast Food,Desserts",Agra,Kamla Nagar,Quick Bites,Average,3.2,6
+Zero Degree - Pio,150,"Beverages,Desserts",Agra,Tajganj,Beverage Shop,Good,3.5,12
+Mama's Egg Corner,200,Lebanese,Agra,Agra Cantt,Quick Bites,Average,3.1,7
+Teekha Meetha Cafe,200,Fast Food,Agra,Sikandra,Quick Bites,None,NEW,NEW
+B.G foods,300,"Rolls,Sandwich,Burger,Pizza,Bakery",Agra,Mantola,Quick Bites,Average,3.2,5
+Shanti Food Court,400,"North Indian,South Indian,Continental,Fast Food",Agra,Sikandra,Quick Bites,Average,2.8,12
+Shri Giriraj Bhojanalaya,400,"North Indian,Fast Food",Agra,Tajganj,Bhojanalya,Average,3.2,6
+Sagar Chowmein,100,Chinese,Agra,Kamla Nagar,none,Average,3.3,7
+Kadeer Restaurant,200,Biryani,Agra,Sikandra,Quick Bites,Not rated,-,-
+Jain Confectionery,200,"Cafe,Fast Food",Agra,Sikandra,Quick Bites,Not rated,-,-
+Shanti Sweets,400,Mithai,Agra,Sikandra,Sweet Shop,Average,3.0,10
+Agarwal Dairy And Sweet,200,Mithai,Agra,Shahganj,Sweet Shop,None,NEW,NEW
+Shree Chhappan Bhog,200,"Mithai,Fast Food",Agra,Civil Lines,Sweet Shop,None,NEW,NEW
+Punjabi Grill,500,"North Indian,Fast Food",Agra,Sikandra,Kiosk,Average,3.4,11
+Tiwari Bombay Food Court,100,Street Food,Agra,Sikandra,Quick Bites,Average,3.2,7
+Brother Fast Food Corner,200,Fast Food,Agra,Sikandra,Quick Bites,None,NEW,NEW
+Chef On Call,300,Fast Food,Agra,Tajganj,Quick Bites,Average,3.0,10
+Avalon Taj,450,"North Indian,Chinese",Agra,Agra Cantt,Casual Dining,Average,2.9,10
+Darbar,600,"North Indian,Chinese",Agra,Tajganj,Casual Dining,Average,3.2,8
+Apollo Restaurant,300,"North Indian,South Indian,Chinese",Agra,Tajganj,Casual Dining,Average,2.7,10
+Agra Food Court,200,North Indian,Agra,Arjun Nagar,Quick Bites,Average,2.8,11
+Bambino cafe,250,"North Indian,Beverages,Italian",Agra,Tajganj,Quick Bites,Average,2.8,8
+Brijwasi Petha,200,Mithai,Agra,Rakabganj,Sweet Shop,Not rated,-,-
+Fireside,300,"North Indian,Chinese,Italian",Agra,Agra Cantt,Quick Bites,Average,3.3,9
+Gazal Bar,1000,North Indian,Agra,Shahganj,Bar,Average,3.2,8
+Banarsi Pan,500,"Paan,Desserts",Agra,Civil Lines,Paan Shop,Not rated,-,-
+Roots Cafe,200,"North Indian,Fast Food",Agra,Khandari,none,Average,3.0,6
+Sethi Ji Hotel,250,North Indian,Agra,Agra Cantt,Dhaba,Average,2.8,9
+Chilly Chatkara,850,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Average,3.3,12
+Brij Bakers,150,"Bakery,Desserts",Agra,Kamla Nagar,Bakery,Average,2.9,7
+Pehalwan Biryani Food Truck,350,Biryani,Agra,Tajganj,Food Truck,Average,3.3,8
+Masala Indian Fast Food,200,"North Indian,Fast Food",Agra,Civil Lines,Quick Bites,Not rated,-,-
+Moti Palace Restaurant and Bar,1000,"North Indian,Chinese",Agra,Rakabganj,Casual Dining,Average,3.0,10
+Hunger Grill,700,"North Indian,Chinese,Fast Food",Agra,Sikandra,Casual Dining,Average,3.4,12
+FCB Fast Food Corner,300,Fast Food,Agra,Kamla Nagar,Quick Bites,Average,3.2,6
+Shri Bikaner Sweets,200,"Fast Food,Mithai",Agra,Khandari,Quick Bites,Average,3.2,7
+Punjabi Chula,250,North Indian,Agra,Kamla Nagar,Quick Bites,Not rated,-,-
+Dana Pani restaurant,350,"North Indian,Fast Food",Agra,Kamla Nagar,Quick Bites,Average,3.0,4
+Apna Dhabha,150,North Indian,Agra,Sikandra,Dhaba,Average,2.9,7
+Shri Mohan Hotel,200,"North Indian,Indian,Desserts",Agra,Rakabganj,Quick Bites,Not rated,-,-
+Kela Ji Bhel Puri And Shev Puri Corner,150,Fast Food,Agra,Agra Cantt,Quick Bites,Not rated,-,-
+Relish Restaurant,1000,"Chinese,Continental,North Indian",Agra,Tajganj,Casual Dining,Average,3.1,7
+Mast Banarsi Paan,60,Paan,Agra,Kamla Nagar,Paan Shop,Not rated,-,-
+Garam masala,400,North Indian,Agra,Dayal Bagh,Quick Bites,None,NEW,NEW
+Maa Vaishno Dhaba,150,North Indian,Agra,Tajganj,Dhaba,None,NEW,NEW
+Nawabi Non Veg,200,North Indian,Agra,Tajganj,Quick Bites,None,NEW,NEW
+Om Sai Ram Bhojhnalaya,250,North Indian,Agra,Sikandra,Bhojanalya,Not rated,-,-
+Dosa Hub,350,South Indian,Agra,Lohamandi,Quick Bites,Not rated,-,-
+Pandit Ji Dhaba,150,North Indian,Agra,Sikandra,Quick Bites,None,NEW,NEW
+Ghar Ki Rasoi,200,North Indian,Agra,Tajganj,Quick Bites,Not rated,-,-
+Dauji Chaat Bhandar,150,Street Food,Agra,Sikandra,Quick Bites,Average,3.2,4
+The Signature,400,North Indian,Agra,Tajganj,Casual Dining,Not rated,-,-
+Pizza Hub,400,"Pizza,Fast Food",Agra,Shahganj,Quick Bites,None,NEW,NEW
+Milan Restaurant,700,"North Indian,Finger Food",Agra,Sikandra,Casual Dining,Average,3.0,4
+Punjabi Food Corner,200,"Fast Food,North Indian",Agra,Kamla Nagar,Quick Bites,Not rated,-,-
+Jhalak Restaurant,500,"Mughlai,Indian",Agra,Civil Lines,Casual Dining,Not rated,-,-
+Fresh Snacks Cafe,100,Street Food,Agra,Agra Cantt,Quick Bites,Not rated,-,-
+Elleven To 11,300,"North Indian,Chinese",Agra,Kamla Nagar,Quick Bites,Average,3.2,5
+Ratan Pizza,500,"Pizza,Fast Food,Bakery",Agra,Civil Lines,Quick Bites,Good,3.8,94
+Captain's Cafe,500,"Cafe,North Indian,Mughlai,Italian,Chinese",Agra,Sikandra,Café,Very Good,4.0,156
+Chokho Jeeman Marwari Jain Bhojanalya,400,Rajasthani,Agra,Civil Lines,Casual Dining,Very Good,4.2,447
+Shri Tirupati No.1 Family Restaurant,300,"North Indian,Fast Food",Agra,Sikandra,Quick Bites,Good,3.8,121
+Chaat Chowpaati,150,Street Food,Agra,Kamla Nagar,Quick Bites,Good,3.8,137
+Sattolala Food Court,200,"North Indian,Desserts",Agra,Shahganj,Quick Bites,Good,3.5,158
+Q'sinn,1000,North Indian,Agra,Civil Lines,Casual Dining,Very Good,4.1,115
+Chimmanlal Puri Wale,150,"North Indian,Street Food,Mithai",Agra,Mantola,Quick Bites,Very Good,4.0,155
+Sizzling Salt,800,North Indian,Agra,Khandari,Casual Dining,Very Good,4.1,138
+Chainess,200,"Tea,Fast Food",Agra,Civil Lines,Quick Bites,Very Good,4.2,105
+The Big Bun,250,"Burger,Sandwich,Fast Food,Pizza,Rolls,Bakery",Agra,Civil Lines,Quick Bites,Very Good,4.4,155
+Family Zaika Restro & Lounge,800,"North Indian,South Indian,Chinese",Agra,Kamla Nagar,Casual Dining,Good,3.7,110
+Sheroes Hangout,200,"Cafe,North Indian,Chinese",Agra,Tajganj,Café,Excellent,4.9,253
+The Grand Gopika Thaal By GMB,800,"North Indian,Rajasthani,Gujarati",Agra,Tajganj,Casual Dining,Very Good,4.2,27
+New Moon Light Restaurant,350,North Indian,Agra,Civil Lines,Dhaba,Good,3.7,115
+Gulab Snacks Parlour,200,Fast Food,Agra,Khandari,Quick Bites,Average,3.2,6
+Chunar Chicken,500,Mughlai,Agra,Mantola,Quick Bites,Average,3.2,6
+Chotu Puri Wale,100,"North Indian,Beverages",Agra,Tajganj,Quick Bites,None,NEW,NEW
+Four Seasons Fun & Food Village,500,"Chinese,North Indian",Agra,Dayal Bagh,Quick Bites,Average,3.2,8
+Shri Giraj Chaat Bhandaar,100,Street Food,Agra,Agra Cantt,Quick Bites,Not rated,-,-
+Jack N Jill,200,Fast Food,Agra,Arjun Nagar,Quick Bites,Average,3.0,4
+RS Crazy Bites,100,"Sandwich,Burger",Agra,Civil Lines,Quick Bites,Average,3.1,5
+Maa Vaishno Pizza & Burger,150,"Fast Food,Pizza",Agra,Kuberpur,Quick Bites,None,NEW,NEW
+Anjana Restaurant,500,"Chinese,Fast Food,North Indian",Agra,Tajganj,Quick Bites,Average,3.1,8
+Hangout- The Lounge Bar,600,Finger Food,Agra,Lohamandi,Bar,Average,3.1,4
+Jawahar Bhojnalya,200,North Indian,Agra,Dayal Bagh,Quick Bites,Average,3.2,4
+Idli.com,150,South Indian,Agra,Agra Cantt,Quick Bites,Not rated,-,-
+Ice Cream Factory,150,"Ice Cream,Beverages",Agra,Civil Lines,none,None,NEW,NEW
+Hashim Restaurant,250,"Biryani,North Indian",Agra,Shahganj,Quick Bites,Average,3.1,4
+Chef Signature - Kabab Factory,250,North Indian,Agra,Tajganj,none,Not rated,-,-
+The Chamber,1500,"North Indian,Mughlai,Continental,Chinese",Agra,Tajganj,Quick Bites,Average,3.1,4
+Cottage Cafe,100,Fast Food,Agra,Civil Lines,Quick Bites,Average,3.1,4
+Hotel Ganpati,250,"North Indian,Chinese",Agra,Tajganj,Quick Bites,Average,3.0,4
+Tikka Factory,400,"Kebab,North Indian,Rolls,Chinese,Fast Food",Agra,Sikandra,Casual Dining,Not rated,-,-
+Ganpati Hotel and Restaurant,350,North Indian,Agra,Sikandra,Quick Bites,Average,3.0,4
+Desi Tadka Restaurant,800,"North Indian,Italian",Agra,Lohamandi,Casual Dining,Average,3.2,6
+SR CHICKEN CORNER & RESTAURANT,0,"Biryani,Charcoal Chicken,Hyderabadi",Agra,Tajganj,none,None,NEW,NEW
+Chick Chick Corner,500,Mughlai,Agra,Kamla Nagar,Quick Bites,Average,2.8,8
+Jain Sweet And Milk Corner,150,"Mithai,Street Food",Agra,Sikandra,Sweet Shop,Not rated,-,-
+Devil Disc & Restaurant,600,North Indian,Agra,Sikandra,Casual Dining,Average,3.1,4
+Ram Cafe & Bakers,100,"Fast Food,Desserts",Agra,Sikandra,none,None,NEW,NEW
+Krishna Dosa Factory,200,South Indian,Agra,Sikandra,Quick Bites,Not rated,-,-
+Haji Ji Restaurant,200,North Indian,Agra,Mantola,Quick Bites,Not rated,-,-
+Shiv Sweet,200,"Mithai,Fast Food",Agra,Sikandra,Sweet Shop,Not rated,-,-
+Vansiwala Family Restaurant,300,"North Indian,South Indian,Chinese",Agra,Shahganj,Quick Bites,Not rated,-,-
+Prince Of Spice,750,"North Indian,Mughlai,Chinese",Agra,Tajganj,Casual Dining,Average,3.1,7
+Al Baik Restaurant,350,North Indian,Agra,Civil Lines,Quick Bites,Average,3.0,4
+Shri Mangalam Dhabha,200,North Indian,Agra,Sikandra,Dhaba,Not rated,-,-
+Chacha Ji Ka Dhaba,600,North Indian,Agra,Civil Lines,Casual Dining,Not rated,-,-
+Aggarwal Fast Food & Restaurant,200,Fast Food,Agra,Mantola,Quick Bites,Average,3.1,6
+Chatkara Restaurant,400,"Chinese,Indian,North Indian",Agra,Tajganj,Quick Bites,Average,3.1,6
+B K Hotel,250,North Indian,Agra,Rakabganj,Quick Bites,None,NEW,NEW
+Kulfiano,200,Ice Cream,Agra,Agra Cantt,Dessert Parlor,Average,3.1,5
+Apni Rasoi,250,North Indian,Agra,Tajganj,Quick Bites,Not rated,-,-
+New Vrindavan Pan Bhandar,100,Paan,Agra,Kamla Nagar,Paan Shop,Not rated,-,-
+Tammana bhojnalya,150,Indian,Agra,Kamla Nagar,Bhojanalya,Not rated,-,-
+Saffron Restaurant,800,"Beverages,Chinese,Continental,North Indian,South Indian",Agra,Rakabganj,Casual Dining,Average,3.1,5
+Open Affaire - Siris 18,800,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Not rated,-,-
+Shree Shayam Ji Bhojnalaya,200,North Indian,Agra,Sikandra,Bhojanalya,Average,3.0,6
+Panchhi Petha Namkeen,200,Mithai,Agra,Tajganj,Sweet Shop,Not rated,-,-
+R.D. Food Centre,200,"North Indian,Chinese",Agra,Dayal Bagh,none,Average,3.2,5
+Chirag Flavours,300,"North Indian,Chinese",Agra,Tajganj,Quick Bites,Not rated,-,-
+Shri Vrindavan Sweet,400,Mithai,Agra,Dayal Bagh,Quick Bites,Not rated,-,-
+Surbhi Bar & Restaurant,800,"North Indian,Chinese,Fast Food",Agra,Mantola,Casual Dining,None,NEW,NEW
+Parantha Factory,150,North Indian,Agra,Agra Cantt,none,Not rated,-,-
+Uncle Cakes And Bakes,250,"Fast Food,Desserts",Agra,Shahganj,Quick Bites,Not rated,-,-
+"Hotel Nuova, Udarpoorti Pure Veg Family Restaurant",500,"Chinese,Continental,North Indian",Agra,Civil Lines,Casual Dining,Not rated,-,-
+Shri Kanha Foods,300,North Indian,Agra,Agra Cantt,Quick Bites,Not rated,-,-
+A.V Food Court,400,"Mithai,North Indian,South Indian,Fast Food",Agra,Sikandra,Quick Bites,Average,3.0,4
+Go 69 Pizza,250,Pizza,Agra,Kamla Nagar,Quick Bites,Not rated,-,-
+Dawat Restaurant,400,North Indian,Agra,Sikandra,Casual Dining,Not rated,-,-
+Yash Paties And Juice Corner,100,"Street Food,Juices",Agra,Shahganj,none,None,NEW,NEW
+Flower Nest,500,North Indian,Agra,Tajganj,Casual Dining,Not rated,-,-
+Girraj Dhaba,200,North Indian,Agra,Sikandra,Dhaba,Not rated,-,-
+Gyani's Snacks Corner,300,Fast Food,Agra,Kamla Nagar,Quick Bites,Average,3.1,5
+Gyani's Snacks Corner,300,Fast Food,Agra,Kamla Nagar,Quick Bites,Average,3.1,5
+Little India,300,North Indian,Agra,Shahganj,Quick Bites,Not rated,-,-
+The K.S. Royal Restaurant,700,"North Indian,South Indian,Chinese",Agra,Sikandra,Casual Dining,Not rated,-,-
+Family Foods,100,Fast Food,Agra,Shahganj,Quick Bites,Not rated,-,-
+Hare Krishna Sweets And Restaurant,250,"North Indian,Mithai",Agra,Tajganj,Quick Bites,Not rated,-,-
+The Tequila - Mansingh Palace,2000,Finger Food,Agra,Mansingh Palace-- Tajganj,Bar,Not rated,-,-
+Taj Galaxy,500,"North Indian,Chinese,Mughlai",Agra,Tajganj,Casual Dining,Not rated,-,-
+The Pavillion,800,"North Indian,Chinese,Continental",Agra,Hotel Atulyaa Taj-- Tajganj,Casual Dining,Not rated,-,-
+Golden Street Restaurant,800,"North Indian,South Indian",Agra,Tajganj,Casual Dining,Average,3.1,4
+Shiv Bhojhnalaya,200,North Indian,Agra,Sikandra,Quick Bites,Not rated,-,-
+Laziz Restaurant,400,"North Indian,Chinese",Agra,Rakabganj,Quick Bites,Not rated,-,-
+Shri Anand  Sakahari Bhojan,350,North Indian,Agra,Civil Lines,Dhaba,Average,3.1,4
+In Dish,750,"North Indian,Mughlai,Chinese",Agra,Tajganj,Casual Dining,Not rated,-,-
+Spice Garden,800,"North Indian,Chinese,Continental",Agra,Hotel Crystal Inn-- Tajganj,Casual Dining,Not rated,-,-
+Spicy Food Restaurant,200,North Indian,Agra,Sikandra,Quick Bites,Not rated,-,-
+The Food Factory,300,"South Indian,Chinese",Agra,Rakabganj,Quick Bites,Not rated,-,-
+Swad Restaurant,500,North Indian,Agra,Shahganj,Casual Dining,Not rated,-,-
+Sharma & Sharma,600,North Indian,Agra,Tajganj,Casual Dining,None,NEW,NEW
+Swagat Restaurant,300,"Fast Food,Beverages",Agra,Tajganj,Quick Bites,Not rated,-,-
+Kaila Ji Coffee House,50,Tea,Agra,Agra Cantt,Beverage Shop,Not rated,-,-
+Swachand,400,Mughlai,Agra,Khandari,Quick Bites,Not rated,-,-
+Baba Mutton & Chicken Food Corner,200,"Fast Food,North Indian",Agra,Tajganj,none,None,NEW,NEW
+Soup Centre,100,"Beverages,Fast Food",Agra,Kamla Nagar,Beverage Shop,None,NEW,NEW
+Indraprasth Restaurant,600,"North Indian,Fast Food,American,Continental",Agra,Arjun Nagar,Casual Dining,Not rated,-,-
+Shri Ram Restaurant,250,North Indian,Agra,Rakabganj,Quick Bites,Not rated,-,-
+Ambika Restaurant,300,Chinese,Agra,Tajganj,Quick Bites,Not rated,-,-
+Curry Kitchen,250,North Indian,Agra,Agra Cantt,Quick Bites,Not rated,-,-
+Dauji Chat Bhandhar,150,Street Food,Agra,Sikandra,Quick Bites,Not rated,-,-
+Agra Puri Bhandar,100,"North Indian,Mithai",Agra,Tajganj,none,None,NEW,NEW
+Jalsa Ice Cream And Faluda,100,Beverages,Agra,Sikandra,Food Truck,None,NEW,NEW
+Udarpoorti Restaurant,500,"North Indian,Continental,Chinese",Agra,Shahganj,Quick Bites,Not rated,-,-
+R.K. Bhojnalya,500,"North Indian,Arabian,Asian,Assamese",Agra,Agra Cantt,Quick Bites,Not rated,-,-
+Horizon,800,"North Indian,Chinese,Continental",Agra,Hotel Crystal Inn-- Tajganj,Casual Dining,Not rated,-,-
+Kuch Bhi - Siri 18,1100,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Not rated,-,-
+Punjabi Grillz,200,Fast Food,Agra,Sikandra,Quick Bites,Not rated,-,-
+Punjabi Tadka - Y R Foods,300,"Chinese,North Indian",Agra,Agra Cantt,Quick Bites,Not rated,-,-
+Jalsa - Ice Cream & Faluda Corner,200,"Ice Cream,Beverages,Juices",Agra,Tajganj,Dessert Parlor,None,NEW,NEW
+DR Food,200,North Indian,Agra,Rakabganj,Quick Bites,Not rated,-,-
+Astha Family Dhaba,150,Chinese,Agra,Tajganj,Quick Bites,Not rated,-,-
+Dr Food Plaza,200,North Indian,Agra,Shahganj,Quick Bites,Not rated,-,-
+The Swaad Restaurant,300,"North Indian,Mughlai",Agra,Sikandra,Quick Bites,None,NEW,NEW
+Chaatwala,150,Street Food,Agra,Agra Cantt,Quick Bites,Not rated,-,-
+Jax Ambya Khaza Pizza Corner,200,North Indian,Agra,Shahganj,Quick Bites,Not rated,-,-
+Curry house Restaurant,300,"North Indian,South Indian,Italian",Agra,Tajganj,Quick Bites,Not rated,-,-
+Sheetal Restaurant,300,"North Indian,Chinese",Agra,Agra Cantt,Quick Bites,Not rated,-,-
+Indian Accent,500,"North Indian,Chinese",Agra,Tajganj,Casual Dining,Not rated,-,-
+Hotel S.R Palace & Restaurant,400,"North Indian,Chinese,Continental",Agra,Sikandra,Casual Dining,Not rated,-,-
+Gopal Dosa Corner,200,South Indian,Agra,Lohamandi,Quick Bites,Not rated,-,-
+Salim Hotel,200,North Indian,Agra,Mantola,Casual Dining,Not rated,-,-
+Porwal Bhojhnalaya,150,North Indian,Agra,Sikandra,Quick Bites,Not rated,-,-
+Captain Burger,300,"Burger,Cafe",Agra,Sikandra,Quick Bites,None,NEW,NEW
+Priya Hotel,600,"North Indian,Chinese,Mughlai",Agra,Tajganj,Quick Bites,Not rated,-,-
+Sizzler,1000,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Not rated,-,-
+Ck Family restaurant,200,North Indian,Agra,Sikandra,Quick Bites,None,NEW,NEW
+Punjabi Rasoi,300,North Indian,Agra,Agra Cantt,none,None,NEW,NEW
+Maple Grand,200,North Indian,Agra,Tajganj,Quick Bites,None,NEW,NEW
+Zaika Restaurant,400,North Indian,Agra,Agra Cantt,Casual Dining,Not rated,-,-
+Maa Vaishno Fast Food & Restaurant,200,South Indian,Agra,Kuberpur,Quick Bites,None,NEW,NEW
+Prem Sagar Restaurant,300,North Indian,Agra,Agra Cantt,Quick Bites,Not rated,-,-
+Khushi Bhojhnalaya,150,North Indian,Agra,Sikandra,Bhojanalya,Not rated,-,-
+Pandit Ji Chat Bhandaar,100,Street Food,Agra,Agra Cantt,Quick Bites,Not rated,-,-
+Nice Taj View Point,450,North Indian,Agra,Tajganj,Casual Dining,Not rated,-,-
+Taste of India,700,"North Indian,Fast Food",Agra,Tajganj,Casual Dining,Not rated,-,-
+Aashadeep Restaurant,300,North Indian,Agra,Dayal Bagh,Quick Bites,Not rated,-,-
+Hotel King Park Avenue,350,North Indian,Agra,Civil Lines,Quick Bites,None,NEW,NEW
+Shelter Restaurant,600,"North Indian,Continental,South Indian,Chinese",Agra,Sikandra,Casual Dining,Not rated,-,-
+Hasty Tasty,200,North Indian,Agra,Tajganj,Quick Bites,None,NEW,NEW
+: Panchhi petha,250,Desserts,Agra,Agra Cantt,Sweet Shop,Not rated,-,-
+Dipu Dhabha,200,Mithai,Agra,Sikandra,Sweet Shop,Not rated,-,-
+Hotel Eastlite Bar And Restaurant,700,"North Indian,Chinese",Agra,Civil Lines,Casual Dining,Not rated,-,-
+Jain Petha,250,"Fast Food,Bakery",Agra,Kamla Nagar,Bakery,None,NEW,NEW
+Yadav Misthan Bhandar,200,"Mithai,Fast Food",Agra,Shahganj,Sweet Shop,None,NEW,NEW
+Energy tandoori chai.com,150,Healthy Food,Agra,Sikandra,Quick Bites,Not rated,-,-
+Shake Valley,100,Beverages,Agra,Sikandra,Beverage Shop,None,NEW,NEW
+Biryaniwala,200,Biryani,Agra,Shahganj,none,None,NEW,NEW
+Punjabi Dhaba,250,North Indian,Agra,Tajganj,Quick Bites,Not rated,-,-
+Hungry Birds,250,North Indian,Agra,Tajganj,Quick Bites,None,NEW,NEW
+Pizzeria,200,Fast Food,Agra,Kamla Nagar,Quick Bites,None,NEW,NEW
+Jain Fast Food,200,"South Indian,Fast Food",Agra,Kamla Nagar,Quick Bites,None,NEW,NEW
+Fitoor,300,North Indian,Agra,Tajganj,Quick Bites,None,NEW,NEW
+Tapasya Restaurant,250,North Indian,Agra,Trans Yamuna,Quick Bites,None,NEW,NEW
+The Turban Master Chef Street Food,200,"Fast Food,Street Food",Agra,Agra Cantt,Quick Bites,None,NEW,NEW
+Mugal Rasoi,200,Fast Food,Agra,Agra Cantt,Quick Bites,Not rated,-,-
+Mehfil Restaurant,600,"North Indian,Chinese,Continental",Agra,Tajganj,Casual Dining,Not rated,-,-
+THE CLOVE,600,"North Indian,Chinese,Biryani",Agra,Tajganj,Casual Dining,Not rated,-,-
+Periwinkle Multicuisine Restaurant,900,"North Indian,Continental,Chinese",Agra,Tajganj,Casual Dining,Not rated,-,-
+Super Hemant Petha Store Sweets And Namkeen,300,Mithai,Agra,Arjun Nagar,Sweet Shop,None,NEW,NEW
+Hotel Taj Prince,500,"North Indian,Chinese",Agra,Tajganj,Casual Dining,Not rated,-,-
+Flower of Heaven,400,"North Indian,South Indian",Agra,Tajganj,Quick Bites,Not rated,-,-
+Peshwa Family Restaurant,600,North Indian,Agra,Tajganj,Casual Dining,None,NEW,NEW
+Deviram Food Circle,200,"Mithai,Fast Food,Street Food",Agra,Lohamandi,Sweet Shop,Very Good,4.0,207
+D Jail House- Hungry Slurp,300,"Awadhi,Chinese,Mughlai,North Indian",Agra,Sikandra,none,Very Good,4.0,146
+Rohit Cakes And Bakes,350,Bakery,Agra,Kamla Nagar,Bakery,Very Good,4.0,349
+The Ccharcoal Chimney,1500,"North Indian,Chinese,Continental,Mughlai",Agra,Tajganj,Casual Dining,Good,3.9,117
+New Punjabi Dhaba,450,North Indian,Agra,Khandari,Dhaba,Average,3.3,145
+Unlimited Pizza,400,"Ice Cream,Desserts,Fast Food",Agra,Civil Lines,Dessert Parlor,Good,3.6,55
+Shan E Hind,450,North Indian,Agra,Agra Cantt,Casual Dining,Good,3.6,91
+Cake House,500,"Bakery,Fast Food",Agra,Civil Lines,Bakery,Good,3.7,127
+Mothers Milkshakes,220,"Italian,Fast Food,Beverages",Agra,Civil Lines,Quick Bites,Good,3.7,140
+Agarwal Restaurant Sweets And Dairy,300,"North Indian,Beverages,South Indian,Fast Food,Pizza",Agra,Shahganj,Quick Bites,Good,3.8,96
+Ek Number cafe,500,North Indian,Agra,Civil Lines,Café,None,NEW,NEW
+Shree Bankey Bihari Misthan Bhandar,300,"Mithai,Street Food,South Indian,Chinese",Agra,Sikandra,Sweet Shop,Very Good,4.3,93
+Chef at Home Bakery,150,"Bakery,Fast Food",Agra,Civil Lines,Bakery,Average,3.2,97
+Annjal Restaurant,600,"North Indian,Rajasthani",Agra,Civil Lines,Casual Dining,Excellent,4.5,51
+Daddy's Burger Bar (Hungernomia),300,"Beverages,Burger,Fast Food,Pizza,Sandwich,Wraps",Agra,Civil Lines,Quick Bites,Good,3.9,161
+AFC Food,400,"North Indian,South Indian,Chinese",Agra,Civil Lines,Quick Bites,Not rated,-,-
+Vianjan Restaurant,500,North Indian,Agra,Tajganj,Quick Bites,Not rated,-,-
+Heartbeat Lounge,300,North Indian,Agra,Tajganj,Quick Bites,None,NEW,NEW
+India spice,500,"North Indian,Chinese,South Indian",Agra,Sikandra,Casual Dining,Not rated,-,-
+Bhaiya Ji Family Dhaba,250,North Indian,Agra,Sikandra,Dhaba,Not rated,-,-
+Zigzag Cafe,400,"North Indian,Chinese",Agra,Tajganj,Quick Bites,Not rated,-,-
+Hotel City Square,1200,"Asian,North Indian,Chinese",Agra,Tajganj,Casual Dining,Not rated,-,-
+Siddharth Fast Food & Drinks,0,"Chinese,Fast Food",Agra,Mantola,Quick Bites,None,NEW,NEW
+Guru Kripa Yadav Dhaba,150,North Indian,Agra,Civil Lines,Dhaba,Good,3.9,50
+Bhagwati Dhaba,200,North Indian,Agra,Sikandra,Dhaba,Good,3.9,117
+Bhawna Sweets,300,"Mithai,Desserts",Agra,Civil Lines,Sweet Shop,Good,3.9,86
+Goli Vada Pav No. 1,150,Street Food,Agra,Sikandra,Quick Bites,Very Good,4.1,159
+Chaska Restaurant,800,"North Indian,Chinese,South Indian",Agra,Kamla Nagar,Casual Dining,Average,3.3,134
+Master Chef Italian Fast Food Corner,400,Fast Food,Agra,Khandari,Quick Bites,Average,2.8,147
+Gurgaonwala,300,Fast Food,Agra,Shahganj,Quick Bites,Very Good,4.0,192
+Roofmates,1000,"North Indian,Chinese",Agra,Sikandra,Casual Dining,None,NEW,NEW
+Yo Yo Foods,300,"Chinese,South Indian",Agra,Khandari,Quick Bites,Good,3.8,124
+Dosa Factory,500,South Indian,Agra,Sikandra,Quick Bites,Good,3.8,97
+The Indian Chaska,600,North Indian,Agra,Civil Lines,Casual Dining,Good,3.6,103
+Jux Pux,200,Cafe,Agra,Khandari,Café,Good,3.9,95
+Tealogy,250,"Sandwich,Beverages,Continental",Agra,Civil Lines,Quick Bites,Very Good,4.3,41
+Filmy Zayka - Hotel Alleviate,700,"Chinese,North Indian",Agra,Civil Lines,Casual Dining,Very Good,4.1,86
+Dasaprakash Restaurant,700,"South Indian,North Indian",Agra,Hotel Dasaprakash-- Tajganj,Casual Dining,Very Good,4.0,140
+Pizza Inn,500,"Fast Food,Pizza",Agra,Sikandra,Quick Bites,Good,3.6,107
+Grill Inn,500,Fast Food,Agra,Dayal Bagh,Casual Dining,Good,3.9,75
+Om Bhojanalaya,500,North Indian,Agra,Agra Cantt,Casual Dining,Good,3.7,145
+Tirupati's Dosa Factory,200,South Indian,Agra,Civil Lines,Quick Bites,Very Good,4.0,69
+DECHEN CAFE LOUNGE,300,"Fast Food,Beverages",Agra,Sikandra,Café,Good,3.9,78
+Twist and taste,250,"North Indian,Chinese,South Indian",Agra,Kamla Nagar,Quick Bites,Average,3.4,67
+Rangrezz Restaurant,700,"North Indian,Mughlai",Agra,Agra Cantt,Casual Dining,Average,3.3,95
+Daddy's Burger Bar,300,Fast Food,Agra,Kamla Nagar,Quick Bites,Good,3.8,140
+GreeNox,200,"Fast Food,Bakery",Agra,Shahganj,Quick Bites,Good,3.7,74
+Celebration  Foods,200,"Bakery,Fast Food",Agra,Kamla Nagar,Bakery,Average,3.4,62
+Wai Wai City,400,"Asian,Chinese,Momos",Agra,Civil Lines,Quick Bites,Average,3.4,75
+Master Chef,250,Fast Food,Agra,Shahganj,Quick Bites,Good,3.8,94
+Gopaldas Pethe Wale,400,"Mithai,Street Food",Agra,Civil Lines,Sweet Shop,Very Good,4.4,40
+Gulati Bar-Be-Que,500,North Indian,Agra,Shahganj,Casual Dining,Good,3.7,115
+The Dhaba Cafe,350,"Continental,North Indian,Chinese",Agra,Tajganj,Quick Bites,Very Good,4.0,81
+Love Restaurant,300,"North Indian,Fast Food,Beverages",Agra,Tajganj,Quick Bites,Good,3.7,36
+WatchMeWhip,250,"Bakery,Desserts",Agra,Mantola,Bakery,Good,3.6,44
+UP 80,700,"North Indian,Chinese",Agra,Dayal Bagh,Casual Dining,Good,3.7,111
+Potato Planet,400,Fast Food,Agra,Civil Lines,Quick Bites,Good,3.8,113
+Anand He Anand Bhojanalaya,300,North Indian,Agra,Civil Lines,Casual Dining,Good,3.7,98
+Brijwasi Sweet House & Restaurant,500,"Desserts,North Indian,South Indian,Chinese,Fast Food,Street Food",Agra,Agra Cantt,Casual Dining,Good,3.7,87
+Downtown Cafe & Lounge,800,North Indian,Agra,Rakabganj,Lounge,Very Good,4.0,24
+Sri Dauji Mishthan Bhandar,300,"Desserts,Fast Food,Street Food",Agra,Kamla Nagar,Quick Bites,Good,3.6,89
+New Vishal Restaurant,400,North Indian,Agra,Khandari,Dhaba,Good,3.6,84
+Ravi Patties Corner,100,"Fast Food,Desserts",Agra,Dayal Bagh,Confectionery,Good,3.9,68
+China Town,200,Fast Food,Agra,Shahganj,Quick Bites,Good,3.9,70
+Hungernomia,500,"Pizza,Burger,Fast Food",Agra,Tajganj,Quick Bites,Good,3.9,36
+Healthmafia,100,Healthy Food,Agra,Civil Lines,Quick Bites,Good,3.9,48
+What The Food,500,"Burger,Chinese,Rolls",Agra,Kamla Nagar,Quick Bites,Good,3.5,123
+Cake & More,200,"Desserts,Bakery",Agra,Tajganj,Dessert Parlor,Good,3.8,55
