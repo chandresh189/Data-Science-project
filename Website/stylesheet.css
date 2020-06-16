@@ -1,0 +1,56 @@
+.body {
+}
+.header {
+  background: grey;
+  cursor: pointer;
+}
+
+.navbar {
+  padding : 0 35px !important;
+}
+
+.back {
+  width: 70%;
+  background-color: #7e96c4;
+  text-align: center;
+  padding: 50px;
+  margin-left: 15%;
+}
+
+.graph-img {
+  position: relative;
+  margin-bottom: 15px;
+}
+
+.graph-img img {
+  width: 100%;
+}
+
+
+/* footer */
+.footer {
+  margin-top: 150px;
+  background: #f5f6fc;
+}
+.footer h5 {
+  margin-bottom: 50px;
+}
+
+.footer h5::before {
+  content: '';
+  width: 70px;
+  height: 3px;
+  background: #4f74e8;
+  top: 80px;
+  position: absolute;
+}
+
+.footer-icons {
+  text-align: center;
+}
+
+.footer-icons fa {
+  margin: 0 10px auto;
+  font-size: 20px;
+  cursor: pointer;
+}
