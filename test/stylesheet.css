@@ -66,6 +66,7 @@
   background: #fff;
   padding: 4em 1.5em;
   border: 1px solid #dbe2e8;
+  text-align: justify;
 }
 
 .section {
@@ -94,6 +95,16 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
   width: 80%;
 }
 
+.raw-image img {
+  margin: 10px;
+  width: 80%;
+}
+
+.raw-imagedf img {
+  margin: 10px;
+  width: 30%;
+}
+
 .graph {
     display: block;
     border: 1px solid #dbe2e8;
@@ -110,7 +121,10 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     cursor: pointer;
   }
 
-  .jpnotebook {
+.graphimage img {
+  width: 100%;
+}
+.jpnotebook {
     display: block;
     border: 1px solid #dbe2e8;
     background: #fff;
@@ -119,7 +133,7 @@ h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6 {
     padding-top: 6px;
     margin-bottom: 0.6em;
     width: 80%;
-    height: 30px;
+    height: auto;
     box-shadow: 0 0.3125em 1.25em 0 rgba(46,61,73,0.12);
     cursor: pointer;
   }
