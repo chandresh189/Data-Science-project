@@ -62,28 +62,20 @@
               <p><i>Votes</i>: Contains total number of votes for the restaurant</p>
               <a href="https://github.com/chandresh189/Data-Science-project">Dataset can be downloaded from the Repository</a>
               <p></p>
-              <!-- <ul>
-                <li class="list">
-                  The Dataset given to us contains 11 Columns.
-                </li>
-                <li class="list">
-
-                </li>
-                <li class="list">
-                  A Technical Supervisor: Also a secondary audience, this person reads the body and the Appendix of your report.  This person is looking to see to see how legitimate your technical methods are.
-                </li>
-            </ul> -->
             </div>
 
             <section class="BLock-2">
-              <!-- <div class="sub-heading">
-                <h3>Data Format</h3>
-              </div>
-              <p>The Data of the Cities of different States were there. Data from 82 cities Each city file contains 20-30 Sub-folders</p> -->
               <div class="sub-heading">
                 <h3>Data Integration</h3>
                 <!-- <img src="images/talend.png"></img> -->
-                <p>This step involves integration of all the files containing data for each city into a single file/ data frame. For this, Python’s Pandas, NumPy and Glob libraries have been used.</p>
+                <p>This step involves integration of all the files containing data for each city into a single file/ data frame. For this, Python’s Pandas, NumPy and Glob libraries have been used.
+                  <ul>
+                    <li>Importing the data as DataFrame</li>
+                    <li>Give the path of Folders Containing CSV Files</li>
+                    <li>Run the Script to INtegrate all files inside a folder</li>
+                    <li>Export the new CSV File</li>
+                  </ul>
+                </p>
               </div>
               <div id="graph" class="jpnotebook"><p><span style="color:green">import</span> pandas <span style="color:green">as</span> pd</p>
                 <p><span style="color:green">import</span> numpy <span style="color:green">as</span> np</p>
@@ -102,14 +94,6 @@
               <p style="margin-left:2.5em">["NAME","PRICE","CUSINE_CATEGORY","CITY","REGION","URL","PAGE NO","CUSINE TYPE"</p>
               <p style="margin-left:2.5em">,"TIMING","RATING_TYPE","RATING","VOTES"])</p></div>
               <div id="graph2" class="jpnotebook"><p>df1.drop(columns <span style="color:purple">=</span> [<span style="color:red">PAGE NO","URL","TIMING"</span>],axis<span style="color:purple">=</span>1,inplace<span style="color:purple">=</span>True)</p></div>
-              <div id="graph2" class="jpnotebook"><p>df_final<span style="color:purple">=</span>(df1.set_index(df1.columns.drop(<span style="color:red">'CUSINE_CATEGORY'</span>,1).tolist())</P>
-                    <P style="margin-left:2.5em">  .CUSINE_CATEGORY.str.split(',', expand<span style="color:purple">=</span>True)</P>
-                    <P style="margin-left:2.5em">  .stack()</P>
-                    <P style="margin-left:2.5em">  .reset_index()</P>
-                    <P style="margin-left:2.5em">  .rename(columns<span style="color:purple">=</span>{0:<span style="color:red">'CUSINE_CATEGORY'</span>})</P>
-                    <P style="margin-left:2.5em">  .loc[:, df1.columns]</P>
-                    <P style="margin-left:2.5em">)</P>
-                </div>
                 <div id="graph2" class="jpnotebook"><p>df_final.to_csv(<span style="color:red">r"C:/Users/DeLL/Desktop/final_cities/Agra.csv</span>",encoding='utf-8', index<span style="color:purple">=</span>False)</p></div>
 
               <!-- <p>Write about how we Integrated the data</p> -->
@@ -152,6 +136,14 @@
             <div class="raw-imagedf">
               <img src="images/dftypes.png"></img>
             </div>
+            <div id="graph2" class="jpnotebook"><p>df_final<span style="color:purple">=</span>(df1.set_index(df1.columns.drop(<span style="color:red">'CUSINE_CATEGORY'</span>,1).tolist())</P>
+                  <P style="margin-left:2.5em">  .CUSINE_CATEGORY.str.split(',', expand<span style="color:purple">=</span>True)</P>
+                  <P style="margin-left:2.5em">  .stack()</P>
+                  <P style="margin-left:2.5em">  .reset_index()</P>
+                  <P style="margin-left:2.5em">  .rename(columns<span style="color:purple">=</span>{0:<span style="color:red">'CUSINE_CATEGORY'</span>})</P>
+                  <P style="margin-left:2.5em">  .loc[:, df1.columns]</P>
+                  <P style="margin-left:2.5em">)</P>
+              </div>
             <div id="graph2" class="jpnotebook"><p>missing_values <span style="color:purple">=</span> [<span style="color:red">"none","NEW","Not rated","None"</span>,np.nan])</p>
               <p>df <span style="color:purple">=</span> pd.read_csv(<span style="color:red">r"C:\....\InputFile.csv"</span> , na_values <span style="color:purple">=</span> missing_values)</p>
               <p>df.isnull().sum()</p>
@@ -172,34 +164,91 @@
             <div id="graph2" class="graphimage">
               <img src="images/cleaned.png"></img>
             </div>
-            <div id="secion1" class="section"><p>A data science report is a type of professional writing used for reporting and explaining your data analysis project. These reports are used in the industry to communicate your findings and to assess the legitimacy of your process. For this reason, it is essential to present your work according to industry standards with the utmost attention to detail and professional presentation. Below we’ll talk about a few steps to keep in mind while walking through the process of creating a professional-level data analysis report.</p></div>
-            <div id="graph2" class="graphimage">
-              <img src="images/graph1.png"</img>
-            </div>
-            <div id="secion3" class="section"<p>hello world write about the business case here</p></div>
-            <div id="graph2" class="graphimage">
-              <img src="images/graph2.png"</img>
+
+<!-- Buisness Cases -->
+            <div id="secion1" class="section">
+              <h3>Data Visualization</h3>
+              <h5>Business Case-1: Number of Restaurants in a Region of a City</h5>
             </div>
             <div id="graph2" class="graphimage">
-              <img src="images/graph3.png"</img>
+              <img src="images/case-1.png"</img>
+            </div>
+            <div id="secion3" class="section">
+              <p>Data is represented showing Number of restaurants in a particular Region of a selected City. User can select a city of which he wishes to find the number of restaurants in the regoions of that city. The Company Zomato can figure out in which city it has minimum number of Tie ups with restaurants and after analyzing they can expand their business also by analyzing the city regions they can also find the regions where they need to put efforts. </p>
+            </div>
+
+            <div id="secion1" class="section">
+              <h5>Business Case-2: Different Cuisine Types and their Average Rating shown on Map</h5>
             </div>
             <div id="graph2" class="graphimage">
-              <img src="images/graph4.png"</img>
+              <img src="images/case-2.png"</img>
             </div>
+            <div id="secion3" class="section">
+              <p>
+                The plotting on the map shows different Cuisine Types and their Rating, The number of cuisine types available can be uselful when finding the Highest number of cuisines.
+              </p>
+            </div>
+
+            <div id="secion1" class="section">
+              <h5>Business Case-3: Search for Restaurant in particular Region of a Selected city, can also check the Rating</h5>
+            </div>
+            <div id="graph2" class="graphimage">
+              <img src="images/case-3.png"</img>
+            </div>
+            <div id="secion3" class="section">
+              <p>The Scatter plot shows the Restaurant Votes ina region of a City, User can select the city and then can compare the restaurants based on Votes, He can check the available restaurants in the particular region and then can se the votes of restaurants present in that region.  Also it becomes easy to find the best restaurants by looking at the votes a restaurant have and the number of restaurants present in a region.</p>
+            </div>
+
+            <div id="secion1" class="section">
+              <h5>Business Case-4: Check the Cuisines and their Ratings Served by a restaurant in a Region of selected City</h5>
+            </div>
+            <div id="graph2" class="graphimage">
+              <img src="images/case-4.png"</img>
+            </div>
+            <div id="secion3" class="section">
+              <p>
+                The graph prompts the user to select the city and then the region to show the plotted data. It Shows the Restaurants in a particular region of selected City, the Rating of that restaurant and the type of the Cuisine of that restaurant. This can be uselful when a user wants to find restaurant in the region and check the restaurants of particular Cuisine with the Best Rating.
+              </p>
+            </div>
+
+            <div id="secion1" class="section">
+              <h5>Business Case-5: Check the average rating of Restaurants in a Region of a City and its Average Price</h5>
+            </div>
+            <div id="graph2" class="graphimage">
+              <img src="images/case-5.png"</img>
+            </div>
+            <div id="secion3" class="section">
+              <p>
+                Visualization show the Cuisine Type vs Price and Region vs Rating graph, User can select the City first and can analyze the Cuisine types in a city and the Average price of that Cuisine this could be helpful for users visiting new cities finding the best cuisines in the city with average price of that cuisine type. Also they can find the Restaurants Rating wise, They can find the region with Rating of restaurants in that region.
+              </p>
+            </div>
+
+            <div id="secion1" class="section">
+              <h5>Business Case-6: Find Cuisine offered by Restaurants in a City</h5>
+            </div>
+            <div id="graph2" class="graphimage">
+              <img src="images/case-6.png"</img>
+            </div>
+            <div id="secion3" class="section">
+              <p>
+                The map shows cities having restaurants tie up with Zomato, On selection the city it shows The types of cuisines served in the city, also a User can find the number of restaurants serving the cuisine, On analyzing we can find the Best Cuisine in a City, Zomato can use this data to maximise the demand of that cuisine and focus more on that cuisine. Also people visiting different cities can search for Cuisines served in a city and the best Cuisine in that particular city.
+              </p>
+            </div>
+
+
+            <a href="https://us3.ca.analytics.ibm.com/bi/?perspective=dashboard&id=i708B2D7A0DAA4BC6882F71495B202F92&objRef=i708B2D7A0DAA4BC6882F71495B202F92&options%5Bcollections%5D%5BcanvasExtension%5D%5Bid%5D=com.ibm.bi.dashboard.canvasExtension&options%5Bcollections%5D%5BfeatureExtension%5D%5Bid%5D=com.ibm.bi.dashboard.core-features&options%5Bcollections%5D%5Bbuttons%5D%5Bid%5D=com.ibm.bi.dashboard.buttons&options%5Bcollections%5D%5Bwidget%5D%5Bid%5D=com.ibm.bi.dashboard.widgets&options%5Bcollections%5D%5BcontentFeatureExtension%5D%5Bid%5D=com.ibm.bi.dashboard.content-features&options%5Bcollections%5D%5BboardModel%5D%5Bid%5D=com.ibm.bi.dashboard.boardModelExtension&options%5Bcollections%5D%5BsaveServices%5D%5Bid%5D=com.ibm.bi.dashboard.saveServices&options%5Bcollections%5D%5BserviceExtension%5D%5Bid%5D=com.ibm.bi.dashboard.serviceExtension&options%5Bcollections%5D%5BlayoutExtension%5D%5Bid%5D=com.ibm.bi.dashboard.layoutExtension&options%5Bcollections%5D%5BvisualizationExtension%5D%5Bid%5D=com.ibm.bi.dashboard.visualizationExtensionCA&options%5Bcollections%5D%5BcolorSetExtensions%5D%5Bid%5D=com.ibm.bi.dashboard.colorSetExtensions&options%5Bconfig%5D%5BsmartTitle%5D=false&options%5Bconfig%5D%5BeditPropertiesLabel%5D=true&options%5Bconfig%5D%5BnavigationGroupAction%5D=true&options%5Bconfig%5D%5BenableDataQuality%5D=false&options%5Bconfig%5D%5BmemberCalculation%5D=false&options%5Bconfig%5D%5BassetTags%5D%5B%5D=dashboard&options%5Bconfig%5D%5BfilterDock%5D=true&options%5Bconfig%5D%5BshowMembers%5D=true&options%5Bconfig%5D%5BassetType%5D=exploration&options%5Bconfig%5D%5BgeoService%5D=CA&isAuthoringMode=false&boardId=i708B2D7A0DAA4BC6882F71495B202F92">  Dynamic Visualizations can be seen at IBM Cognos</a>
+            <div id="graph" class="jpnotebook-1"><p><span style="color:green">IBM ID- </span>zomato1project@gmail.com</p>
+              <p><span style="color:green">PASSWORD- </span>Zomato1234</p>
+            </div>
+
+
+<!-- Concluison -->
             <div id="graph3" class="graph"><h3>Conclusion</h3>
-              <p>From this data processing, we can get this following conclusion: There are 105624 restaurants registered on Zomato Apps based in India. Almost 18% of registered restaurants in India are located at New Delhi (19611 restaurants), 13% in Mumbai (14026 restaurants), 7% in Bengaluru (8507 restaurants). 1080 Restaurants in India having Excellent rating_type. 11695 Restaurants having Very Good as Rating Type and 336 with Poor Rating. 104 Restaurants having rating above 4.8 and 84 above 4.5. 55462 Restaurants as Quick Bites, 25388 Restaurants having Casual Dining, 5982 as Bakery, 4523 are Cafe. Price range in India Restaurants is very cheap to Expensive. Average cost for two people eat in restaurants (417 Indian Ruppees). Over than 30000 restaurants in India is not voted yet by Zomato users. India restaurants has an average-service rated by users. North Indian food, Chinese food, and Fast food is the most favorite cuisine in India. Sheesh Mahal-Virasat Heritage Restaurant in Jaipur Rajasthan and The Theatre Club & Lounge - Radisson Blu in Delhi NCR being the most Expensive with a Price of 6000 Indian Rupees. Bawarchi Restaurant being the most Rated with a rating of 41344.</p>
+              <p>From this data processing, we can get this following conclusion: There are 105624 restaurants registered on Zomato Apps based in India. Almost 18% of registered restaurants in India are located at New Delhi (19611 restaurants), 13% in Mumbai (14026 restaurants), 7% in Bengaluru (8507 restaurants). 1080 Restaurants in India having Excellent rating_type. 11695 Restaurants having Very Good as Rating Type and 336 with Poor Rating. 104 Restaurants having rating above 4.8 and 84 above 4.5. 55462 Restaurants as Quick Bites, 25388 Restaurants having Casual Dining, 5982 as Bakery, 4523 are Cafe. Price range in India Restaurants is very cheap to Expensive. Average cost for two people eat in restaurants (417 Indian Ruppees). Over than 30000 restaurants in India is not voted yet by Zomato users. India restaurants has an average-service rated by users. North Indian food, Chinese food, and Fast food is the most favorite cuisine in India. Sheesh Mahal-Virasat Heritage Restaurant in Jaipur Rajasthan and The Theatre Club & Lounge - Radisson Blu in Delhi NCR being the most Expensive with a Price of 6000 Indian Rupees. Bawarchi Restaurant in Hyderabad being the most Voted restaurant with a 41344 votes.</p>
             </div
           </div>
         </div>
       </div>
-
-
-
-
-
-
-
-
 
 
 
